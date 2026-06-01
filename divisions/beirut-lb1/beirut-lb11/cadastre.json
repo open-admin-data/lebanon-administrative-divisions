@@ -1,0 +1,704 @@
+[
+  {
+    "id": "10650",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الاشرفية",
+      "en": "Achrafieh",
+      "slug": "achrafieh-10650"
+    },
+    "code": {
+      "id": "10650",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB11",
+      "level": 2,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      },
+      {
+        "id": "LB11",
+        "level": 2,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.884",
+      "lon": "35.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10110",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين المريسه",
+      "en": "Ain el-Mreisseh",
+      "slug": "ain-el-mreisseh-10110"
+    },
+    "code": {
+      "id": "10110",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB11",
+      "level": 2,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      },
+      {
+        "id": "LB11",
+        "level": 2,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.899",
+      "lon": "35.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10350",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "باشورة",
+      "en": "Bachoura",
+      "slug": "bachoura-10350"
+    },
+    "code": {
+      "id": "10350",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB11",
+      "level": 2,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      },
+      {
+        "id": "LB11",
+        "level": 2,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.89",
+      "lon": "35.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10999",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وسط بيروت",
+      "en": "Beirut Central District",
+      "slug": "beirut-central-district-10999"
+    },
+    "code": {
+      "id": "10999",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB11",
+      "level": 2,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      },
+      {
+        "id": "LB11",
+        "level": 2,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.908",
+      "lon": "35.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10450",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مرفأ",
+      "en": "Marfaa",
+      "slug": "marfaa-10450"
+    },
+    "code": {
+      "id": "10450",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB11",
+      "level": 2,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      },
+      {
+        "id": "LB11",
+        "level": 2,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.9",
+      "lon": "35.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10310",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المزرعة",
+      "en": "Mazraa",
+      "slug": "mazraa-10310"
+    },
+    "code": {
+      "id": "10310",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB11",
+      "level": 2,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      },
+      {
+        "id": "LB11",
+        "level": 2,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.874",
+      "lon": "35.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10610",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مدور",
+      "en": "Medawar",
+      "slug": "medawar-10610"
+    },
+    "code": {
+      "id": "10610",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB11",
+      "level": 2,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      },
+      {
+        "id": "LB11",
+        "level": 2,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.902",
+      "lon": "35.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10250",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مينا الحصن",
+      "en": "Minet el-Hosn",
+      "slug": "minet-el-hosn-10250"
+    },
+    "code": {
+      "id": "10250",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB11",
+      "level": 2,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      },
+      {
+        "id": "LB11",
+        "level": 2,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.9",
+      "lon": "35.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10210",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مصيطبة",
+      "en": "Moussaytbeh",
+      "slug": "moussaytbeh-10210"
+    },
+    "code": {
+      "id": "10210",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB11",
+      "level": 2,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      },
+      {
+        "id": "LB11",
+        "level": 2,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.882",
+      "lon": "35.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10150",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راس بيروت",
+      "en": "Ras Beyrouth",
+      "slug": "ras-beyrouth-10150"
+    },
+    "code": {
+      "id": "10150",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB11",
+      "level": 2,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      },
+      {
+        "id": "LB11",
+        "level": 2,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.891",
+      "lon": "35.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10550",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رميل",
+      "en": "Remeil",
+      "slug": "remeil-10550"
+    },
+    "code": {
+      "id": "10550",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB11",
+      "level": 2,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      },
+      {
+        "id": "LB11",
+        "level": 2,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.894",
+      "lon": "35.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10510",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صيفي",
+      "en": "Saifeh",
+      "slug": "saifeh-10510"
+    },
+    "code": {
+      "id": "10510",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB11",
+      "level": 2,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      },
+      {
+        "id": "LB11",
+        "level": 2,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.893",
+      "lon": "35.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10410",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زقاق البلاط",
+      "en": "Zoukak el-Blatt",
+      "slug": "zoukak-el-blatt-10410"
+    },
+    "code": {
+      "id": "10410",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB11",
+      "level": 2,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      },
+      {
+        "id": "LB11",
+        "level": 2,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.893",
+      "lon": "35.499"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

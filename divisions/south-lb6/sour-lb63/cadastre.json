@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "62276",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عباسية",
+      "en": "Aabbassiyet Sour",
+      "slug": "aabbassiyet-sour-62276"
+    },
+    "code": {
+      "id": "62276",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.294",
+      "lon": "35.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62291",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين أبو عبدالله",
+      "en": "Aain Abou Abdallah",
+      "slug": "aain-abou-abdallah-62291"
+    },
+    "code": {
+      "id": "62291",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.324",
+      "lon": "35.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62243",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين بعل",
+      "en": "Aain Baal",
+      "slug": "aain-baal-62243"
+    },
+    "code": {
+      "id": "62243",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.239",
+      "lon": "35.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62242",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة عيا",
+      "en": "Aaiyeh",
+      "slug": "aaiyeh-62242"
+    },
+    "code": {
+      "id": "62242",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.179",
+      "lon": "35.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62316",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "علما الشعب",
+      "en": "Aalma Ech-Chaab",
+      "slug": "aalma-ech-chaab-62316"
+    },
+    "code": {
+      "id": "62316",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.107",
+      "lon": "35.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62217",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيتيت",
+      "en": "Aaytit",
+      "slug": "aaytit-62217"
+    },
+    "code": {
+      "id": "62217",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.229",
+      "lon": "35.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62294",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عزِّيه",
+      "en": "Aaziyeh",
+      "slug": "aaziyeh-62294"
+    },
+    "code": {
+      "id": "62294",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.174",
+      "lon": "35.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62319",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "أبو شاش",
+      "en": "Abou Chech",
+      "slug": "abou-chech-62319"
+    },
+    "code": {
+      "id": "62319",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.128",
+      "lon": "35.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62256",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ارزون",
+      "en": "Arzoun",
+      "slug": "arzoun-62256"
+    },
+    "code": {
+      "id": "62256",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.282",
+      "lon": "35.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62221",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بافليه",
+      "en": "Bafliyeh",
+      "slug": "bafliyeh-62221"
+    },
+    "code": {
+      "id": "62221",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.261",
+      "lon": "35.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62224",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "باريش",
+      "en": "Barich",
+      "slug": "barich-62224"
+    },
+    "code": {
+      "id": "62224",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.269",
+      "lon": "35.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62162",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "باتوليه",
+      "en": "Batoulay",
+      "slug": "batoulay-62162"
+    },
+    "code": {
+      "id": "62162",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.231",
+      "lon": "35.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62246",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بازورية",
+      "en": "Bazouriyeh",
+      "slug": "bazouriyeh-62246"
+    },
+    "code": {
+      "id": "62246",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.253",
+      "lon": "35.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62274",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بدياس",
+      "en": "Bedias",
+      "slug": "bedias-62274"
+    },
+    "code": {
+      "id": "62274",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.315",
+      "lon": "35.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62249",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بستيات",
+      "en": "Bestiyat",
+      "slug": "bestiyat-62249"
+    },
+    "code": {
+      "id": "62249",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.284",
+      "lon": "35.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62226",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "البياض صور",
+      "en": "Biyad",
+      "slug": "biyad-62226"
+    },
+    "code": {
+      "id": "62226",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.206",
+      "lon": "35.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62128",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برج الشمالي",
+      "en": "Borj Ech-Chemali",
+      "slug": "borj-ech-chemali-62128"
+    },
+    "code": {
+      "id": "62128",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.261",
+      "lon": "35.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62312",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الناقورة",
+      "en": "Borj En-Naqoura",
+      "slug": "borj-en-naqoura-62312"
+    },
+    "code": {
+      "id": "62312",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.111",
+      "lon": "35.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62283",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برج رحال",
+      "en": "Borj Rahhal",
+      "slug": "borj-rahhal-62283"
+    },
+    "code": {
+      "id": "62283",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.312",
+      "lon": "35.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62321",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بستان صور",
+      "en": "Boustane",
+      "slug": "boustane-62321"
+    },
+    "code": {
+      "id": "62321",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.101",
+      "lon": "35.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62331",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بطيشية",
+      "en": "Btaychiyeh",
+      "slug": "btaychiyeh-62331"
+    },
+    "code": {
+      "id": "62331",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.11",
+      "lon": "35.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62277",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شعيتية",
+      "en": "Chaaitiyeh",
+      "slug": "chaaitiyeh-62277"
+    },
+    "code": {
+      "id": "62277",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.2",
+      "lon": "35.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62298",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شمع",
+      "en": "Chamaa",
+      "slug": "chamaa-62298"
+    },
+    "code": {
+      "id": "62298",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.146",
+      "lon": "35.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62254",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شهابية",
+      "en": "Chehabiyeh",
+      "slug": "chehabiyeh-62254"
+    },
+    "code": {
+      "id": "62254",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.24",
+      "lon": "35.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62264",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شحور",
+      "en": "Chehour",
+      "slug": "chehour-62264"
+    },
+    "code": {
+      "id": "62264",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.298",
+      "lon": "35.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62285",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شيحين",
+      "en": "Chihine",
+      "slug": "chihine-62285"
+    },
+    "code": {
+      "id": "62285",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.129",
+      "lon": "35.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62212",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دبعل",
+      "en": "Debaal Sour",
+      "slug": "debaal-sour-62212"
+    },
+    "code": {
+      "id": "62212",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.252",
+      "lon": "35.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62223",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ديرعامص",
+      "en": "Deir Aames",
+      "slug": "deir-aames-62223"
+    },
+    "code": {
+      "id": "62223",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.194",
+      "lon": "35.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير كيفا",
+      "en": "Deir Kifa",
+      "slug": "deir-kifa-62251"
+    },
+    "code": {
+      "id": "62251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.254",
+      "lon": "35.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62179",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير قانون",
+      "en": "Deir Qanoun El-Aain",
+      "slug": "deir-qanoun-el-aain-62179"
+    },
+    "code": {
+      "id": "62179",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.214",
+      "lon": "35.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62263",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير قانون النهر",
+      "en": "Deir Qanoun En-Nahr",
+      "slug": "deir-qanoun-en-nahr-62263"
+    },
+    "code": {
+      "id": "62263",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.303",
+      "lon": "35.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62239",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دردغايا",
+      "en": "Derdaghaiya",
+      "slug": "derdaghaiya-62239"
+    },
+    "code": {
+      "id": "62239",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.28",
+      "lon": "35.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62341",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ظهيرة",
+      "en": "Dhayra",
+      "slug": "dhayra-62341"
+    },
+    "code": {
+      "id": "62341",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.107",
+      "lon": "35.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62269",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حلوسية",
+      "en": "Halloussiyeh",
+      "slug": "halloussiyeh-62269"
+    },
+    "code": {
+      "id": "62269",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.309",
+      "lon": "35.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62314",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حامول",
+      "en": "Hamoul",
+      "slug": "hamoul-62314"
+    },
+    "code": {
+      "id": "62314",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.136",
+      "lon": "35.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62247",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حناوي",
+      "en": "Hanaouay",
+      "slug": "hanaouay-62247"
+    },
+    "code": {
+      "id": "62247",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.22",
+      "lon": "35.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62293",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حنية",
+      "en": "Henniyeh",
+      "slug": "henniyeh-62293"
+    },
+    "code": {
+      "id": "62293",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.189",
+      "lon": "35.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62244",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حميري",
+      "en": "Hmairi Sour",
+      "slug": "hmairi-sour-62244"
+    },
+    "code": {
+      "id": "62244",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.296",
+      "lon": "35.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62299",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "إسكندرونة",
+      "en": "Iskandarouna Sour",
+      "slug": "iskandarouna-sour-62299"
+    },
+    "code": {
+      "id": "62299",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.154",
+      "lon": "35.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62279",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جبال البطم",
+      "en": "Jbal El-Botm",
+      "slug": "jbal-el-botm-62279"
+    },
+    "code": {
+      "id": "62279",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.168",
+      "lon": "35.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62237",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جناتا",
+      "en": "Jennata",
+      "slug": "jennata-62237"
+    },
+    "code": {
+      "id": "62237",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.287",
+      "lon": "35.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62292",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جبين",
+      "en": "Jibbayn",
+      "slug": "jibbayn-62292"
+    },
+    "code": {
+      "id": "62292",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.13",
+      "lon": "35.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62318",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ججيم",
+      "en": "Jijim",
+      "slug": "jijim-62318"
+    },
+    "code": {
+      "id": "62318",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.127",
+      "lon": "35.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جويا",
+      "en": "Jouaiya",
+      "slug": "jouaiya-62211"
+    },
+    "code": {
+      "id": "62211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.244",
+      "lon": "35.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62267",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كنيسة صور",
+      "en": "Kneisset Sour",
+      "slug": "kneisset-sour-62267"
+    },
+    "code": {
+      "id": "62267",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.205",
+      "lon": "35.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62231",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "معركة",
+      "en": "Maarakeh",
+      "slug": "maarakeh-62231"
+    },
+    "code": {
+      "id": "62231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.272",
+      "lon": "35.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62234",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "معروب",
+      "en": "Maaroub",
+      "slug": "maaroub-62234"
+    },
+    "code": {
+      "id": "62234",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.284",
+      "lon": "35.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62214",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المجادل",
+      "en": "Majdel",
+      "slug": "majdel-62214"
+    },
+    "code": {
+      "id": "62214",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.232",
+      "lon": "35.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62297",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجدل زون",
+      "en": "Majdelzoun",
+      "slug": "majdelzoun-62297"
+    },
+    "code": {
+      "id": "62297",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.155",
+      "lon": "35.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62296",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المنصوري",
+      "en": "Mansouri Sour",
+      "slug": "mansouri-sour-62296"
+    },
+    "code": {
+      "id": "62296",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.174",
+      "lon": "35.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62284",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مرنبا",
+      "en": "Marnba",
+      "slug": "marnba-62284"
+    },
+    "code": {
+      "id": "62284",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.304",
+      "lon": "35.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62351",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة الزلوطية",
+      "en": "Mazraat Ez-Zalloutiyeh",
+      "slug": "mazraat-ez-zalloutiyeh-62351"
+    },
+    "code": {
+      "id": "62351",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.11",
+      "lon": "35.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62215",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة المشرف",
+      "en": "Mazraat Mechref",
+      "slug": "mazraat-mechref-62215"
+    },
+    "code": {
+      "id": "62215",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.216",
+      "lon": "35.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62281",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طير سمحات",
+      "en": "Mazraat Tayr Semhat",
+      "slug": "mazraat-tayr-semhat-62281"
+    },
+    "code": {
+      "id": "62281",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.296",
+      "lon": "35.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مروحين",
+      "en": "Merouahine",
+      "slug": "merouahine-62311"
+    },
+    "code": {
+      "id": "62311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.116",
+      "lon": "35.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62245",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "محيليب",
+      "en": "Mheilib",
+      "slug": "mheilib-62245"
+    },
+    "code": {
+      "id": "62245",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.307",
+      "lon": "35.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62233",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نفاخية",
+      "en": "Neftakhiyeh",
+      "slug": "neftakhiyeh-62233"
+    },
+    "code": {
+      "id": "62233",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.27",
+      "lon": "35.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62257",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نيحا صور",
+      "en": "Niha Sour",
+      "slug": "niha-sour-62257"
+    },
+    "code": {
+      "id": "62257",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.274",
+      "lon": "35.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62218",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي جيلو",
+      "en": "Ouadi Jilo",
+      "slug": "ouadi-jilo-62218"
+    },
+    "code": {
+      "id": "62218",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.251",
+      "lon": "35.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62229",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قانا",
+      "en": "Qana",
+      "slug": "qana-62229"
+    },
+    "code": {
+      "id": "62229",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.206",
+      "lon": "35.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62287",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قليلة",
+      "en": "Qlaileh Sour",
+      "slug": "qlaileh-sour-62287"
+    },
+    "code": {
+      "id": "62287",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.197",
+      "lon": "35.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62236",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رشكنانيه",
+      "en": "Recheknanay",
+      "slug": "recheknanay-62236"
+    },
+    "code": {
+      "id": "62236",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.187",
+      "lon": "35.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62259",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رمادية",
+      "en": "Rmadiyeh",
+      "slug": "rmadiyeh-62259"
+    },
+    "code": {
+      "id": "62259",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.202",
+      "lon": "35.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62241",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صديقين",
+      "en": "Sadiqine",
+      "slug": "sadiqine-62241"
+    },
+    "code": {
+      "id": "62241",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.191",
+      "lon": "35.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62227",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سلعا",
+      "en": "Selaa Sour",
+      "slug": "selaa-sour-62227"
+    },
+    "code": {
+      "id": "62227",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.257",
+      "lon": "35.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صور",
+      "en": "Sour",
+      "slug": "sour-62111"
+    },
+    "code": {
+      "id": "62111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.249",
+      "lon": "35.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62266",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صريفا",
+      "en": "Srifa",
+      "slug": "srifa-62266"
+    },
+    "code": {
+      "id": "62266",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.282",
+      "lon": "35.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62253",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طير دبّه",
+      "en": "Tayr Debbeh",
+      "slug": "tayr-debbeh-62253"
+    },
+    "code": {
+      "id": "62253",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.278",
+      "lon": "35.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62271",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طير فلسيه",
+      "en": "Tayr Falsay",
+      "slug": "tayr-falsay-62271"
+    },
+    "code": {
+      "id": "62271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.312",
+      "lon": "35.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62295",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طير حرفا",
+      "en": "Tayr Harfa",
+      "slug": "tayr-harfa-62295"
+    },
+    "code": {
+      "id": "62295",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.134",
+      "lon": "35.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62273",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طويري",
+      "en": "Touayri",
+      "slug": "touayri-62273"
+    },
+    "code": {
+      "id": "62273",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.277",
+      "lon": "35.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62261",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طورا",
+      "en": "Toura",
+      "slug": "toura-62261"
+    },
+    "code": {
+      "id": "62261",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.292",
+      "lon": "35.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62219",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "يانوح صور",
+      "en": "Yanouh Sour",
+      "slug": "yanouh-sour-62219"
+    },
+    "code": {
+      "id": "62219",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.258",
+      "lon": "35.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62308",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "يارين",
+      "en": "Yarine",
+      "slug": "yarine-62308"
+    },
+    "code": {
+      "id": "62308",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.106",
+      "lon": "35.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62286",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زبقين",
+      "en": "Zebqine",
+      "slug": "zebqine-62286"
+    },
+    "code": {
+      "id": "62286",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB63",
+      "level": 2,
+      "name": {
+        "local": "صور",
+        "en": "Sour",
+        "slug": "sour-lb63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB63",
+        "level": 2,
+        "name": {
+          "local": "صور",
+          "en": "Sour",
+          "slug": "sour-lb63"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.158",
+      "lon": "35.263"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

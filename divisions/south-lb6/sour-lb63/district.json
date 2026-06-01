@@ -1,0 +1,47 @@
+{
+  "id": "LB63",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "صور",
+    "en": "Sour",
+    "slug": "sour-lb63"
+  },
+  "code": {
+    "id": "LB63",
+    "iso": null
+  },
+  "parent": {
+    "id": "LB6",
+    "level": 1,
+    "name": {
+      "local": "الجنوب",
+      "en": "South",
+      "slug": "south-lb6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LB6",
+      "level": 1,
+      "name": {
+        "local": "الجنوب",
+        "en": "South",
+        "slug": "south-lb6"
+      }
+    }
+  ],
+  "children_count": {
+    "cadastre": 75
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.212",
+    "lon": "35.29"
+  },
+  "metadata": {},
+  "source": {}
+}

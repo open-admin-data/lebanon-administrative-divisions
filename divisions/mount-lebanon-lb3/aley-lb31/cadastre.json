@@ -1,0 +1,4430 @@
+[
+  {
+    "id": "24375",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عبيه",
+      "en": "Aabey",
+      "slug": "aabey-24375"
+    },
+    "code": {
+      "id": "24375",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.739",
+      "lon": "35.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24259",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين عنوب",
+      "en": "Aain Aanoub",
+      "slug": "aain-aanoub-24259"
+    },
+    "code": {
+      "id": "24259",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.792",
+      "lon": "35.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24477",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين داره",
+      "en": "Aain Dara",
+      "slug": "aain-dara-24477"
+    },
+    "code": {
+      "id": "24477",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.788",
+      "lon": "35.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24219",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين درافيل",
+      "en": "Aain Drafil",
+      "slug": "aain-drafil-24219"
+    },
+    "code": {
+      "id": "24219",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.753",
+      "lon": "35.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24325",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين الجديدة",
+      "en": "Aain Ej-Jdideh Aaley",
+      "slug": "aain-ej-jdideh-aaley-24325"
+    },
+    "code": {
+      "id": "24325",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.807",
+      "lon": "35.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24431",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين الحلزون",
+      "en": "Aain El Halazoun",
+      "slug": "aain-el-halazoun-24431"
+    },
+    "code": {
+      "id": "24431",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.771",
+      "lon": "35.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24317",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين الرمانة",
+      "en": "Aain Er-Roummaneh Aaley",
+      "slug": "aain-er-roummaneh-aaley-24317"
+    },
+    "code": {
+      "id": "24317",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.804",
+      "lon": "35.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24371",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين كسور",
+      "en": "Aain Ksour",
+      "slug": "aain-ksour-24371"
+    },
+    "code": {
+      "id": "24371",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.747",
+      "lon": "35.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24361",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين تراز",
+      "en": "Aain Traz",
+      "slug": "aain-traz-24361"
+    },
+    "code": {
+      "id": "24361",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.735",
+      "lon": "35.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عاليه",
+      "en": "Aaley",
+      "slug": "aaley-24311"
+    },
+    "code": {
+      "id": "24311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.808",
+      "lon": "35.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24365",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "البساتين",
+      "en": "Aaley Bsatine",
+      "slug": "aaley-bsatine-24365"
+    },
+    "code": {
+      "id": "24365",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.754",
+      "lon": "35.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عرمون",
+      "en": "Aaramoun Aaley",
+      "slug": "aaramoun-aaley-24211"
+    },
+    "code": {
+      "id": "24211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.766",
+      "lon": "35.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24351",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيناب",
+      "en": "Aaynab",
+      "slug": "aaynab-24351"
+    },
+    "code": {
+      "id": "24351",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.765",
+      "lon": "35.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24329",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيتات",
+      "en": "Aaytat",
+      "slug": "aaytat-24329"
+    },
+    "code": {
+      "id": "24329",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.794",
+      "lon": "35.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24454",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "العزونيه",
+      "en": "Aazouniyeh",
+      "slug": "aazouniyeh-24454"
+    },
+    "code": {
+      "id": "24454",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.782",
+      "lon": "35.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24235",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بعورته",
+      "en": "Baaouerta",
+      "slug": "baaouerta-24235"
+    },
+    "code": {
+      "id": "24235",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.741",
+      "lon": "35.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24343",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيصور",
+      "en": "Bayssour Aaley",
+      "slug": "bayssour-aaley-24343"
+    },
+    "code": {
+      "id": "24343",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.768",
+      "lon": "35.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24243",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بشامون",
+      "en": "Bchamoun",
+      "slug": "bchamoun-24243"
+    },
+    "code": {
+      "id": "24243",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.786",
+      "lon": "35.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24283",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بدادون",
+      "en": "Bdadoun",
+      "slug": "bdadoun-24283"
+    },
+    "code": {
+      "id": "24283",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.808",
+      "lon": "35.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24434",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بدغان",
+      "en": "Bedghan Oua Ouadi Bedghan",
+      "slug": "bedghan-oua-ouadi-bedghan-24434"
+    },
+    "code": {
+      "id": "24434",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.765",
+      "lon": "35.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24327",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بحوارا",
+      "en": "Behouara",
+      "slug": "behouara-24327"
+    },
+    "code": {
+      "id": "24327",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.789",
+      "lon": "35.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24414",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بحمدون الضيعة",
+      "en": "Bhamdoun Ed-Dayaa",
+      "slug": "bhamdoun-ed-dayaa-24414"
+    },
+    "code": {
+      "id": "24414",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.797",
+      "lon": "35.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24411",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بحمدون المحطة",
+      "en": "Bhamdoun El-Mhatta",
+      "slug": "bhamdoun-el-mhatta-24411"
+    },
+    "code": {
+      "id": "24411",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.806",
+      "lon": "35.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24369",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "البينه",
+      "en": "Binnay",
+      "slug": "binnay-24369"
+    },
+    "code": {
+      "id": "24369",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.734",
+      "lon": "35.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24321",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بخشتيه",
+      "en": "Bkhichtay",
+      "slug": "bkhichtay-24321"
+    },
+    "code": {
+      "id": "24321",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.799",
+      "lon": "35.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24267",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بليبل",
+      "en": "Blaybel",
+      "slug": "blaybel-24267"
+    },
+    "code": {
+      "id": "24267",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.809",
+      "lon": "35.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24484",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بمهريه",
+      "en": "Bmahray",
+      "slug": "bmahray-24484"
+    },
+    "code": {
+      "id": "24484",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.755",
+      "lon": "35.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24319",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بمكين",
+      "en": "Bmakine",
+      "slug": "bmakine-24319"
+    },
+    "code": {
+      "id": "24319",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.8",
+      "lon": "35.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24355",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بو زريده",
+      "en": "Bou Zrideh",
+      "slug": "bou-zrideh-24355"
+    },
+    "code": {
+      "id": "24355",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.744",
+      "lon": "35.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24464",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بسرين",
+      "en": "Bserrine",
+      "slug": "bserrine-24464"
+    },
+    "code": {
+      "id": "24464",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.757",
+      "lon": "35.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24291",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بسوس",
+      "en": "Bsous",
+      "slug": "bsous-24291"
+    },
+    "code": {
+      "id": "24291",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.814",
+      "lon": "35.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24421",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بطلون",
+      "en": "Btalloun",
+      "slug": "btalloun-24421"
+    },
+    "code": {
+      "id": "24421",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.791",
+      "lon": "35.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24447",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بتاتر",
+      "en": "Btater",
+      "slug": "btater-24447"
+    },
+    "code": {
+      "id": "24447",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.767",
+      "lon": "35.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24417",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شانيه",
+      "en": "Chanay",
+      "slug": "chanay-24417"
+    },
+    "code": {
+      "id": "24417",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.788",
+      "lon": "35.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24444",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شارون",
+      "en": "Charoun",
+      "slug": "charoun-24444"
+    },
+    "code": {
+      "id": "24444",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.777",
+      "lon": "35.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24353",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شرتون",
+      "en": "Chartoun",
+      "slug": "chartoun-24353"
+    },
+    "code": {
+      "id": "24353",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.755",
+      "lon": "35.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24339",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شملان",
+      "en": "Chimlane",
+      "slug": "chimlane-24339"
+    },
+    "code": {
+      "id": "24339",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.78",
+      "lon": "35.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عمروسية الشويفات",
+      "en": "Choueifat El-Aamrousiyeh",
+      "slug": "choueifat-el-aamrousiyeh-24111"
+    },
+    "code": {
+      "id": "24111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.815",
+      "lon": "35.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24155",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الشويفات الامراء",
+      "en": "Choueifat El-Oumara",
+      "slug": "choueifat-el-oumara-24155"
+    },
+    "code": {
+      "id": "24155",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.812",
+      "lon": "35.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24133",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قبة الشويفات",
+      "en": "Choueifat El-Quoubbeh",
+      "slug": "choueifat-el-quoubbeh-24133"
+    },
+    "code": {
+      "id": "24133",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.786",
+      "lon": "35.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دقون",
+      "en": "Daqqoun",
+      "slug": "daqqoun-24251"
+    },
+    "code": {
+      "id": "24251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.727",
+      "lon": "35.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24177",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير قوبل",
+      "en": "Deir Qoubel",
+      "slug": "deir-qoubel-24177"
+    },
+    "code": {
+      "id": "24177",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.795",
+      "lon": "35.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24357",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دفون",
+      "en": "Dfoun",
+      "slug": "dfoun-24357"
+    },
+    "code": {
+      "id": "24357",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.75",
+      "lon": "35.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24345",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دوير الرمان",
+      "en": "Douair Er-Remmaneh",
+      "slug": "douair-er-remmaneh-24345"
+    },
+    "code": {
+      "id": "24345",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.755",
+      "lon": "35.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24323",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الغابون",
+      "en": "Ghaboune",
+      "slug": "ghaboune-24323"
+    },
+    "code": {
+      "id": "24323",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.782",
+      "lon": "35.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24461",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حبرمون",
+      "en": "Habramoun",
+      "slug": "habramoun-24461"
+    },
+    "code": {
+      "id": "24461",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.757",
+      "lon": "35.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24437",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حمص وحمى",
+      "en": "Homs Oua Hama",
+      "slug": "homs-oua-hama-24437"
+    },
+    "code": {
+      "id": "24437",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.769",
+      "lon": "35.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24275",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حومال",
+      "en": "Houmal",
+      "slug": "houmal-24275"
+    },
+    "code": {
+      "id": "24275",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.81",
+      "lon": "35.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24451",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "اغميد",
+      "en": "Ighmid",
+      "slug": "ighmid-24451"
+    },
+    "code": {
+      "id": "24451",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.759",
+      "lon": "35.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24373",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جسر القاضي",
+      "en": "Jisr El Qadi",
+      "slug": "jisr-el-qadi-24373"
+    },
+    "code": {
+      "id": "24373",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.727",
+      "lon": "35.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24313",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الكحاله",
+      "en": "Kahhaleh",
+      "slug": "kahhaleh-24313"
+    },
+    "code": {
+      "id": "24313",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.821",
+      "lon": "35.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24337",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كيفون",
+      "en": "Keyfoun",
+      "slug": "keyfoun-24337"
+    },
+    "code": {
+      "id": "24337",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.779",
+      "lon": "35.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24341",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرعميه",
+      "en": "Kfar Aamay",
+      "slug": "kfar-aamay-24341"
+    },
+    "code": {
+      "id": "24341",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.77",
+      "lon": "35.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24377",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرمتى",
+      "en": "Kfar Matta",
+      "slug": "kfar-matta-24377"
+    },
+    "code": {
+      "id": "24377",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.717",
+      "lon": "35.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-24001"
+    },
+    "code": {
+      "id": "24001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.769",
+      "lon": "35.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24002",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-24002"
+    },
+    "code": {
+      "id": "24002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.762",
+      "lon": "35.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24003",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-24003"
+    },
+    "code": {
+      "id": "24003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.758",
+      "lon": "35.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24004",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-24004"
+    },
+    "code": {
+      "id": "24004",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.753",
+      "lon": "35.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24005",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-24005"
+    },
+    "code": {
+      "id": "24005",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.751",
+      "lon": "35.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24006",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-24006"
+    },
+    "code": {
+      "id": "24006",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.75",
+      "lon": "35.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24007",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-24007"
+    },
+    "code": {
+      "id": "24007",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.743",
+      "lon": "35.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24008",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-24008"
+    },
+    "code": {
+      "id": "24008",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.744",
+      "lon": "35.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24009",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-24009"
+    },
+    "code": {
+      "id": "24009",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.722",
+      "lon": "35.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24471",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "معصريتي",
+      "en": "Maasrati",
+      "slug": "maasrati-24471"
+    },
+    "code": {
+      "id": "24471",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.749",
+      "lon": "35.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24424",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجدل بعنا",
+      "en": "Majdel Baana",
+      "slug": "majdel-baana-24424"
+    },
+    "code": {
+      "id": "24424",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.784",
+      "lon": "35.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24441",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "منصورية بحمدون",
+      "en": "Mansouriyet Bhamdoun",
+      "slug": "mansouriyet-bhamdoun-24441"
+    },
+    "code": {
+      "id": "24441",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.778",
+      "lon": "35.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24474",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة النهر",
+      "en": "Mazraat En-Nahr Aaley",
+      "slug": "mazraat-en-nahr-aaley-24474"
+    },
+    "code": {
+      "id": "24474",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.752",
+      "lon": "35.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24443",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشاقتي",
+      "en": "Mchekhti",
+      "slug": "mchekhti-24443"
+    },
+    "code": {
+      "id": "24443",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.758",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24457",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشرفه",
+      "en": "Mcherfeh",
+      "slug": "mcherfeh-24457"
+    },
+    "code": {
+      "id": "24457",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.761",
+      "lon": "35.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24349",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجدليا",
+      "en": "Mejdlaiya",
+      "slug": "mejdlaiya-24349"
+    },
+    "code": {
+      "id": "24349",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.759",
+      "lon": "35.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24481",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مريجات عاليه",
+      "en": "Mrayjat Aaley",
+      "slug": "mrayjat-aaley-24481"
+    },
+    "code": {
+      "id": "24481",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.744",
+      "lon": "35.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24315",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قماطية",
+      "en": "Qmatiyeh",
+      "slug": "qmatiyeh-24315"
+    },
+    "code": {
+      "id": "24315",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.802",
+      "lon": "35.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24467",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رملية",
+      "en": "Ramlieh",
+      "slug": "ramlieh-24467"
+    },
+    "code": {
+      "id": "24467",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.746",
+      "lon": "35.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24359",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رشميا",
+      "en": "Richmaiya",
+      "slug": "richmaiya-24359"
+    },
+    "code": {
+      "id": "24359",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.739",
+      "lon": "35.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24335",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رجمة",
+      "en": "Rijmeh",
+      "slug": "rijmeh-24335"
+    },
+    "code": {
+      "id": "24335",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.789",
+      "lon": "35.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24367",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رمحالا",
+      "en": "Rimhala",
+      "slug": "rimhala-24367"
+    },
+    "code": {
+      "id": "24367",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.745",
+      "lon": "35.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24347",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رويسة النعمان",
+      "en": "Rouayssat En-Naamane",
+      "slug": "rouayssat-en-naamane-24347"
+    },
+    "code": {
+      "id": "24347",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.754",
+      "lon": "35.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24427",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صوفر",
+      "en": "Saoufar",
+      "slug": "saoufar-24427"
+    },
+    "code": {
+      "id": "24427",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.802",
+      "lon": "35.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24363",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سلفايا",
+      "en": "Selfaya",
+      "slug": "selfaya-24363"
+    },
+    "code": {
+      "id": "24363",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.734",
+      "lon": "35.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24227",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سرحمول",
+      "en": "Sirhmoul",
+      "slug": "sirhmoul-24227"
+    },
+    "code": {
+      "id": "24227",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.767",
+      "lon": "35.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24331",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سوق الغرب",
+      "en": "Souq El-Gharb",
+      "slug": "souq-el-gharb-24331"
+    },
+    "code": {
+      "id": "24331",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.79",
+      "lon": "35.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24333",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تعزانية",
+      "en": "Taazaniyeh",
+      "slug": "taazaniyeh-24333"
+    },
+    "code": {
+      "id": "24333",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB31",
+      "level": 2,
+      "name": {
+        "local": "عاليه",
+        "en": "Aley",
+        "slug": "aley-lb31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB31",
+        "level": 2,
+        "name": {
+          "local": "عاليه",
+          "en": "Aley",
+          "slug": "aley-lb31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.785",
+      "lon": "35.622"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1224 @@
+[
+  {
+    "id": "LB11",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "بيروت",
+      "en": "Beirut",
+      "slug": "beirut-lb11"
+    },
+    "code": {
+      "id": "LB11",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB1",
+      "level": 1,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.889",
+      "lon": "35.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB21",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "بعلبك",
+      "en": "Baalbek",
+      "slug": "baalbek-lb21"
+    },
+    "code": {
+      "id": "LB21",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB8",
+      "level": 1,
+      "name": {
+        "local": "بعلبك - الهرمل",
+        "en": "Baalbek-El Hermel",
+        "slug": "baalbek-el-hermel-lb8"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 89
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.131",
+      "lon": "36.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB22",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الهرمل",
+      "en": "El Hermel",
+      "slug": "el-hermel-lb22"
+    },
+    "code": {
+      "id": "LB22",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB8",
+      "level": 1,
+      "name": {
+        "local": "بعلبك - الهرمل",
+        "en": "Baalbek-El Hermel",
+        "slug": "baalbek-el-hermel-lb8"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.391",
+      "lon": "36.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB23",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "راشيا",
+      "en": "Rachaya",
+      "slug": "rachaya-lb23"
+    },
+    "code": {
+      "id": "LB23",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB2",
+      "level": 1,
+      "name": {
+        "local": "البقاع",
+        "en": "Bekaa",
+        "slug": "bekaa-lb2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.518",
+      "lon": "35.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB24",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "البقاع الغربي",
+      "en": "West Bekaa",
+      "slug": "west-bekaa-lb24"
+    },
+    "code": {
+      "id": "LB24",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB2",
+      "level": 1,
+      "name": {
+        "local": "البقاع",
+        "en": "Bekaa",
+        "slug": "bekaa-lb2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.599",
+      "lon": "35.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB25",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "زحلة",
+      "en": "Zahle",
+      "slug": "zahle-lb25"
+    },
+    "code": {
+      "id": "LB25",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB2",
+      "level": 1,
+      "name": {
+        "local": "البقاع",
+        "en": "Bekaa",
+        "slug": "bekaa-lb2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 62
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.805",
+      "lon": "35.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB31",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "عاليه",
+      "en": "Aley",
+      "slug": "aley-lb31"
+    },
+    "code": {
+      "id": "LB31",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 82
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.766",
+      "lon": "35.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB32",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "بعبدا",
+      "en": "Baabda",
+      "slug": "baabda-lb32"
+    },
+    "code": {
+      "id": "LB32",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 57
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.841",
+      "lon": "35.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB33",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشوف",
+      "en": "Chouf",
+      "slug": "chouf-lb33"
+    },
+    "code": {
+      "id": "LB33",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 106
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.628",
+      "lon": "35.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB34",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "جبيل",
+      "en": "Jbeil",
+      "slug": "jbeil-lb34"
+    },
+    "code": {
+      "id": "LB34",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 107
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.125",
+      "lon": "35.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB35",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "كسروان",
+      "en": "Kesrwane",
+      "slug": "kesrwane-lb35"
+    },
+    "code": {
+      "id": "LB35",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 82
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.013",
+      "lon": "35.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB36",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "المتن",
+      "en": "El Meten",
+      "slug": "el-meten-lb36"
+    },
+    "code": {
+      "id": "LB36",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 102
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.91",
+      "lon": "35.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB41",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "بنت جبيل",
+      "en": "Bent Jbeil",
+      "slug": "bent-jbeil-lb41"
+    },
+    "code": {
+      "id": "LB41",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB4",
+      "level": 1,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.183",
+      "lon": "35.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB42",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "حاصبيا",
+      "en": "Hasbaya",
+      "slug": "hasbaya-lb42"
+    },
+    "code": {
+      "id": "LB42",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB4",
+      "level": 1,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.361",
+      "lon": "35.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB43",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "مرجعيون",
+      "en": "Marjaayoun",
+      "slug": "marjaayoun-lb43"
+    },
+    "code": {
+      "id": "LB43",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB4",
+      "level": 1,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.259",
+      "lon": "35.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB44",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "النبطية",
+      "en": "El Nabatieh",
+      "slug": "el-nabatieh-lb44"
+    },
+    "code": {
+      "id": "LB44",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB4",
+      "level": 1,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.403",
+      "lon": "35.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB51",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "عكار",
+      "en": "Akkar",
+      "slug": "akkar-lb51"
+    },
+    "code": {
+      "id": "LB51",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB7",
+      "level": 1,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 168
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.552",
+      "lon": "36.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB52",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "البترون",
+      "en": "El Batroun",
+      "slug": "el-batroun-lb52"
+    },
+    "code": {
+      "id": "LB52",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB5",
+      "level": 1,
+      "name": {
+        "local": "الشمال",
+        "en": "North",
+        "slug": "north-lb5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 75
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.235",
+      "lon": "35.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB53",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "بشري",
+      "en": "Bcharre",
+      "slug": "bcharre-lb53"
+    },
+    "code": {
+      "id": "LB53",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB5",
+      "level": 1,
+      "name": {
+        "local": "الشمال",
+        "en": "North",
+        "slug": "north-lb5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.242",
+      "lon": "35.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB54",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الكورة",
+      "en": "El Koura",
+      "slug": "el-koura-lb54"
+    },
+    "code": {
+      "id": "LB54",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB5",
+      "level": 1,
+      "name": {
+        "local": "الشمال",
+        "en": "North",
+        "slug": "north-lb5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.332",
+      "lon": "35.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB55",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "المنية الضنية",
+      "en": "El Minieh-Dennie",
+      "slug": "el-minieh-dennie-lb55"
+    },
+    "code": {
+      "id": "LB55",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB5",
+      "level": 1,
+      "name": {
+        "local": "الشمال",
+        "en": "North",
+        "slug": "north-lb5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 62
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.393",
+      "lon": "36.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB56",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "طرابلس",
+      "en": "Tripoli",
+      "slug": "tripoli-lb56"
+    },
+    "code": {
+      "id": "LB56",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB5",
+      "level": 1,
+      "name": {
+        "local": "الشمال",
+        "en": "North",
+        "slug": "north-lb5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.424",
+      "lon": "35.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB57",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "زغرتا",
+      "en": "Zgharta",
+      "slug": "zgharta-lb57"
+    },
+    "code": {
+      "id": "LB57",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB5",
+      "level": 1,
+      "name": {
+        "local": "الشمال",
+        "en": "North",
+        "slug": "north-lb5"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.361",
+      "lon": "35.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB61",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "صيدا",
+      "en": "Saida",
+      "slug": "saida-lb61"
+    },
+    "code": {
+      "id": "LB61",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB6",
+      "level": 1,
+      "name": {
+        "local": "الجنوب",
+        "en": "South",
+        "slug": "south-lb6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 77
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.454",
+      "lon": "35.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB62",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "جزين",
+      "en": "Jezzine",
+      "slug": "jezzine-lb62"
+    },
+    "code": {
+      "id": "LB62",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB6",
+      "level": 1,
+      "name": {
+        "local": "الجنوب",
+        "en": "South",
+        "slug": "south-lb6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 79
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.474",
+      "lon": "35.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB63",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "صور",
+      "en": "Sour",
+      "slug": "sour-lb63"
+    },
+    "code": {
+      "id": "LB63",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB6",
+      "level": 1,
+      "name": {
+        "local": "الجنوب",
+        "en": "South",
+        "slug": "south-lb6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 75
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.212",
+      "lon": "35.29"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

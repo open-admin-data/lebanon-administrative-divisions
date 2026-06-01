@@ -1,0 +1,596 @@
+[
+  {
+    "id": "54127",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شربين",
+      "en": "Charbine El-Hermel",
+      "slug": "charbine-el-hermel-54127"
+    },
+    "code": {
+      "id": "54127",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB22",
+      "level": 2,
+      "name": {
+        "local": "الهرمل",
+        "en": "El Hermel",
+        "slug": "el-hermel-lb22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB22",
+        "level": 2,
+        "name": {
+          "local": "الهرمل",
+          "en": "El Hermel",
+          "slug": "el-hermel-lb22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.458",
+      "lon": "36.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "54111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "هرمل",
+      "en": "Hermel",
+      "slug": "hermel-54111"
+    },
+    "code": {
+      "id": "54111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB22",
+      "level": 2,
+      "name": {
+        "local": "الهرمل",
+        "en": "El Hermel",
+        "slug": "el-hermel-lb22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB22",
+        "level": 2,
+        "name": {
+          "local": "الهرمل",
+          "en": "El Hermel",
+          "slug": "el-hermel-lb22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.416",
+      "lon": "36.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "54159",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "هرمل جباب",
+      "en": "Hermel Jbab",
+      "slug": "hermel-jbab-54159"
+    },
+    "code": {
+      "id": "54159",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB22",
+      "level": 2,
+      "name": {
+        "local": "الهرمل",
+        "en": "El Hermel",
+        "slug": "el-hermel-lb22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB22",
+        "level": 2,
+        "name": {
+          "local": "الهرمل",
+          "en": "El Hermel",
+          "slug": "el-hermel-lb22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.344",
+      "lon": "36.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "54001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-54001"
+    },
+    "code": {
+      "id": "54001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB22",
+      "level": 2,
+      "name": {
+        "local": "الهرمل",
+        "en": "El Hermel",
+        "slug": "el-hermel-lb22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB22",
+        "level": 2,
+        "name": {
+          "local": "الهرمل",
+          "en": "El Hermel",
+          "slug": "el-hermel-lb22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.455",
+      "lon": "36.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "54002",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-54002"
+    },
+    "code": {
+      "id": "54002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB22",
+      "level": 2,
+      "name": {
+        "local": "الهرمل",
+        "en": "El Hermel",
+        "slug": "el-hermel-lb22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB22",
+        "level": 2,
+        "name": {
+          "local": "الهرمل",
+          "en": "El Hermel",
+          "slug": "el-hermel-lb22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.439",
+      "lon": "36.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "54167",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "معيصرة",
+      "en": "Maaysra El-Hermel",
+      "slug": "maaysra-el-hermel-54167"
+    },
+    "code": {
+      "id": "54167",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB22",
+      "level": 2,
+      "name": {
+        "local": "الهرمل",
+        "en": "El Hermel",
+        "slug": "el-hermel-lb22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB22",
+        "level": 2,
+        "name": {
+          "local": "الهرمل",
+          "en": "El Hermel",
+          "slug": "el-hermel-lb22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.272",
+      "lon": "36.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "54114",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سويدية",
+      "en": "Michaa Mrajhineh",
+      "slug": "michaa-mrajhineh-54114"
+    },
+    "code": {
+      "id": "54114",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB22",
+      "level": 2,
+      "name": {
+        "local": "الهرمل",
+        "en": "El Hermel",
+        "slug": "el-hermel-lb22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB22",
+        "level": 2,
+        "name": {
+          "local": "الهرمل",
+          "en": "El Hermel",
+          "slug": "el-hermel-lb22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.413",
+      "lon": "36.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "54151",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي فعرا",
+      "en": "Ouadi Faara",
+      "slug": "ouadi-faara-54151"
+    },
+    "code": {
+      "id": "54151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB22",
+      "level": 2,
+      "name": {
+        "local": "الهرمل",
+        "en": "El Hermel",
+        "slug": "el-hermel-lb22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB22",
+        "level": 2,
+        "name": {
+          "local": "الهرمل",
+          "en": "El Hermel",
+          "slug": "el-hermel-lb22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.28",
+      "lon": "36.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "54135",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راس بعلبك الغربي",
+      "en": "Ras Baalbek El Gharbi",
+      "slug": "ras-baalbek-el-gharbi-54135"
+    },
+    "code": {
+      "id": "54135",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB22",
+      "level": 2,
+      "name": {
+        "local": "الهرمل",
+        "en": "El Hermel",
+        "slug": "el-hermel-lb22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB22",
+        "level": 2,
+        "name": {
+          "local": "الهرمل",
+          "en": "El Hermel",
+          "slug": "el-hermel-lb22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.31",
+      "lon": "36.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "54143",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راس بعلبك وادي فعرا",
+      "en": "Ras Baalbek Ouadi Faara",
+      "slug": "ras-baalbek-ouadi-faara-54143"
+    },
+    "code": {
+      "id": "54143",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB22",
+      "level": 2,
+      "name": {
+        "local": "الهرمل",
+        "en": "El Hermel",
+        "slug": "el-hermel-lb22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB22",
+        "level": 2,
+        "name": {
+          "local": "الهرمل",
+          "en": "El Hermel",
+          "slug": "el-hermel-lb22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.299",
+      "lon": "36.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "54119",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زغرين",
+      "en": "Zighrine",
+      "slug": "zighrine-54119"
+    },
+    "code": {
+      "id": "54119",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB22",
+      "level": 2,
+      "name": {
+        "local": "الهرمل",
+        "en": "El Hermel",
+        "slug": "el-hermel-lb22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB22",
+        "level": 2,
+        "name": {
+          "local": "الهرمل",
+          "en": "El Hermel",
+          "slug": "el-hermel-lb22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.386",
+      "lon": "36.312"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

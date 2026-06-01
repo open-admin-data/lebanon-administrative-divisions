@@ -1,0 +1,47 @@
+{
+  "id": "LB32",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "بعبدا",
+    "en": "Baabda",
+    "slug": "baabda-lb32"
+  },
+  "code": {
+    "id": "LB32",
+    "iso": null
+  },
+  "parent": {
+    "id": "LB3",
+    "level": 1,
+    "name": {
+      "local": "جبل لبنان",
+      "en": "Mount Lebanon",
+      "slug": "mount-lebanon-lb3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    }
+  ],
+  "children_count": {
+    "cadastre": 57
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.841",
+    "lon": "35.7"
+  },
+  "metadata": {},
+  "source": {}
+}

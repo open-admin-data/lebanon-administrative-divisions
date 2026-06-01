@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "34217",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عبدللي",
+      "en": "AAbdelli",
+      "slug": "aabdelli-34217"
+    },
+    "code": {
+      "id": "34217",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.207",
+      "lon": "35.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34269",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عبرين",
+      "en": "Aabrine",
+      "slug": "aabrine-34269"
+    },
+    "code": {
+      "id": "34269",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.261",
+      "lon": "35.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34237",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "علالي",
+      "en": "Aalali",
+      "slug": "aalali-34237"
+    },
+    "code": {
+      "id": "34237",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.208",
+      "lon": "35.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عرطز",
+      "en": "Aartiz",
+      "slug": "aartiz-34251"
+    },
+    "code": {
+      "id": "34251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.235",
+      "lon": "35.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34263",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "اسيا",
+      "en": "Assia",
+      "slug": "assia-34263"
+    },
+    "code": {
+      "id": "34263",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.219",
+      "lon": "35.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34249",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بسبينا",
+      "en": "Basbina",
+      "slug": "basbina-34249"
+    },
+    "code": {
+      "id": "34249",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.236",
+      "lon": "35.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بترون",
+      "en": "Batroun",
+      "slug": "batroun-34111"
+    },
+    "code": {
+      "id": "34111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.257",
+      "lon": "35.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34316",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بشعلة",
+      "en": "Bcheaali",
+      "slug": "bcheaali-34316"
+    },
+    "code": {
+      "id": "34316",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.202",
+      "lon": "35.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34331",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بشتودار",
+      "en": "Bechtoudar",
+      "slug": "bechtoudar-34331"
+    },
+    "code": {
+      "id": "34331",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.228",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34321",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت شلالا",
+      "en": "Beit Chlala",
+      "slug": "beit-chlala-34321"
+    },
+    "code": {
+      "id": "34321",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.225",
+      "lon": "35.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34371",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت كسّاب",
+      "en": "Beit Kassab",
+      "slug": "beit-kassab-34371"
+    },
+    "code": {
+      "id": "34371",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.247",
+      "lon": "35.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34264",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بجدرفل",
+      "en": "Bijdarfil",
+      "slug": "bijdarfil-34264"
+    },
+    "code": {
+      "id": "34264",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.248",
+      "lon": "35.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34277",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بقسميا",
+      "en": "Boqsmaiya",
+      "slug": "boqsmaiya-34277"
+    },
+    "code": {
+      "id": "34277",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.254",
+      "lon": "35.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34366",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شاتين",
+      "en": "Chatine",
+      "slug": "chatine-34366"
+    },
+    "code": {
+      "id": "34366",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.177",
+      "lon": "35.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34221",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شبطين",
+      "en": "Chibtine",
+      "slug": "chibtine-34221"
+    },
+    "code": {
+      "id": "34221",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.212",
+      "lon": "35.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34188",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شكَا",
+      "en": "Chikka",
+      "slug": "chikka-34188"
+    },
+    "code": {
+      "id": "34188",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.324",
+      "lon": "35.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34279",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "داعل",
+      "en": "Daael",
+      "slug": "daael-34279"
+    },
+    "code": {
+      "id": "34279",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.241",
+      "lon": "35.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ضهر ابي ياغي",
+      "en": "Dahr Abi Yaghi",
+      "slug": "dahr-abi-yaghi-34211"
+    },
+    "code": {
+      "id": "34211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.189",
+      "lon": "35.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34215",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دريا",
+      "en": "Daraya El-Batroun",
+      "slug": "daraya-el-batroun-34215"
+    },
+    "code": {
+      "id": "34215",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.213",
+      "lon": "35.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34374",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ديربلا",
+      "en": "Deir Billa",
+      "slug": "deir-billa-34374"
+    },
+    "code": {
+      "id": "34374",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.253",
+      "lon": "35.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34223",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير كفيفان",
+      "en": "Deir Kfifane",
+      "slug": "deir-kfifane-34223"
+    },
+    "code": {
+      "id": "34223",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.226",
+      "lon": "35.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34326",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير مار يوحنا دوما",
+      "en": "Deir Mar Youhanna EL-Batroun",
+      "slug": "deir-mar-youhanna-el-batroun-34326"
+    },
+    "code": {
+      "id": "34326",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.219",
+      "lon": "35.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34227",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير مار يوسف جربتا",
+      "en": "Deir Mar Youssef Jrabta",
+      "slug": "deir-mar-youssef-jrabta-34227"
+    },
+    "code": {
+      "id": "34227",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.209",
+      "lon": "35.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دوما",
+      "en": "Douma",
+      "slug": "douma-34311"
+    },
+    "code": {
+      "id": "34311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.196",
+      "lon": "35.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34218",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دوق",
+      "en": "Douq",
+      "slug": "douq-34218"
+    },
+    "code": {
+      "id": "34218",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.197",
+      "lon": "35.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34259",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "إده البترون",
+      "en": "Edde El-Batroun",
+      "slug": "edde-el-batroun-34259"
+    },
+    "code": {
+      "id": "34259",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.235",
+      "lon": "35.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34244",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فتاحات",
+      "en": "Ftahat El-Batroun",
+      "slug": "ftahat-el-batroun-34244"
+    },
+    "code": {
+      "id": "34244",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.232",
+      "lon": "35.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34231",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غوما",
+      "en": "Ghouma",
+      "slug": "ghouma-34231"
+    },
+    "code": {
+      "id": "34231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.214",
+      "lon": "35.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34351",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حدتون",
+      "en": "Hadtoun",
+      "slug": "hadtoun-34351"
+    },
+    "code": {
+      "id": "34351",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.196",
+      "lon": "35.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34287",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حامات",
+      "en": "Hamat",
+      "slug": "hamat-34287"
+    },
+    "code": {
+      "id": "34287",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.293",
+      "lon": "35.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34253",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حربونا",
+      "en": "Harbouna",
+      "slug": "harbouna-34253"
+    },
+    "code": {
+      "id": "34253",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.241",
+      "lon": "35.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34361",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حردين",
+      "en": "Hardine",
+      "slug": "hardine-34361"
+    },
+    "code": {
+      "id": "34361",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.239",
+      "lon": "35.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34267",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حلتا",
+      "en": "Helta",
+      "slug": "helta-34267"
+    },
+    "code": {
+      "id": "34267",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.239",
+      "lon": "35.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34177",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "هري",
+      "en": "Heri",
+      "slug": "heri-34177"
+    },
+    "code": {
+      "id": "34177",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.309",
+      "lon": "35.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34266",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "اجدبرا",
+      "en": "Ijdabra",
+      "slug": "ijdabra-34266"
+    },
+    "code": {
+      "id": "34266",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.246",
+      "lon": "35.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34274",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جبلا",
+      "en": "Jebla",
+      "slug": "jebla-34274"
+    },
+    "code": {
+      "id": "34274",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.246",
+      "lon": "35.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34219",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جربتا",
+      "en": "Jrabta El-Batroun",
+      "slug": "jrabta-el-batroun-34219"
+    },
+    "code": {
+      "id": "34219",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.201",
+      "lon": "35.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34234",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جران",
+      "en": "Jrane El-Batroun",
+      "slug": "jrane-el-batroun-34234"
+    },
+    "code": {
+      "id": "34234",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.225",
+      "lon": "35.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34144",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر عبيدا",
+      "en": "Kfar Aabida",
+      "slug": "kfar-aabida-34144"
+    },
+    "code": {
+      "id": "34144",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.231",
+      "lon": "35.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34241",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرحتنا",
+      "en": "Kfar Hatna",
+      "slug": "kfar-hatna-34241"
+    },
+    "code": {
+      "id": "34241",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.231",
+      "lon": "35.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34271",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرحي",
+      "en": "Kfar Hay",
+      "slug": "kfar-hay-34271"
+    },
+    "code": {
+      "id": "34271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.254",
+      "lon": "35.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34336",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر حلدا",
+      "en": "Kfar Hilda",
+      "slug": "kfar-hilda-34336"
+    },
+    "code": {
+      "id": "34336",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.232",
+      "lon": "35.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34281",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر خلص",
+      "en": "Kfar Khollos",
+      "slug": "kfar-khollos-34281"
+    },
+    "code": {
+      "id": "34281",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.264",
+      "lon": "35.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34257",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر شليمان",
+      "en": "Kfarb Shlaimane",
+      "slug": "kfarb-shlaimane-34257"
+    },
+    "code": {
+      "id": "34257",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.23",
+      "lon": "35.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34233",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفيفان",
+      "en": "Kfifane",
+      "slug": "kfifane-34233"
+    },
+    "code": {
+      "id": "34233",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.233",
+      "lon": "35.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34341",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفور العربي",
+      "en": "Kfour El-Aarbi",
+      "slug": "kfour-el-aarbi-34341"
+    },
+    "code": {
+      "id": "34341",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.222",
+      "lon": "35.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34155",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كوبا",
+      "en": "Koubba",
+      "slug": "koubba-34155"
+    },
+    "code": {
+      "id": "34155",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.271",
+      "lon": "35.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34246",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كور",
+      "en": "Kour",
+      "slug": "kour-34246"
+    },
+    "code": {
+      "id": "34246",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.238",
+      "lon": "35.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-34001"
+    },
+    "code": {
+      "id": "34001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.264",
+      "lon": "35.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34002",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-34002"
+    },
+    "code": {
+      "id": "34002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.24",
+      "lon": "35.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34226",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مار ماما",
+      "en": "Mar Mama",
+      "slug": "mar-mama-34226"
+    },
+    "code": {
+      "id": "34226",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.189",
+      "lon": "35.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34214",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مسرح",
+      "en": "Masrah",
+      "slug": "masrah-34214"
+    },
+    "code": {
+      "id": "34214",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.188",
+      "lon": "35.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34236",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "محمرش",
+      "en": "Mehmarch",
+      "slug": "mehmarch-34236"
+    },
+    "code": {
+      "id": "34236",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.198",
+      "lon": "35.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34256",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مراح شديد",
+      "en": "Mrah Chdid",
+      "slug": "mrah-chdid-34256"
+    },
+    "code": {
+      "id": "34256",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.226",
+      "lon": "35.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34254",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مراح الحاج",
+      "en": "Mrah El-Hajj",
+      "slug": "mrah-el-hajj-34254"
+    },
+    "code": {
+      "id": "34254",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.21",
+      "lon": "35.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34229",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مراح الزيات",
+      "en": "Mrah Ez Ziyat",
+      "slug": "mrah-ez-ziyat-34229"
+    },
+    "code": {
+      "id": "34229",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.218",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34273",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نحلا البترون",
+      "en": "Nahleh El-Batroun",
+      "slug": "nahleh-el-batroun-34273"
+    },
+    "code": {
+      "id": "34273",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.216",
+      "lon": "35.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34376",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نيحا البترون",
+      "en": "Niha El-Batroun",
+      "slug": "niha-el-batroun-34376"
+    },
+    "code": {
+      "id": "34376",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.229",
+      "lon": "35.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34286",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وجه الحجر",
+      "en": "Ouajh El-Hajjar",
+      "slug": "ouajh-el-hajjar-34286"
+    },
+    "code": {
+      "id": "34286",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.282",
+      "lon": "35.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34381",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وطى حوب",
+      "en": "Ouata Houb",
+      "slug": "ouata-houb-34381"
+    },
+    "code": {
+      "id": "34381",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.196",
+      "lon": "35.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34283",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرنعون",
+      "en": "Qatnaaoun",
+      "slug": "qatnaaoun-34283"
+    },
+    "code": {
+      "id": "34283",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.272",
+      "lon": "35.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34247",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راشا",
+      "en": "Racha",
+      "slug": "racha-34247"
+    },
+    "code": {
+      "id": "34247",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.201",
+      "lon": "35.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34122",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راشانا",
+      "en": "Rachana",
+      "slug": "rachana-34122"
+    },
+    "code": {
+      "id": "34122",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.216",
+      "lon": "35.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34276",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راشكيدا",
+      "en": "Rachkida",
+      "slug": "rachkida-34276"
+    },
+    "code": {
+      "id": "34276",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.267",
+      "lon": "35.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34346",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الرام البترون",
+      "en": "Ram El-Batroun",
+      "slug": "ram-el-batroun-34346"
+    },
+    "code": {
+      "id": "34346",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.186",
+      "lon": "35.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34284",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راس نحاش",
+      "en": "Ras Nahhach",
+      "slug": "ras-nahhach-34284"
+    },
+    "code": {
+      "id": "34284",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.285",
+      "lon": "35.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34166",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سلعاتا",
+      "en": "Selaata",
+      "slug": "selaata-34166"
+    },
+    "code": {
+      "id": "34166",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.283",
+      "lon": "35.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34224",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صغار",
+      "en": "Sghar",
+      "slug": "sghar-34224"
+    },
+    "code": {
+      "id": "34224",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.201",
+      "lon": "35.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34239",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سمار جبيل",
+      "en": "Smar Jbayl",
+      "slug": "smar-jbayl-34239"
+    },
+    "code": {
+      "id": "34239",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.221",
+      "lon": "35.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34261",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صورات",
+      "en": "Sourat El-Batroun",
+      "slug": "sourat-el-batroun-34261"
+    },
+    "code": {
+      "id": "34261",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.24",
+      "lon": "35.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34386",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تنورين الفوقا",
+      "en": "Tannourine El-Faouqa",
+      "slug": "tannourine-el-faouqa-34386"
+    },
+    "code": {
+      "id": "34386",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.172",
+      "lon": "35.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34356",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تنورين التحتا",
+      "en": "Tannourine Et-Tahta",
+      "slug": "tannourine-et-tahta-34356"
+    },
+    "code": {
+      "id": "34356",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.205",
+      "lon": "35.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34133",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تحوم",
+      "en": "Thoum",
+      "slug": "thoum-34133"
+    },
+    "code": {
+      "id": "34133",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.215",
+      "lon": "35.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34212",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تولا",
+      "en": "Toula El-Batroun",
+      "slug": "toula-el-batroun-34212"
+    },
+    "code": {
+      "id": "34212",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.201",
+      "lon": "35.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34243",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زان",
+      "en": "Zaneh",
+      "slug": "zaneh-34243"
+    },
+    "code": {
+      "id": "34243",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB52",
+      "level": 2,
+      "name": {
+        "local": "البترون",
+        "en": "El Batroun",
+        "slug": "el-batroun-lb52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB52",
+        "level": 2,
+        "name": {
+          "local": "البترون",
+          "en": "El Batroun",
+          "slug": "el-batroun-lb52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.224",
+      "lon": "35.755"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "LB23",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "راشيا",
+    "en": "Rachaya",
+    "slug": "rachaya-lb23"
+  },
+  "code": {
+    "id": "LB23",
+    "iso": null
+  },
+  "parent": {
+    "id": "LB2",
+    "level": 1,
+    "name": {
+      "local": "البقاع",
+      "en": "Bekaa",
+      "slug": "bekaa-lb2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LB2",
+      "level": 1,
+      "name": {
+        "local": "البقاع",
+        "en": "Bekaa",
+        "slug": "bekaa-lb2"
+      }
+    }
+  ],
+  "children_count": {
+    "cadastre": 38
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.518",
+    "lon": "35.825"
+  },
+  "metadata": {},
+  "source": {}
+}

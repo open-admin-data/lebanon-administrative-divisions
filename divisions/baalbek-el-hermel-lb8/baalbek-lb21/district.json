@@ -1,0 +1,47 @@
+{
+  "id": "LB21",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "بعلبك",
+    "en": "Baalbek",
+    "slug": "baalbek-lb21"
+  },
+  "code": {
+    "id": "LB21",
+    "iso": null
+  },
+  "parent": {
+    "id": "LB8",
+    "level": 1,
+    "name": {
+      "local": "بعلبك - الهرمل",
+      "en": "Baalbek-El Hermel",
+      "slug": "baalbek-el-hermel-lb8"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LB8",
+      "level": 1,
+      "name": {
+        "local": "بعلبك - الهرمل",
+        "en": "Baalbek-El Hermel",
+        "slug": "baalbek-el-hermel-lb8"
+      }
+    }
+  ],
+  "children_count": {
+    "cadastre": 89
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.131",
+    "lon": "36.289"
+  },
+  "metadata": {},
+  "source": {}
+}

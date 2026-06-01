@@ -1,0 +1,47 @@
+{
+  "id": "LB57",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "زغرتا",
+    "en": "Zgharta",
+    "slug": "zgharta-lb57"
+  },
+  "code": {
+    "id": "LB57",
+    "iso": null
+  },
+  "parent": {
+    "id": "LB5",
+    "level": 1,
+    "name": {
+      "local": "الشمال",
+      "en": "North",
+      "slug": "north-lb5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LB5",
+      "level": 1,
+      "name": {
+        "local": "الشمال",
+        "en": "North",
+        "slug": "north-lb5"
+      }
+    }
+  ],
+  "children_count": {
+    "cadastre": 52
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.361",
+    "lon": "35.893"
+  },
+  "metadata": {},
+  "source": {}
+}

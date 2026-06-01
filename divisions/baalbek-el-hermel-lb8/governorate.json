@@ -1,0 +1,34 @@
+{
+  "id": "LB8",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "بعلبك - الهرمل",
+    "en": "Baalbek-El Hermel",
+    "slug": "baalbek-el-hermel-lb8"
+  },
+  "code": {
+    "id": "LB8",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 2,
+    "cadastre": 100
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.168",
+    "lon": "36.297"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lb/governorates/baalbek-el-hermel-lb8/",
+    "api": "https://openadmindata.org/api/lb/"
+  }
+}

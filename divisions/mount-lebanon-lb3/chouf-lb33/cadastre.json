@@ -1,0 +1,5726 @@
+[
+  {
+    "id": "23627",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين وزين",
+      "en": "Aain Ouzain",
+      "slug": "aain-ouzain-23627"
+    },
+    "code": {
+      "id": "23627",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.679",
+      "lon": "35.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23619",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين قني",
+      "en": "Aain Qania",
+      "slug": "aain-qania-23619"
+    },
+    "code": {
+      "id": "23619",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.645",
+      "lon": "35.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23469",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين زحلتا",
+      "en": "Aain Zhalta",
+      "slug": "aain-zhalta-23469"
+    },
+    "code": {
+      "id": "23469",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.737",
+      "lon": "35.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23533",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عينبال",
+      "en": "Aainbal",
+      "slug": "aainbal-23533"
+    },
+    "code": {
+      "id": "23533",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.658",
+      "lon": "35.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "علمان الشوف",
+      "en": "Aalmane Ech-Chouf",
+      "slug": "aalmane-ech-chouf-23311"
+    },
+    "code": {
+      "id": "23311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.592",
+      "lon": "35.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23639",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عمّاطور",
+      "en": "Aammatour",
+      "slug": "aammatour-23639"
+    },
+    "code": {
+      "id": "23639",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.615",
+      "lon": "35.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23427",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عميق الشوف",
+      "en": "Aammiq Ech-Chouf",
+      "slug": "aammiq-ech-chouf-23427"
+    },
+    "code": {
+      "id": "23427",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.718",
+      "lon": "35.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23239",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عانوت",
+      "en": "Aanout",
+      "slug": "aanout-23239"
+    },
+    "code": {
+      "id": "23239",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.623",
+      "lon": "35.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23544",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عترين",
+      "en": "Aathrine",
+      "slug": "aathrine-23544"
+    },
+    "code": {
+      "id": "23544",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.662",
+      "lon": "35.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23631",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بعدران",
+      "en": "Baadarane",
+      "slug": "baadarane-23631"
+    },
+    "code": {
+      "id": "23631",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.632",
+      "lon": "35.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23511",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بعقلين",
+      "en": "Baaqline",
+      "slug": "baaqline-23511"
+    },
+    "code": {
+      "id": "23511",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.668",
+      "lon": "35.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23255",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بعاصير",
+      "en": "Baassir",
+      "slug": "baassir-23255"
+    },
+    "code": {
+      "id": "23255",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.662",
+      "lon": "35.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برجا",
+      "en": "Barja",
+      "slug": "barja-23251"
+    },
+    "code": {
+      "id": "23251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.644",
+      "lon": "35.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23679",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الباروك",
+      "en": "Barouk",
+      "slug": "barouk-23679"
+    },
+    "code": {
+      "id": "23679",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.695",
+      "lon": "35.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23675",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "باتر",
+      "en": "Bater",
+      "slug": "bater-23675"
+    },
+    "code": {
+      "id": "23675",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.591",
+      "lon": "35.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23663",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بتلون",
+      "en": "Batloun",
+      "slug": "batloun-23663"
+    },
+    "code": {
+      "id": "23663",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.693",
+      "lon": "35.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23687",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيقون",
+      "en": "Bayqoun",
+      "slug": "bayqoun-23687"
+    },
+    "code": {
+      "id": "23687",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.614",
+      "lon": "35.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23423",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بشتفين",
+      "en": "Bchtfine",
+      "slug": "bchtfine-23423"
+    },
+    "code": {
+      "id": "23423",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.712",
+      "lon": "35.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23411",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت الدين",
+      "en": "Beit Ed-Dine",
+      "slug": "beit-ed-dine-23411"
+    },
+    "code": {
+      "id": "23411",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.693",
+      "lon": "35.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23263",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بنواتي",
+      "en": "Benouati Ech-Chouf",
+      "slug": "benouati-ech-chouf-23263"
+    },
+    "code": {
+      "id": "23263",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.677",
+      "lon": "35.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23451",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيرة",
+      "en": "Biret Ech-Chouf",
+      "slug": "biret-ech-chouf-23451"
+    },
+    "code": {
+      "id": "23451",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.726",
+      "lon": "35.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23253",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بكشتين",
+      "en": "Bkechtine Ouel Mcheiaa",
+      "slug": "bkechtine-ouel-mcheiaa-23253"
+    },
+    "code": {
+      "id": "23253",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.671",
+      "lon": "35.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23356",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بكيفا",
+      "en": "Bkifa Ech-Chouf",
+      "slug": "bkifa-ech-chouf-23356"
+    },
+    "code": {
+      "id": "23356",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.591",
+      "lon": "35.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23615",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بطمة",
+      "en": "Botmeh",
+      "slug": "botmeh-23615"
+    },
+    "code": {
+      "id": "23615",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.671",
+      "lon": "35.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23247",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "البرجين",
+      "en": "Bourjein",
+      "slug": "bourjein-23247"
+    },
+    "code": {
+      "id": "23247",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.652",
+      "lon": "35.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23457",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بقيعة",
+      "en": "Bqaiaa Ech-Chouf",
+      "slug": "bqaiaa-ech-chouf-23457"
+    },
+    "code": {
+      "id": "23457",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.687",
+      "lon": "35.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23459",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بريح",
+      "en": "Brih",
+      "slug": "brih-23459"
+    },
+    "code": {
+      "id": "23459",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.715",
+      "lon": "35.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23386",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بسابا",
+      "en": "Bsaba Ech-Chouf",
+      "slug": "bsaba-ech-chouf-23386"
+    },
+    "code": {
+      "id": "23386",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.603",
+      "lon": "35.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23223",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شميس",
+      "en": "Chammis Ech-Chouf",
+      "slug": "chammis-ech-chouf-23223"
+    },
+    "code": {
+      "id": "23223",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.64",
+      "lon": "35.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شحيم",
+      "en": "Chhim",
+      "slug": "chhim-23211"
+    },
+    "code": {
+      "id": "23211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.627",
+      "lon": "35.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23275",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شمعرين",
+      "en": "Chmaarine",
+      "slug": "chmaarine-23275"
+    },
+    "code": {
+      "id": "23275",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.679",
+      "lon": "35.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23453",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شوريت",
+      "en": "Chourit",
+      "slug": "chourit-23453"
+    },
+    "code": {
+      "id": "23453",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.742",
+      "lon": "35.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23279",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ضهر المغارة",
+      "en": "Dahr Ech-Chouf",
+      "slug": "dahr-ech-chouf-23279"
+    },
+    "code": {
+      "id": "23279",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.68",
+      "lon": "35.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23219",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دلهون",
+      "en": "Dalhoun",
+      "slug": "dalhoun-23219"
+    },
+    "code": {
+      "id": "23219",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.625",
+      "lon": "35.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الدامور",
+      "en": "Damour",
+      "slug": "damour-23111"
+    },
+    "code": {
+      "id": "23111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.712",
+      "lon": "35.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23227",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "داريا الشوف",
+      "en": "Daraiya Ech-Chouf",
+      "slug": "daraiya-ech-chouf-23227"
+    },
+    "code": {
+      "id": "23227",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.648",
+      "lon": "35.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23435",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير بابا",
+      "en": "Deir Baba",
+      "slug": "deir-baba-23435"
+    },
+    "code": {
+      "id": "23435",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.698",
+      "lon": "35.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23522",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير دوريت",
+      "en": "Deir Dourit",
+      "slug": "deir-dourit-23522"
+    },
+    "code": {
+      "id": "23522",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.677",
+      "lon": "35.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23346",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير المخلص الشوف",
+      "en": "Deir El-Moukhalles Ech-Chouf",
+      "slug": "deir-el-moukhalles-ech-chouf-23346"
+    },
+    "code": {
+      "id": "23346",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.584",
+      "lon": "35.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23413",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير القمر",
+      "en": "Deir El-Qamar",
+      "slug": "deir-el-qamar-23413"
+    },
+    "code": {
+      "id": "23413",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.697",
+      "lon": "35.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23429",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير كوشه",
+      "en": "Deir Koucheh",
+      "slug": "deir-koucheh-23429"
+    },
+    "code": {
+      "id": "23429",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.719",
+      "lon": "35.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23259",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دبية",
+      "en": "Dibbiyeh",
+      "slug": "dibbiyeh-23259"
+    },
+    "code": {
+      "id": "23259",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.676",
+      "lon": "35.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23447",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دميت",
+      "en": "Dmit",
+      "slug": "dmit-23447"
+    },
+    "code": {
+      "id": "23447",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.695",
+      "lon": "35.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23449",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فوارة جعفر",
+      "en": "Faouarat Jaafar",
+      "slug": "faouarat-jaafar-23449"
+    },
+    "code": {
+      "id": "23449",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.713",
+      "lon": "35.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23467",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فريديس الشوف",
+      "en": "Fraudis Ech-Chouf",
+      "slug": "fraudis-ech-chouf-23467"
+    },
+    "code": {
+      "id": "23467",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.713",
+      "lon": "35.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23438",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غابة جعفر",
+      "en": "GHabet Jaafar",
+      "slug": "ghabet-jaafar-23438"
+    },
+    "code": {
+      "id": "23438",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.693",
+      "lon": "35.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23566",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غريفة",
+      "en": "Gharifeh",
+      "slug": "gharifeh-23566"
+    },
+    "code": {
+      "id": "23566",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.631",
+      "lon": "35.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23647",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حارة جندل",
+      "en": "Haret Jandal",
+      "slug": "haret-jandal-23647"
+    },
+    "code": {
+      "id": "23647",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.621",
+      "lon": "35.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23588",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حصروت",
+      "en": "Hasrout",
+      "slug": "hasrout-23588"
+    },
+    "code": {
+      "id": "23588",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.626",
+      "lon": "35.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23271",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جدرا",
+      "en": "Jadra",
+      "slug": "jadra-23271"
+    },
+    "code": {
+      "id": "23271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.634",
+      "lon": "35.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23577",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جاهلية",
+      "en": "Jahliyeh",
+      "slug": "jahliyeh-23577"
+    },
+    "code": {
+      "id": "23577",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.662",
+      "lon": "35.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23671",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جباع",
+      "en": "Jbaa Ech-Chouf",
+      "slug": "jbaa-ech-chouf-23671"
+    },
+    "code": {
+      "id": "23671",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.604",
+      "lon": "35.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23623",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جديدة الشوف",
+      "en": "Jdeidet Ech-Chouf",
+      "slug": "jdeidet-ech-chouf-23623"
+    },
+    "code": {
+      "id": "23623",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.669",
+      "lon": "35.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23267",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جية",
+      "en": "Jiyeh",
+      "slug": "jiyeh-23267"
+    },
+    "code": {
+      "id": "23267",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.665",
+      "lon": "35.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23376",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جليلية",
+      "en": "Jleiliyeh",
+      "slug": "jleiliyeh-23376"
+    },
+    "code": {
+      "id": "23376",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.607",
+      "lon": "35.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23316",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جميلية",
+      "en": "Jmailiyeh",
+      "slug": "jmailiyeh-23316"
+    },
+    "code": {
+      "id": "23316",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.598",
+      "lon": "35.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23336",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جون",
+      "en": "Joun",
+      "slug": "joun-23336"
+    },
+    "code": {
+      "id": "23336",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.579",
+      "lon": "35.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23643",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كحلونية الشوف",
+      "en": "Kahlouniet Ech-Chouf",
+      "slug": "kahlouniet-ech-chouf-23643"
+    },
+    "code": {
+      "id": "23643",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.648",
+      "lon": "35.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23231",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كترمايا",
+      "en": "Ketermaya",
+      "slug": "ketermaya-23231"
+    },
+    "code": {
+      "id": "23231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.615",
+      "lon": "35.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23433",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرفاقود",
+      "en": "Kfar Faqoud",
+      "slug": "kfar-faqoud-23433"
+    },
+    "code": {
+      "id": "23433",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.703",
+      "lon": "35.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23415",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر حمل",
+      "en": "Kfar Hamal",
+      "slug": "kfar-hamal-23415"
+    },
+    "code": {
+      "id": "23415",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.709",
+      "lon": "35.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23454",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر حي",
+      "en": "Kfar hay",
+      "slug": "kfar-hay-23454"
+    },
+    "code": {
+      "id": "23454",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.748",
+      "lon": "35.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23439",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرحيم",
+      "en": "Kfar Him",
+      "slug": "kfar-him-23439"
+    },
+    "code": {
+      "id": "23439",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.688",
+      "lon": "35.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23655",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرنبرخ",
+      "en": "Kfar Nabrakh",
+      "slug": "kfar-nabrakh-23655"
+    },
+    "code": {
+      "id": "23655",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.698",
+      "lon": "35.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23455",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرنيس",
+      "en": "Kfar Niss",
+      "slug": "kfar-niss-23455"
+    },
+    "code": {
+      "id": "23455",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.735",
+      "lon": "35.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23419",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرقطرة",
+      "en": "Kfar Qatra",
+      "slug": "kfar-qatra-23419"
+    },
+    "code": {
+      "id": "23419",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.71",
+      "lon": "35.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23635",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خريبة الشوف",
+      "en": "Khereibet Ech-Chouf",
+      "slug": "khereibet-ech-chouf-23635"
+    },
+    "code": {
+      "id": "23635",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.645",
+      "lon": "35.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23371",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خربة بسري",
+      "en": "Khirbet Bisri",
+      "slug": "khirbet-bisri-23371"
+    },
+    "code": {
+      "id": "23371",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.584",
+      "lon": "35.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23425",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كنيسة الشوف",
+      "en": "Kneisset Ech-Chouf",
+      "slug": "kneisset-ech-chouf-23425"
+    },
+    "code": {
+      "id": "23425",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.72",
+      "lon": "35.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-23001"
+    },
+    "code": {
+      "id": "23001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.744",
+      "lon": "35.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23002",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-23002"
+    },
+    "code": {
+      "id": "23002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.73",
+      "lon": "35.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23003",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-23003"
+    },
+    "code": {
+      "id": "23003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.724",
+      "lon": "35.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23004",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-23004"
+    },
+    "code": {
+      "id": "23004",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.629",
+      "lon": "35.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23005",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-23005"
+    },
+    "code": {
+      "id": "23005",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.622",
+      "lon": "35.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23006",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-23006"
+    },
+    "code": {
+      "id": "23006",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.591",
+      "lon": "35.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23007",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-23007"
+    },
+    "code": {
+      "id": "23007",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.589",
+      "lon": "35.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23235",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "معنيه",
+      "en": "Maaniyeh",
+      "slug": "maaniyeh-23235"
+    },
+    "code": {
+      "id": "23235",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.63",
+      "lon": "35.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23421",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "معاصر بيت الدين",
+      "en": "Maasser Beit Ed-Dine",
+      "slug": "maasser-beit-ed-dine-23421"
+    },
+    "code": {
+      "id": "23421",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.697",
+      "lon": "35.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23667",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "معاصر الشوف",
+      "en": "Maasser Ech-Chouf",
+      "slug": "maasser-ech-chouf-23667"
+    },
+    "code": {
+      "id": "23667",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.661",
+      "lon": "35.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23326",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجدلونا",
+      "en": "Majdalouna",
+      "slug": "majdalouna-23326"
+    },
+    "code": {
+      "id": "23326",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.598",
+      "lon": "35.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23445",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجدل المعوش",
+      "en": "Majdel El-Meouch",
+      "slug": "majdel-el-meouch-23445"
+    },
+    "code": {
+      "id": "23445",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.726",
+      "lon": "35.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23215",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزبود",
+      "en": "Mazboud",
+      "slug": "mazboud-23215"
+    },
+    "code": {
+      "id": "23215",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.608",
+      "lon": "35.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23361",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزمورة",
+      "en": "Mazmoura",
+      "slug": "mazmoura-23361"
+    },
+    "code": {
+      "id": "23361",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.594",
+      "lon": "35.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23651",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة",
+      "en": "Mazraat Ech-Chouf",
+      "slug": "mazraat-ech-chouf-23651"
+    },
+    "code": {
+      "id": "23651",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.621",
+      "lon": "35.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23431",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة الدوير",
+      "en": "Mazraat Ed-Douair",
+      "slug": "mazraat-ed-douair-23431"
+    },
+    "code": {
+      "id": "23431",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.706",
+      "lon": "35.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23366",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة الضهر",
+      "en": "Mazraat Es-Dahr",
+      "slug": "mazraat-es-dahr-23366"
+    },
+    "code": {
+      "id": "23366",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.592",
+      "lon": "35.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23171",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشرف",
+      "en": "Mechref",
+      "slug": "mechref-23171"
+    },
+    "code": {
+      "id": "23171",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.708",
+      "lon": "35.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23341",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مغيرية الشوف",
+      "en": "Mghairiyeh Ech-Chouf",
+      "slug": "mghairiyeh-ech-chouf-23341"
+    },
+    "code": {
+      "id": "23341",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.601",
+      "lon": "35.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23461",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مغيره",
+      "en": "Moughayret Ech-Chouf",
+      "slug": "moughayret-ech-chouf-23461"
+    },
+    "code": {
+      "id": "23461",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.694",
+      "lon": "35.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23611",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مختارة",
+      "en": "Moukhtara",
+      "slug": "moukhtara-23611"
+    },
+    "code": {
+      "id": "23611",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.657",
+      "lon": "35.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23659",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مرستى",
+      "en": "Mristi",
+      "slug": "mristi-23659"
+    },
+    "code": {
+      "id": "23659",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.621",
+      "lon": "35.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23365",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مطله",
+      "en": "Mtolleh",
+      "slug": "mtolleh-23365"
+    },
+    "code": {
+      "id": "23365",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.608",
+      "lon": "35.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23141",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ناعمه",
+      "en": "Naameh",
+      "slug": "naameh-23141"
+    },
+    "code": {
+      "id": "23141",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.746",
+      "lon": "35.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23625",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نيحا",
+      "en": "Niha El-Chouf",
+      "slug": "niha-el-chouf-23625"
+    },
+    "code": {
+      "id": "23625",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.547",
+      "lon": "35.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23237",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي ابو يوسف",
+      "en": "Ouadi Abou Youssef",
+      "slug": "ouadi-abou-youssef-23237"
+    },
+    "code": {
+      "id": "23237",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.678",
+      "lon": "35.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23555",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي بنحليه",
+      "en": "Ouadi bnehlay",
+      "slug": "ouadi-bnehlay-23555"
+    },
+    "code": {
+      "id": "23555",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.679",
+      "lon": "35.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23441",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي الدير",
+      "en": "Ouadi Ed-Deir",
+      "slug": "ouadi-ed-deir-23441"
+    },
+    "code": {
+      "id": "23441",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.685",
+      "lon": "35.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23443",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي الست",
+      "en": "Ouadi Es-Sitt",
+      "slug": "ouadi-es-sitt-23443"
+    },
+    "code": {
+      "id": "23443",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.715",
+      "lon": "35.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23331",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وردانيه",
+      "en": "Ouardaniyeh",
+      "slug": "ouardaniyeh-23331"
+    },
+    "code": {
+      "id": "23331",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.611",
+      "lon": "35.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23463",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ورهانية",
+      "en": "Ouarhaniyeh",
+      "slug": "ouarhaniyeh-23463"
+    },
+    "code": {
+      "id": "23463",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.718",
+      "lon": "35.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23351",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قريعة",
+      "en": "Qreiaa",
+      "slug": "qreiaa-23351"
+    },
+    "code": {
+      "id": "23351",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.597",
+      "lon": "35.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23321",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رميلة",
+      "en": "Rmeilet Ech-Chouf",
+      "slug": "rmeilet-ech-chouf-23321"
+    },
+    "code": {
+      "id": "23321",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.603",
+      "lon": "35.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23417",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سمقانية",
+      "en": "Semqaniyeh",
+      "slug": "semqaniyeh-23417"
+    },
+    "code": {
+      "id": "23417",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.676",
+      "lon": "35.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23243",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سبلين",
+      "en": "Sibline",
+      "slug": "sibline-23243"
+    },
+    "code": {
+      "id": "23243",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.625",
+      "lon": "35.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23437",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سرجبال",
+      "en": "Sirjbal",
+      "slug": "sirjbal-23437"
+    },
+    "code": {
+      "id": "23437",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.685",
+      "lon": "35.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23381",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زعرورية",
+      "en": "Zaarouriyeh",
+      "slug": "zaarouriyeh-23381"
+    },
+    "code": {
+      "id": "23381",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB33",
+      "level": 2,
+      "name": {
+        "local": "الشوف",
+        "en": "Chouf",
+        "slug": "chouf-lb33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB33",
+        "level": 2,
+        "name": {
+          "local": "الشوف",
+          "en": "Chouf",
+          "slug": "chouf-lb33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.609",
+      "lon": "35.515"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

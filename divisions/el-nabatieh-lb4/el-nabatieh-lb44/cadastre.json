@@ -1,0 +1,2810 @@
+[
+  {
+    "id": "71351",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عبا",
+      "en": "Aabba",
+      "slug": "aabba-71351"
+    },
+    "code": {
+      "id": "71351",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.357",
+      "lon": "35.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71347",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عدشيت الشقيف",
+      "en": "Aadchit Ech-Chqif",
+      "slug": "aadchit-ech-chqif-71347"
+    },
+    "code": {
+      "id": "71347",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.346",
+      "lon": "35.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71216",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة عين بوسوار",
+      "en": "Aain Bou Souar",
+      "slug": "aain-bou-souar-71216"
+    },
+    "code": {
+      "id": "71216",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.47",
+      "lon": "35.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71226",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين قانا",
+      "en": "Aain Qana",
+      "slug": "aain-qana-71226"
+    },
+    "code": {
+      "id": "71226",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.468",
+      "lon": "35.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71115",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "علي الطاهر",
+      "en": "Aali Et-Taher",
+      "slug": "aali-et-taher-71115"
+    },
+    "code": {
+      "id": "71115",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.365",
+      "lon": "35.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71256",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عرب صاليم",
+      "en": "Aarab Salim",
+      "slug": "aarab-salim-71256"
+    },
+    "code": {
+      "id": "71256",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.424",
+      "lon": "35.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71271",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عزه",
+      "en": "Aazzi",
+      "slug": "aazzi-71271"
+    },
+    "code": {
+      "id": "71271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.452",
+      "lon": "35.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71361",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "إنصار",
+      "en": "Ansar",
+      "slug": "ansar-71361"
+    },
+    "code": {
+      "id": "71361",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.379",
+      "lon": "35.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71377",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "أرنون",
+      "en": "Arnoun",
+      "slug": "arnoun-71377"
+    },
+    "code": {
+      "id": "71377",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.334",
+      "lon": "35.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71276",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفروة أو بفروة",
+      "en": "Bfaroueh",
+      "slug": "bfaroueh-71276"
+    },
+    "code": {
+      "id": "71276",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.442",
+      "lon": "35.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71387",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بريقع",
+      "en": "Braiqeaa",
+      "slug": "braiqeaa-71387"
+    },
+    "code": {
+      "id": "71387",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.341",
+      "lon": "35.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71321",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شرقية",
+      "en": "Charqiyeh",
+      "slug": "charqiyeh-71321"
+    },
+    "code": {
+      "id": "71321",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.408",
+      "lon": "35.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71144",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شوكين",
+      "en": "Choukine",
+      "slug": "choukine-71144"
+    },
+    "code": {
+      "id": "71144",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.351",
+      "lon": "35.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير الزهراني",
+      "en": "Deir Ez-Zahrani",
+      "slug": "deir-ez-zahrani-71311"
+    },
+    "code": {
+      "id": "71311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.428",
+      "lon": "35.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71334",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الدوير النبطية",
+      "en": "Douair En-Nabatiyeh",
+      "slug": "douair-en-nabatiyeh-71334"
+    },
+    "code": {
+      "id": "71334",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.383",
+      "lon": "35.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71155",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حبوش",
+      "en": "Habbouch En-Nabatiyeh",
+      "slug": "habbouch-en-nabatiyeh-71155"
+    },
+    "code": {
+      "id": "71155",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.407",
+      "lon": "35.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71371",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الحمرا النبطية",
+      "en": "Hamra En-Nabattiyeh",
+      "slug": "hamra-en-nabattiyeh-71371"
+    },
+    "code": {
+      "id": "71371",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.326",
+      "lon": "35.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71331",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حروف",
+      "en": "Harouf En-Nabatiyeh",
+      "slug": "harouf-en-nabatiyeh-71331"
+    },
+    "code": {
+      "id": "71331",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.369",
+      "lon": "35.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حميلة",
+      "en": "Hmaileh",
+      "slug": "hmaileh-71251"
+    },
+    "code": {
+      "id": "71251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.446",
+      "lon": "35.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71246",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حومين الفوقا",
+      "en": "Houmine El-Faouqa",
+      "slug": "houmine-el-faouqa-71246"
+    },
+    "code": {
+      "id": "71246",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.441",
+      "lon": "35.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71266",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حومين التحتا",
+      "en": "Houmine Et-Tahta",
+      "slug": "houmine-et-tahta-71266"
+    },
+    "code": {
+      "id": "71266",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.479",
+      "lon": "35.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71231",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جرجوع",
+      "en": "Jarjouaa",
+      "slug": "jarjouaa-71231"
+    },
+    "code": {
+      "id": "71231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.449",
+      "lon": "35.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جباع النبطية",
+      "en": "Jbaa En-Nabatiyeh",
+      "slug": "jbaa-en-nabatiyeh-71211"
+    },
+    "code": {
+      "id": "71211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.489",
+      "lon": "35.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71337",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جبشيت",
+      "en": "Jibchit",
+      "slug": "jibchit-71337"
+    },
+    "code": {
+      "id": "71337",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.361",
+      "lon": "35.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71354",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفردجال",
+      "en": "Kfar Djal En-Nabatiyeh",
+      "slug": "kfar-djal-en-nabatiyeh-71354"
+    },
+    "code": {
+      "id": "71354",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.343",
+      "lon": "35.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71133",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر رمان",
+      "en": "Kfar Roummane",
+      "slug": "kfar-roummane-71133"
+    },
+    "code": {
+      "id": "71133",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.398",
+      "lon": "35.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71391",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرصير",
+      "en": "Kfar Sir",
+      "slug": "kfar-sir-71391"
+    },
+    "code": {
+      "id": "71391",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.316",
+      "lon": "35.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71166",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر تبنيت",
+      "en": "Kfar Tibnit",
+      "slug": "kfar-tibnit-71166"
+    },
+    "code": {
+      "id": "71166",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.351",
+      "lon": "35.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71221",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرفيلا",
+      "en": "Kfarfila",
+      "slug": "kfarfila-71221"
+    },
+    "code": {
+      "id": "71221",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.481",
+      "lon": "35.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71177",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الكفور النبطية",
+      "en": "Kfour En-Nabatieh",
+      "slug": "kfour-en-nabatieh-71177"
+    },
+    "code": {
+      "id": "71177",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.404",
+      "lon": "35.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71344",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ميفدون",
+      "en": "Mayfadoun",
+      "slug": "mayfadoun-71344"
+    },
+    "code": {
+      "id": "71344",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.345",
+      "lon": "35.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71386",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة بصفُور",
+      "en": "Mazraat Bsaffour",
+      "slug": "mazraat-bsaffour-71386"
+    },
+    "code": {
+      "id": "71386",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.392",
+      "lon": "35.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71341",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة شلبعل",
+      "en": "Mazraat Chalbaal",
+      "slug": "mazraat-chalbaal-71341"
+    },
+    "code": {
+      "id": "71341",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.386",
+      "lon": "35.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71357",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة دمول",
+      "en": "Mazraat Dmoul",
+      "slug": "mazraat-dmoul-71357"
+    },
+    "code": {
+      "id": "71357",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.37",
+      "lon": "35.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71314",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة البياض",
+      "en": "Mazraat El-Bayad En-Nabatieh",
+      "slug": "mazraat-el-bayad-en-nabatieh-71314"
+    },
+    "code": {
+      "id": "71314",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.428",
+      "lon": "35.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71117",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة كفر جوز",
+      "en": "Mazraat Kfarjaouz",
+      "slug": "mazraat-kfarjaouz-71117"
+    },
+    "code": {
+      "id": "71117",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.395",
+      "lon": "35.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71384",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة قلعة ميس",
+      "en": "Mazraat Qalaat El-Meis",
+      "slug": "mazraat-qalaat-el-meis-71384"
+    },
+    "code": {
+      "id": "71384",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.358",
+      "lon": "35.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71241",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة الخريبة",
+      "en": "Mzaraat El-Khreibeh",
+      "slug": "mzaraat-el-khreibeh-71241"
+    },
+    "code": {
+      "id": "71241",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.472",
+      "lon": "35.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نبطية التحتا",
+      "en": "Nabatieh Et-Tahta",
+      "slug": "nabatieh-et-tahta-71111"
+    },
+    "code": {
+      "id": "71111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.379",
+      "lon": "35.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71113",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نبطية الفوقا",
+      "en": "Nabatiyeh El-Faouka",
+      "slug": "nabatiyeh-el-faouka-71113"
+    },
+    "code": {
+      "id": "71113",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.355",
+      "lon": "35.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71327",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نميرية",
+      "en": "Nmairiyeh",
+      "slug": "nmairiyeh-71327"
+    },
+    "code": {
+      "id": "71327",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.418",
+      "lon": "35.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71381",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قعقعية الجسر",
+      "en": "Qaaqaaiyet Ej-Jisr",
+      "slug": "qaaqaaiyet-ej-jisr-71381"
+    },
+    "code": {
+      "id": "71381",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.326",
+      "lon": "35.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71374",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قصيبة النبطية",
+      "en": "Qsaibet En-Nabatiyeh",
+      "slug": "qsaibet-en-nabatiyeh-71374"
+    },
+    "code": {
+      "id": "71374",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.335",
+      "lon": "35.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71261",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رومين",
+      "en": "Roumine",
+      "slug": "roumine-71261"
+    },
+    "code": {
+      "id": "71261",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.46",
+      "lon": "35.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71236",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صربا النبطية",
+      "en": "Sarba En-Nabatieh",
+      "slug": "sarba-en-nabatieh-71236"
+    },
+    "code": {
+      "id": "71236",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.471",
+      "lon": "35.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71397",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صير الغربية",
+      "en": "Sir El-Gharbiyeh",
+      "slug": "sir-el-gharbiyeh-71397"
+    },
+    "code": {
+      "id": "71397",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.322",
+      "lon": "35.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71324",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تول",
+      "en": "Toul",
+      "slug": "toul-71324"
+    },
+    "code": {
+      "id": "71324",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.391",
+      "lon": "35.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71394",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "يحمر",
+      "en": "Yohmor En-Nabatiyeh",
+      "slug": "yohmor-en-nabatiyeh-71394"
+    },
+    "code": {
+      "id": "71394",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.314",
+      "lon": "35.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71367",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زوطر الشرقية",
+      "en": "Zaoutar Ech-Charqiyeh",
+      "slug": "zaoutar-ech-charqiyeh-71367"
+    },
+    "code": {
+      "id": "71367",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.32",
+      "lon": "35.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71364",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زوطر الغربية",
+      "en": "Zaoutar El-Gharbiyeh",
+      "slug": "zaoutar-el-gharbiyeh-71364"
+    },
+    "code": {
+      "id": "71364",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.324",
+      "lon": "35.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71281",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زفتا",
+      "en": "Zefta",
+      "slug": "zefta-71281"
+    },
+    "code": {
+      "id": "71281",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.444",
+      "lon": "35.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71122",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زبدين النبطية",
+      "en": "Zibdine En-Nabatiyeh",
+      "slug": "zibdine-en-nabatiyeh-71122"
+    },
+    "code": {
+      "id": "71122",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB44",
+      "level": 2,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB44",
+        "level": 2,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.373",
+      "lon": "35.462"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

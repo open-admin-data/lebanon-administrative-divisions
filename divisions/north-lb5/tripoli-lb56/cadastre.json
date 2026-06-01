@@ -1,0 +1,920 @@
+[
+  {
+    "id": "31186",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بساتين المينا",
+      "en": "Mina Jardin",
+      "slug": "mina-jardin-31186"
+    },
+    "code": {
+      "id": "31186",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.443",
+      "lon": "35.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31171",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مينا طرابلس 1",
+      "en": "Mina N:1",
+      "slug": "mina-n1-31171"
+    },
+    "code": {
+      "id": "31171",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.45",
+      "lon": "35.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31176",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مينا طرابلس 2",
+      "en": "Mina N:2",
+      "slug": "mina-n2-31176"
+    },
+    "code": {
+      "id": "31176",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.449",
+      "lon": "35.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31181",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المينا",
+      "en": "Mina N:3",
+      "slug": "mina-n3-31181"
+    },
+    "code": {
+      "id": "31181",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.453",
+      "lon": "35.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31221",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القلمون",
+      "en": "Qalamoun",
+      "slug": "qalamoun-31221"
+    },
+    "code": {
+      "id": "31221",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.386",
+      "lon": "35.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31146",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الحديد",
+      "en": "Trablous El Hadid",
+      "slug": "trablous-el-hadid-31146"
+    },
+    "code": {
+      "id": "31146",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.436",
+      "lon": "35.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31131",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المهاترة",
+      "en": "Trablous El Mhatra",
+      "slug": "trablous-el-mhatra-31131"
+    },
+    "code": {
+      "id": "31131",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.434",
+      "lon": "35.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31116",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الحدادين",
+      "en": "Trablous El-Haddadine, El-Hadid, El-Mharta",
+      "slug": "trablous-el-haddadine-el-hadid-el-mharta-31116"
+    },
+    "code": {
+      "id": "31116",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.431",
+      "lon": "35.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31151",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القبة",
+      "en": "Trablous El-Qobbe",
+      "slug": "trablous-el-qobbe-31151"
+    },
+    "code": {
+      "id": "31151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.439",
+      "lon": "35.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31126",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "النوري",
+      "en": "Trablous En-Nouri",
+      "slug": "trablous-en-nouri-31126"
+    },
+    "code": {
+      "id": "31126",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.435",
+      "lon": "35.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31136",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الرمانة",
+      "en": "Trablous Er-Remmaneh",
+      "slug": "trablous-er-remmaneh-31136"
+    },
+    "code": {
+      "id": "31136",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.436",
+      "lon": "35.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31141",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "السويقة",
+      "en": "Trablous Es-Souayqa",
+      "slug": "trablous-es-souayqa-31141"
+    },
+    "code": {
+      "id": "31141",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.434",
+      "lon": "35.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31161",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "التبانة",
+      "en": "Trablous et Tabbaneh",
+      "slug": "trablous-et-tabbaneh-31161"
+    },
+    "code": {
+      "id": "31161",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.441",
+      "lon": "35.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31121",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "التل",
+      "en": "Trablous Et-Tell",
+      "slug": "trablous-et-tell-31121"
+    },
+    "code": {
+      "id": "31121",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.438",
+      "lon": "35.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31156",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الزاهرية",
+      "en": "Trablous Ez-Zahrieh",
+      "slug": "trablous-ez-zahrieh-31156"
+    },
+    "code": {
+      "id": "31156",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.439",
+      "lon": "35.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طرابلس الزيتون",
+      "en": "Trablous Ez-Zeitoun",
+      "slug": "trablous-ez-zeitoun-31111"
+    },
+    "code": {
+      "id": "31111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.419",
+      "lon": "35.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31166",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بساتين طرابلس",
+      "en": "Trablous jardins",
+      "slug": "trablous-jardins-31166"
+    },
+    "code": {
+      "id": "31166",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB56",
+      "level": 2,
+      "name": {
+        "local": "طرابلس",
+        "en": "Tripoli",
+        "slug": "tripoli-lb56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB56",
+        "level": 2,
+        "name": {
+          "local": "طرابلس",
+          "en": "Tripoli",
+          "slug": "tripoli-lb56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.438",
+      "lon": "35.827"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

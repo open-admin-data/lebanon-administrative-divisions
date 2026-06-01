@@ -1,0 +1,36 @@
+# Data from Open Admin Data (https://openadmindata.org/lb/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/lebanon-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.governorate,children_count.district,children_count.cadastre,zip_codes,geo.lat,geo.lon,source_url
+LB1,1,محافظة,Governorate,بيروت,Beirut,beirut-lb1,LB1,,,,,,1,13,,33.889,35.502,https://openadmindata.org/lb/governorates/beirut-lb1/
+LB11,2,قضاء,District,بيروت,Beirut,beirut-lb11,LB11,,LB1,بيروت,Beirut,,,13,,33.889,35.502,
+LB2,1,محافظة,Governorate,البقاع,Bekaa,bekaa-lb2,LB2,,,,,,3,144,,33.64,35.81,https://openadmindata.org/lb/governorates/bekaa-lb2/
+LB21,2,قضاء,District,بعلبك,Baalbek,baalbek-lb21,LB21,,LB8,بعلبك - الهرمل,Baalbek-El Hermel,,,89,,34.131,36.289,
+LB22,2,قضاء,District,الهرمل,El Hermel,el-hermel-lb22,LB22,,LB8,بعلبك - الهرمل,Baalbek-El Hermel,,,11,,34.391,36.302,
+LB23,2,قضاء,District,راشيا,Rachaya,rachaya-lb23,LB23,,LB2,البقاع,Bekaa,,,38,,33.518,35.825,
+LB24,2,قضاء,District,البقاع الغربي,West Bekaa,west-bekaa-lb24,LB24,,LB2,البقاع,Bekaa,,,44,,33.599,35.725,
+LB25,2,قضاء,District,زحلة,Zahle,zahle-lb25,LB25,,LB2,البقاع,Bekaa,,,62,,33.805,35.913,
+LB3,1,محافظة,Governorate,جبل لبنان,Mount Lebanon,mount-lebanon-lb3,LB3,,,,,,6,536,,33.851,35.648,https://openadmindata.org/lb/governorates/mount-lebanon-lb3/
+LB31,2,قضاء,District,عاليه,Aley,aley-lb31,LB31,,LB3,جبل لبنان,Mount Lebanon,,,82,,33.766,35.631,
+LB32,2,قضاء,District,بعبدا,Baabda,baabda-lb32,LB32,,LB3,جبل لبنان,Mount Lebanon,,,57,,33.841,35.7,
+LB33,2,قضاء,District,الشوف,Chouf,chouf-lb33,LB33,,LB3,جبل لبنان,Mount Lebanon,,,106,,33.628,35.537,
+LB34,2,قضاء,District,جبيل,Jbeil,jbeil-lb34,LB34,,LB3,جبل لبنان,Mount Lebanon,,,107,,34.125,35.829,
+LB35,2,قضاء,District,كسروان,Kesrwane,kesrwane-lb35,LB35,,LB3,جبل لبنان,Mount Lebanon,,,82,,34.013,35.791,
+LB36,2,قضاء,District,المتن,El Meten,el-meten-lb36,LB36,,LB3,جبل لبنان,Mount Lebanon,,,102,,33.91,35.718,
+LB4,1,محافظة,Governorate,النبطية,El Nabatieh,el-nabatieh-lb4,LB4,,,,,,4,145,,33.283,35.497,https://openadmindata.org/lb/governorates/el-nabatieh-lb4/
+LB41,2,قضاء,District,بنت جبيل,Bent Jbeil,bent-jbeil-lb41,LB41,,LB4,النبطية,El Nabatieh,,,38,,33.183,35.416,
+LB42,2,قضاء,District,حاصبيا,Hasbaya,hasbaya-lb42,LB42,,LB4,النبطية,El Nabatieh,,,22,,33.361,35.703,
+LB43,2,قضاء,District,مرجعيون,Marjaayoun,marjaayoun-lb43,LB43,,LB4,النبطية,El Nabatieh,,,33,,33.259,35.496,
+LB44,2,قضاء,District,النبطية,El Nabatieh,el-nabatieh-lb44,LB44,,LB4,النبطية,El Nabatieh,,,52,,33.403,35.468,
+LB5,1,محافظة,Governorate,الشمال,North,north-lb5,LB5,,,,,,6,273,,34.32,35.937,https://openadmindata.org/lb/governorates/north-lb5/
+LB51,2,قضاء,District,عكار,Akkar,akkar-lb51,LB51,,LB7,عكار,Akkar,,,168,,34.552,36.201,
+LB52,2,قضاء,District,البترون,El Batroun,el-batroun-lb52,LB52,,LB5,الشمال,North,,,75,,34.235,35.78,
+LB53,2,قضاء,District,بشري,Bcharre,bcharre-lb53,LB53,,LB5,الشمال,North,,,24,,34.242,35.983,
+LB54,2,قضاء,District,الكورة,El Koura,el-koura-lb54,LB54,,LB5,الشمال,North,,,43,,34.332,35.805,
+LB55,2,قضاء,District,المنية الضنية,El Minieh-Dennie,el-minieh-dennie-lb55,LB55,,LB5,الشمال,North,,,62,,34.393,36.054,
+LB56,2,قضاء,District,طرابلس,Tripoli,tripoli-lb56,LB56,,LB5,الشمال,North,,,17,,34.424,35.837,
+LB57,2,قضاء,District,زغرتا,Zgharta,zgharta-lb57,LB57,,LB5,الشمال,North,,,52,,34.361,35.893,
+LB6,1,محافظة,Governorate,الجنوب,South,south-lb6,LB6,,,,,,3,231,,33.342,35.304,https://openadmindata.org/lb/governorates/south-lb6/
+LB61,2,قضاء,District,صيدا,Saida,saida-lb61,LB61,,LB6,الجنوب,South,,,77,,33.454,35.338,
+LB62,2,قضاء,District,جزين,Jezzine,jezzine-lb62,LB62,,LB6,الجنوب,South,,,79,,33.474,35.577,
+LB63,2,قضاء,District,صور,Sour,sour-lb63,LB63,,LB6,الجنوب,South,,,75,,33.212,35.29,
+LB7,1,محافظة,Governorate,عكار,Akkar,akkar-lb7,LB7,,,,,,1,168,,34.552,36.201,https://openadmindata.org/lb/governorates/akkar-lb7/
+LB8,1,محافظة,Governorate,بعلبك - الهرمل,Baalbek-El Hermel,baalbek-el-hermel-lb8,LB8,,,,,,2,100,,34.168,36.297,https://openadmindata.org/lb/governorates/baalbek-el-hermel-lb8/

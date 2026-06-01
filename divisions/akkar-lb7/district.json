@@ -1,0 +1,49 @@
+[
+  {
+    "id": "LB51",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "عكار",
+      "en": "Akkar",
+      "slug": "akkar-lb51"
+    },
+    "code": {
+      "id": "LB51",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB7",
+      "level": 1,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb7"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 168
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.552",
+      "lon": "36.201"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

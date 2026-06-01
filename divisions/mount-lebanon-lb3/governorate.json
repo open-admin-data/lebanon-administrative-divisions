@@ -1,0 +1,34 @@
+{
+  "id": "LB3",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "جبل لبنان",
+    "en": "Mount Lebanon",
+    "slug": "mount-lebanon-lb3"
+  },
+  "code": {
+    "id": "LB3",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "cadastre": 536
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.851",
+    "lon": "35.648"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lb/governorates/mount-lebanon-lb3/",
+    "api": "https://openadmindata.org/api/lb/"
+  }
+}

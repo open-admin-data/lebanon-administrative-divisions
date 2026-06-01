@@ -1,0 +1,47 @@
+{
+  "id": "LB25",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "زحلة",
+    "en": "Zahle",
+    "slug": "zahle-lb25"
+  },
+  "code": {
+    "id": "LB25",
+    "iso": null
+  },
+  "parent": {
+    "id": "LB2",
+    "level": 1,
+    "name": {
+      "local": "البقاع",
+      "en": "Bekaa",
+      "slug": "bekaa-lb2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LB2",
+      "level": 1,
+      "name": {
+        "local": "البقاع",
+        "en": "Bekaa",
+        "slug": "bekaa-lb2"
+      }
+    }
+  ],
+  "children_count": {
+    "cadastre": 62
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.805",
+    "lon": "35.913"
+  },
+  "metadata": {},
+  "source": {}
+}

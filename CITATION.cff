@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Lebanon Administrative Divisions Dataset"
+version: "2026.06"
+date-released: "2026-06-01"
+url: "https://github.com/open-admin-data/lebanon-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/lebanon-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - lebanon
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Lebanon's administrative hierarchy:
+  8 governorates, 26 districts, 1,610 cadastres.
+  Bilingual with coordinates and postal codes where available.

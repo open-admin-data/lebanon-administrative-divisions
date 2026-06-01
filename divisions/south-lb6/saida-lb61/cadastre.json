@@ -1,0 +1,4160 @@
+[
+  {
+    "id": "61244",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عبرا",
+      "en": "AAbra Saida",
+      "slug": "aabra-saida-61244"
+    },
+    "code": {
+      "id": "61244",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.568",
+      "lon": "35.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61434",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عدلون",
+      "en": "Aadloun",
+      "slug": "aadloun-61434"
+    },
+    "code": {
+      "id": "61434",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.398",
+      "lon": "35.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61466",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عدّوسية",
+      "en": "Aadoussiyeh",
+      "slug": "aadoussiyeh-61466"
+    },
+    "code": {
+      "id": "61466",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.473",
+      "lon": "35.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61277",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين الدلب",
+      "en": "Aain Ed-Delb",
+      "slug": "aain-ed-delb-61277"
+    },
+    "code": {
+      "id": "61277",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.545",
+      "lon": "35.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61489",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عنقون",
+      "en": "Aanqoun",
+      "slug": "aanqoun-61489"
+    },
+    "code": {
+      "id": "61489",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.5",
+      "lon": "35.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61477",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عقتنيت",
+      "en": "Aaqtanit",
+      "slug": "aaqtanit-61477"
+    },
+    "code": {
+      "id": "61477",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.492",
+      "lon": "35.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61487",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة عرب الجل",
+      "en": "Aarab Ej-Jall",
+      "slug": "aarab-ej-jall-61487"
+    },
+    "code": {
+      "id": "61487",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.481",
+      "lon": "35.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61483",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة عرب طبَايا",
+      "en": "Aarab Tabbaya",
+      "slug": "aarab-tabbaya-61483"
+    },
+    "code": {
+      "id": "61483",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.487",
+      "lon": "35.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61417",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "أرزي",
+      "en": "Arzai",
+      "slug": "arzai-61417"
+    },
+    "code": {
+      "id": "61417",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.335",
+      "lon": "35.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61444",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بابلية",
+      "en": "Babliyeh",
+      "slug": "babliyeh-61444"
+    },
+    "code": {
+      "id": "61444",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.412",
+      "lon": "35.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61488",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برتي",
+      "en": "Berti",
+      "slug": "berti-61488"
+    },
+    "code": {
+      "id": "61488",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.52",
+      "lon": "35.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61453",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيسارية",
+      "en": "Bissariyeh",
+      "slug": "bissariyeh-61453"
+    },
+    "code": {
+      "id": "61453",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.457",
+      "lon": "35.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61481",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بنعفول",
+      "en": "Bnaafoul",
+      "slug": "bnaafoul-61481"
+    },
+    "code": {
+      "id": "61481",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.485",
+      "lon": "35.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61266",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بقسطا",
+      "en": "Bqosta",
+      "slug": "bqosta-61266"
+    },
+    "code": {
+      "id": "61266",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.575",
+      "lon": "35.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61123",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برامية",
+      "en": "Bramiyeh",
+      "slug": "bramiyeh-61123"
+    },
+    "code": {
+      "id": "61123",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.574",
+      "lon": "35.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61441",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الداودية",
+      "en": "Daoudiyeh",
+      "slug": "daoudiyeh-61441"
+    },
+    "code": {
+      "id": "61441",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.427",
+      "lon": "35.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61335",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "درب السيم",
+      "en": "Darb Es-Sim",
+      "slug": "darb-es-sim-61335"
+    },
+    "code": {
+      "id": "61335",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.533",
+      "lon": "35.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61479",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "اركي",
+      "en": "Erkay",
+      "slug": "erkay-61479"
+    },
+    "code": {
+      "id": "61479",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.46",
+      "lon": "35.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61447",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غسانية",
+      "en": "Ghassaniyeh",
+      "slug": "ghassaniyeh-61447"
+    },
+    "code": {
+      "id": "61447",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.414",
+      "lon": "35.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غازية",
+      "en": "Ghaziyeh",
+      "slug": "ghaziyeh-61311"
+    },
+    "code": {
+      "id": "61311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.511",
+      "lon": "35.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61471",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حجة",
+      "en": "Hajjeh",
+      "slug": "hajjeh-61471"
+    },
+    "code": {
+      "id": "61471",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.469",
+      "lon": "35.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61159",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حارة صيدا",
+      "en": "Haret Saida",
+      "slug": "haret-saida-61159"
+    },
+    "code": {
+      "id": "61159",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.556",
+      "lon": "35.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61423",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حارتية",
+      "en": "Hartiyeh",
+      "slug": "hartiyeh-61423"
+    },
+    "code": {
+      "id": "61423",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.381",
+      "lon": "35.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61147",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "هلالية صيدا",
+      "en": "Hlaliyeh Saida",
+      "slug": "hlaliyeh-saida-61147"
+    },
+    "code": {
+      "id": "61147",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.565",
+      "lon": "35.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61436",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "إنصارية",
+      "en": "Insariyeh",
+      "slug": "insariyeh-61436"
+    },
+    "code": {
+      "id": "61436",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.406",
+      "lon": "35.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61411",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جزيرة صيدا",
+      "en": "Jazira Saida",
+      "slug": "jazira-saida-61411"
+    },
+    "code": {
+      "id": "61411",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.329",
+      "lon": "35.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61454",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كوثرية السياد",
+      "en": "Kaoutariyet Es-Siyad",
+      "slug": "kaoutariyet-es-siyad-61454"
+    },
+    "code": {
+      "id": "61454",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.416",
+      "lon": "35.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61491",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفربيت",
+      "en": "Kfar Beit",
+      "slug": "kfar-beit-61491"
+    },
+    "code": {
+      "id": "61491",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.497",
+      "lon": "35.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61494",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر شلال",
+      "en": "Kfar Chellal",
+      "slug": "kfar-chellal-61494"
+    },
+    "code": {
+      "id": "61494",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.491",
+      "lon": "35.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61493",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرحتى",
+      "en": "Kfar Hatta Saida",
+      "slug": "kfar-hatta-saida-61493"
+    },
+    "code": {
+      "id": "61493",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.505",
+      "lon": "35.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61496",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرملكي صيدا",
+      "en": "Kfar Melki Saida",
+      "slug": "kfar-melki-saida-61496"
+    },
+    "code": {
+      "id": "61496",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.501",
+      "lon": "35.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61446",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خرطوم",
+      "en": "Khartoum",
+      "slug": "khartoum-61446"
+    },
+    "code": {
+      "id": "61446",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.403",
+      "lon": "35.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61419",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الخرائب صيدا",
+      "en": "Khayayeb Saida",
+      "slug": "khayayeb-saida-61419"
+    },
+    "code": {
+      "id": "61419",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.354",
+      "lon": "35.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61443",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خربة الدوير صيدا",
+      "en": "Khirbet Ed-Douair Saida",
+      "slug": "khirbet-ed-douair-saida-61443"
+    },
+    "code": {
+      "id": "61443",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.434",
+      "lon": "35.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61467",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خربة البصل",
+      "en": "Khirbet El-Bassal",
+      "slug": "khirbet-el-bassal-61467"
+    },
+    "code": {
+      "id": "61467",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.472",
+      "lon": "35.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61474",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خزيز",
+      "en": "Khzaiz",
+      "slug": "khzaiz-61474"
+    },
+    "code": {
+      "id": "61474",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.469",
+      "lon": "35.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-61001"
+    },
+    "code": {
+      "id": "61001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.455",
+      "lon": "35.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61439",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "لوبية",
+      "en": "Loubieh",
+      "slug": "loubieh-61439"
+    },
+    "code": {
+      "id": "61439",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.427",
+      "lon": "35.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61476",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "معمارية",
+      "en": "Maamriyeh",
+      "slug": "maamriyeh-61476"
+    },
+    "code": {
+      "id": "61476",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.487",
+      "lon": "35.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61323",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مغدوشة",
+      "en": "Maghdoucheh",
+      "slug": "maghdoucheh-61323"
+    },
+    "code": {
+      "id": "61323",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.517",
+      "lon": "35.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61233",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجدليون",
+      "en": "Majdelyoun",
+      "slug": "majdelyoun-61233"
+    },
+    "code": {
+      "id": "61233",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.555",
+      "lon": "35.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61415",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مطرية الشومر",
+      "en": "Matariyet Ech-Choumar",
+      "slug": "matariyet-ech-choumar-61415"
+    },
+    "code": {
+      "id": "61415",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.335",
+      "lon": "35.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61469",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المصيلح",
+      "en": "Mazraat 'Mseileh",
+      "slug": "mazraat-mseileh-61469"
+    },
+    "code": {
+      "id": "61469",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.481",
+      "lon": "35.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61457",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة سنيبر",
+      "en": "Mazraat 'Snaiber",
+      "slug": "mazraat-snaiber-61457"
+    },
+    "code": {
+      "id": "61457",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.459",
+      "lon": "35.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61486",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة عرب سكر",
+      "en": "Mazraat Aarab Soukkar",
+      "slug": "mazraat-aarab-soukkar-61486"
+    },
+    "code": {
+      "id": "61486",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.483",
+      "lon": "35.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61431",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير تقلا",
+      "en": "Mazraat Deir Taqla",
+      "slug": "mazraat-deir-taqla-61431"
+    },
+    "code": {
+      "id": "61431",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.398",
+      "lon": "35.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61412",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة العيتانية",
+      "en": "Mazraat El Yahoudiyeh (Aaitaniyeh)",
+      "slug": "mazraat-el-yahoudiyeh-aaitaniyeh-61412"
+    },
+    "code": {
+      "id": "61412",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.356",
+      "lon": "35.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61473",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة الحسينية",
+      "en": "Mazraat El-Houssainiyeh",
+      "slug": "mazraat-el-houssainiyeh-61473"
+    },
+    "code": {
+      "id": "61473",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.493",
+      "lon": "35.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61424",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المحيدلة",
+      "en": "Mazraat El-Mhaydaleh",
+      "slug": "mazraat-el-mhaydaleh-61424"
+    },
+    "code": {
+      "id": "61424",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.384",
+      "lon": "35.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61421",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة جمجيم",
+      "en": "Mazraat Jamjim",
+      "slug": "mazraat-jamjim-61421"
+    },
+    "code": {
+      "id": "61421",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.358",
+      "lon": "35.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61426",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة كوثرية الرز",
+      "en": "Mazraat Kaoutariyet Er-Riz",
+      "slug": "mazraat-kaoutariyet-er-riz-61426"
+    },
+    "code": {
+      "id": "61426",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.374",
+      "lon": "35.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61418",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر بدَه",
+      "en": "Mazraat Kfar Beda",
+      "slug": "mazraat-kfar-beda-61418"
+    },
+    "code": {
+      "id": "61418",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.366",
+      "lon": "35.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61433",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الاوساميات",
+      "en": "Mazraat Oussamiyat",
+      "slug": "mazraat-oussamiyat-61433"
+    },
+    "code": {
+      "id": "61433",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.388",
+      "lon": "35.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61429",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ساري",
+      "en": "Mazraat Sari",
+      "slug": "mazraat-sari-61429"
+    },
+    "code": {
+      "id": "61429",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.392",
+      "lon": "35.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61437",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة سيناي",
+      "en": "Mazraat Sinai",
+      "slug": "mazraat-sinai-61437"
+    },
+    "code": {
+      "id": "61437",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.39",
+      "lon": "35.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61463",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مروانية",
+      "en": "Merouaniyeh",
+      "slug": "merouaniyeh-61463"
+    },
+    "code": {
+      "id": "61463",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.452",
+      "lon": "35.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61183",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مية ومية",
+      "en": "Miyeh ou Miyeh",
+      "slug": "miyeh-ou-miyeh-61183"
+    },
+    "code": {
+      "id": "61183",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.542",
+      "lon": "35.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61484",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة مطيرية جباع",
+      "en": "Mtayriyeh",
+      "slug": "mtayriyeh-61484"
+    },
+    "code": {
+      "id": "61484",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.514",
+      "lon": "35.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61414",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة الواسطة",
+      "en": "Mzaraat El-Ouasta",
+      "slug": "mzaraat-el-ouasta-61414"
+    },
+    "code": {
+      "id": "61414",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.349",
+      "lon": "35.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61464",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نجارية",
+      "en": "Najjariyeh",
+      "slug": "najjariyeh-61464"
+    },
+    "code": {
+      "id": "61464",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.479",
+      "lon": "35.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61451",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قعقعية الصنوبر",
+      "en": "Qaaqaiyet Es-Snaoubar",
+      "slug": "qaaqaiyet-es-snaoubar-61451"
+    },
+    "code": {
+      "id": "61451",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.439",
+      "lon": "35.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61347",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قناريت",
+      "en": "Qennarit",
+      "slug": "qennarit-61347"
+    },
+    "code": {
+      "id": "61347",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.503",
+      "lon": "35.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61255",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرية صيدا",
+      "en": "Qraiyet Saida",
+      "slug": "qraiyet-saida-61255"
+    },
+    "code": {
+      "id": "61255",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.537",
+      "lon": "35.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61119",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صيدا الدكرمان",
+      "en": "Saida Ed-Dekermane",
+      "slug": "saida-ed-dekermane-61119"
+    },
+    "code": {
+      "id": "61119",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.551",
+      "lon": "35.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الوسطاني",
+      "en": "Saida El-Oustani",
+      "slug": "saida-el-oustani-61111"
+    },
+    "code": {
+      "id": "61111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.576",
+      "lon": "35.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61115",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صيدا",
+      "en": "Saida El-Qadimeh",
+      "slug": "saida-el-qadimeh-61115"
+    },
+    "code": {
+      "id": "61115",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.564",
+      "lon": "35.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61222",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفريا",
+      "en": "Saida Kefraya",
+      "slug": "saida-kefraya-61222"
+    },
+    "code": {
+      "id": "61222",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.557",
+      "lon": "35.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61461",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سكسكية",
+      "en": "Saksakiyeh",
+      "slug": "saksakiyeh-61461"
+    },
+    "code": {
+      "id": "61461",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.436",
+      "lon": "35.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صالحية",
+      "en": "Salhiyet Saida",
+      "slug": "salhiyet-saida-61211"
+    },
+    "code": {
+      "id": "61211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.559",
+      "lon": "35.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61449",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صرفند",
+      "en": "Sarafand",
+      "slug": "sarafand-61449"
+    },
+    "code": {
+      "id": "61449",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.452",
+      "lon": "35.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61497",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سفنتا",
+      "en": "Sfenta",
+      "slug": "sfenta-61497"
+    },
+    "code": {
+      "id": "61497",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.511",
+      "lon": "35.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61383",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طنبوريت",
+      "en": "Tanbourit",
+      "slug": "tanbourit-61383"
+    },
+    "code": {
+      "id": "61383",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.518",
+      "lon": "35.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61456",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تبنا",
+      "en": "Tebna",
+      "slug": "tebna-61456"
+    },
+    "code": {
+      "id": "61456",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.446",
+      "lon": "35.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61459",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تفاحتا",
+      "en": "Teffahta",
+      "slug": "teffahta-61459"
+    },
+    "code": {
+      "id": "61459",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.44",
+      "lon": "35.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61371",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زغدرايا",
+      "en": "Zaghdraiya",
+      "slug": "zaghdraiya-61371"
+    },
+    "code": {
+      "id": "61371",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.529",
+      "lon": "35.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61359",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زيتا",
+      "en": "Zeita",
+      "slug": "zeita-61359"
+    },
+    "code": {
+      "id": "61359",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.505",
+      "lon": "35.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61427",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زرارية",
+      "en": "Zrariyeh",
+      "slug": "zrariyeh-61427"
+    },
+    "code": {
+      "id": "61427",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB61",
+      "level": 2,
+      "name": {
+        "local": "صيدا",
+        "en": "Saida",
+        "slug": "saida-lb61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB61",
+        "level": 2,
+        "name": {
+          "local": "صيدا",
+          "en": "Saida",
+          "slug": "saida-lb61"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.344",
+      "lon": "35.336"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

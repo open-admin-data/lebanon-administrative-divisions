@@ -1,0 +1,3350 @@
+[
+  {
+    "id": "51377",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين كفر زبد",
+      "en": "Aain Kfar Zabad",
+      "slug": "aain-kfar-zabad-51377"
+    },
+    "code": {
+      "id": "51377",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.79",
+      "lon": "36.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51323",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "علي النهري",
+      "en": "Aali En-Nahri",
+      "slug": "aali-en-nahri-51323"
+    },
+    "code": {
+      "id": "51323",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.862",
+      "lon": "36.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51281",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عنجر",
+      "en": "Aanjar (Haouch Moussa)",
+      "slug": "aanjar-haouch-moussa-51281"
+    },
+    "code": {
+      "id": "51281",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.741",
+      "lon": "35.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51163",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ابلح",
+      "en": "Ablah",
+      "slug": "ablah-51163"
+    },
+    "code": {
+      "id": "51163",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.864",
+      "lon": "35.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51267",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بر الياس",
+      "en": "Barr Elias",
+      "slug": "barr-elias-51267"
+    },
+    "code": {
+      "id": "51267",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.78",
+      "lon": "35.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51244",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بوارج",
+      "en": "Bouarej",
+      "slug": "bouarej-51244"
+    },
+    "code": {
+      "id": "51244",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.817",
+      "lon": "35.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51247",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شبرقية تابت",
+      "en": "Chebrqiyet Tabet",
+      "slug": "chebrqiyet-tabet-51247"
+    },
+    "code": {
+      "id": "51247",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.78",
+      "lon": "35.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شتورا",
+      "en": "Chtaura",
+      "slug": "chtaura-51211"
+    },
+    "code": {
+      "id": "51211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.816",
+      "lon": "35.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51383",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دلهميه",
+      "en": "Dalhamiyet Zahleh",
+      "slug": "dalhamiyet-zahleh-51383"
+    },
+    "code": {
+      "id": "51383",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.816",
+      "lon": "35.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51347",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير الغزال",
+      "en": "Deir El-Ghazal",
+      "slug": "deir-el-ghazal-51347"
+    },
+    "code": {
+      "id": "51347",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.824",
+      "lon": "36.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51139",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فرزل",
+      "en": "Fourzol",
+      "slug": "fourzol-51139"
+    },
+    "code": {
+      "id": "51139",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.864",
+      "lon": "35.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51335",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تل العمارة",
+      "en": "Haouch El-Aamara",
+      "slug": "haouch-el-aamara-51335"
+    },
+    "code": {
+      "id": "51335",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.857",
+      "lon": "35.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51329",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوش الغنم",
+      "en": "Haouch El-Ghanam",
+      "slug": "haouch-el-ghanam-51329"
+    },
+    "code": {
+      "id": "51329",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.874",
+      "lon": "36.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوش الصيادي",
+      "en": "Haouch Es-Siyadeh",
+      "slug": "haouch-es-siyadeh-51251"
+    },
+    "code": {
+      "id": "51251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.767",
+      "lon": "35.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51317",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوش حالا",
+      "en": "Haouch Hala",
+      "slug": "haouch-hala-51317"
+    },
+    "code": {
+      "id": "51317",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.847",
+      "lon": "35.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51237",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوش مندره",
+      "en": "Haouch Mandara",
+      "slug": "haouch-mandara-51237"
+    },
+    "code": {
+      "id": "51237",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.777",
+      "lon": "35.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51264",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قيصر",
+      "en": "Haouch Qayssar",
+      "slug": "haouch-qayssar-51264"
+    },
+    "code": {
+      "id": "51264",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.762",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51157",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حزرتا",
+      "en": "Hazerta",
+      "slug": "hazerta-51157"
+    },
+    "code": {
+      "id": "51157",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.875",
+      "lon": "35.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51341",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حشمش",
+      "en": "Hoshmosh",
+      "slug": "hoshmosh-51341"
+    },
+    "code": {
+      "id": "51341",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.829",
+      "lon": "36.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51224",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جديتا",
+      "en": "Jdita",
+      "slug": "jdita-51224"
+    },
+    "code": {
+      "id": "51224",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.813",
+      "lon": "35.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51389",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر زبد",
+      "en": "Kfarzabad",
+      "slug": "kfarzabad-51389"
+    },
+    "code": {
+      "id": "51389",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.765",
+      "lon": "35.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51184",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كسارة",
+      "en": "Ksara",
+      "slug": "ksara-51184"
+    },
+    "code": {
+      "id": "51184",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.826",
+      "lon": "35.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-51001"
+    },
+    "code": {
+      "id": "51001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.783",
+      "lon": "35.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51284",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجدل عنجر",
+      "en": "Majdel Aanjar",
+      "slug": "majdel-aanjar-51284"
+    },
+    "code": {
+      "id": "51284",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.71",
+      "lon": "35.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51217",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مكسة",
+      "en": "Makseh",
+      "slug": "makseh-51217"
+    },
+    "code": {
+      "id": "51217",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.799",
+      "lon": "35.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51371",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مسا",
+      "en": "Massa",
+      "slug": "massa-51371"
+    },
+    "code": {
+      "id": "51371",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.844",
+      "lon": "36.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51185",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الرمطانية",
+      "en": "Mazraat Er-Remtaniyeh",
+      "slug": "mazraat-er-remtaniyeh-51185"
+    },
+    "code": {
+      "id": "51185",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.836",
+      "lon": "35.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51241",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مريجات",
+      "en": "Mrayjat Zahleh",
+      "slug": "mrayjat-zahleh-51241"
+    },
+    "code": {
+      "id": "51241",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.811",
+      "lon": "35.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51271",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة زحلة",
+      "en": "Mzaraat Zahleh",
+      "slug": "mzaraat-zahleh-51271"
+    },
+    "code": {
+      "id": "51271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.767",
+      "lon": "35.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51151",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نبي ايلا",
+      "en": "Nabi Ayla",
+      "slug": "nabi-ayla-51151"
+    },
+    "code": {
+      "id": "51151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.869",
+      "lon": "35.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51354",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ناصرية رزق",
+      "en": "Nasriyet Rizk",
+      "slug": "nasriyet-rizk-51354"
+    },
+    "code": {
+      "id": "51354",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.857",
+      "lon": "36.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51287",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ناصرية زحلة",
+      "en": "Nasriyet Zahleh",
+      "slug": "nasriyet-zahleh-51287"
+    },
+    "code": {
+      "id": "51287",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.753",
+      "lon": "35.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51177",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نيحا زحلة",
+      "en": "Niha Zahleh",
+      "slug": "niha-zahleh-51177"
+    },
+    "code": {
+      "id": "51177",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.895",
+      "lon": "35.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51257",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي الدلم",
+      "en": "Ouadi Ed-Delm",
+      "slug": "ouadi-ed-delm-51257"
+    },
+    "code": {
+      "id": "51257",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.801",
+      "lon": "35.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51189",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي العرايش",
+      "en": "Ouadi El-Aarayech",
+      "slug": "ouadi-el-aarayech-51189"
+    },
+    "code": {
+      "id": "51189",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.873",
+      "lon": "35.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51173",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قاع الريم",
+      "en": "Qaa Er-Rim",
+      "slug": "qaa-er-rim-51173"
+    },
+    "code": {
+      "id": "51173",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.902",
+      "lon": "35.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51234",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قب الياس",
+      "en": "Qabb Elias",
+      "slug": "qabb-elias-51234"
+    },
+    "code": {
+      "id": "51234",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.778",
+      "lon": "35.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51353",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قوسايا",
+      "en": "Qoussaya",
+      "slug": "qoussaya-51353"
+    },
+    "code": {
+      "id": "51353",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.801",
+      "lon": "36.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51359",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رعيت",
+      "en": "Raait",
+      "slug": "raait-51359"
+    },
+    "code": {
+      "id": "51359",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.839",
+      "lon": "36.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رياق",
+      "en": "Riyaq",
+      "slug": "riyaq-51311"
+    },
+    "code": {
+      "id": "51311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.852",
+      "lon": "36.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51231",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سعدنايل",
+      "en": "Saadnayel",
+      "slug": "saadnayel-51231"
+    },
+    "code": {
+      "id": "51231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.817",
+      "lon": "35.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51221",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تعلبايا",
+      "en": "Taalbaya",
+      "slug": "taalbaya-51221"
+    },
+    "code": {
+      "id": "51221",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.811",
+      "lon": "35.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51227",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تعنايل",
+      "en": "Taanayel",
+      "slug": "taanayel-51227"
+    },
+    "code": {
+      "id": "51227",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.789",
+      "lon": "35.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51274",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تشفلك اده حوش",
+      "en": "Tcheflik Eddé Haouch",
+      "slug": "tcheflik-edd-haouch-51274"
+    },
+    "code": {
+      "id": "51274",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.756",
+      "lon": "35.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51261",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تشفلك قيقانو",
+      "en": "Tcheflik Qiqano",
+      "slug": "tcheflik-qiqano-51261"
+    },
+    "code": {
+      "id": "51261",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.756",
+      "lon": "35.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51277",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تل الاخضر",
+      "en": "Tell El-Akhdar",
+      "slug": "tell-el-akhdar-51277"
+    },
+    "code": {
+      "id": "51277",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.732",
+      "lon": "35.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51365",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تربل",
+      "en": "Terbol Zahleh",
+      "slug": "terbol-zahleh-51365"
+    },
+    "code": {
+      "id": "51365",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.812",
+      "lon": "35.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51145",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تويتي",
+      "en": "Touaite Zahleh",
+      "slug": "touaite-zahleh-51145"
+    },
+    "code": {
+      "id": "51145",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.857",
+      "lon": "35.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51127",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زحلة حوش الامراء أراضي",
+      "en": "Zahlé Haouch El-Oumara Aradi",
+      "slug": "zahl-haouch-el-oumara-aradi-51127"
+    },
+    "code": {
+      "id": "51127",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.804",
+      "lon": "35.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51123",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زحلة مار أنطونيوس",
+      "en": "Zahlé Mar Antonios",
+      "slug": "zahl-mar-antonios-51123"
+    },
+    "code": {
+      "id": "51123",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.848",
+      "lon": "35.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51135",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مار الياس زحلة",
+      "en": "Zahlé Mar Elias",
+      "slug": "zahl-mar-elias-51135"
+    },
+    "code": {
+      "id": "51135",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.845",
+      "lon": "35.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51115",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زحلة مار جرجس",
+      "en": "Zahlé Mar Gerges",
+      "slug": "zahl-mar-gerges-51115"
+    },
+    "code": {
+      "id": "51115",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.845",
+      "lon": "35.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51129",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زحلة سيدة النجاة",
+      "en": "Zahlé Saydet En-Najat",
+      "slug": "zahl-saydet-en-najat-51129"
+    },
+    "code": {
+      "id": "51129",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.846",
+      "lon": "35.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51133",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زحلة أراضي",
+      "en": "Zahleh Aradi",
+      "slug": "zahleh-aradi-51133"
+    },
+    "code": {
+      "id": "51133",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.845",
+      "lon": "35.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51119",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بربارة زحلة",
+      "en": "Zahleh El-Berbara",
+      "slug": "zahleh-el-berbara-51119"
+    },
+    "code": {
+      "id": "51119",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.852",
+      "lon": "35.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51121",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زحلة معلقة أراضي",
+      "en": "Zahleh El-Maallaqa",
+      "slug": "zahleh-el-maallaqa-51121"
+    },
+    "code": {
+      "id": "51121",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.844",
+      "lon": "35.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زحلة",
+      "en": "Zahleh El-Midane",
+      "slug": "zahleh-el-midane-51111"
+    },
+    "code": {
+      "id": "51111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.847",
+      "lon": "35.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51117",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الراسية",
+      "en": "Zahleh Er-Rassiyeh",
+      "slug": "zahleh-er-rassiyeh-51117"
+    },
+    "code": {
+      "id": "51117",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.85",
+      "lon": "35.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51131",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تل شيحا",
+      "en": "Zahleh Haouch El-Oumara",
+      "slug": "zahleh-haouch-el-oumara-51131"
+    },
+    "code": {
+      "id": "51131",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.833",
+      "lon": "35.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51113",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوش الزراعنة",
+      "en": "Zahleh Haouch Ez-Zaraane",
+      "slug": "zahleh-haouch-ez-zaraane-51113"
+    },
+    "code": {
+      "id": "51113",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.844",
+      "lon": "35.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51125",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مدينة الصناعية",
+      "en": "Zahleh Maallaqa Aradi",
+      "slug": "zahleh-maallaqa-aradi-51125"
+    },
+    "code": {
+      "id": "51125",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.829",
+      "lon": "35.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51214",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زبدل",
+      "en": "Zebdoul",
+      "slug": "zebdoul-51214"
+    },
+    "code": {
+      "id": "51214",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB25",
+      "level": 2,
+      "name": {
+        "local": "زحلة",
+        "en": "Zahle",
+        "slug": "zahle-lb25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB25",
+        "level": 2,
+        "name": {
+          "local": "زحلة",
+          "en": "Zahle",
+          "slug": "zahle-lb25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.812",
+      "lon": "35.84"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

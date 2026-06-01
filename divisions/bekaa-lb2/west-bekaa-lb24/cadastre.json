@@ -1,0 +1,2378 @@
+[
+  {
+    "id": "52116",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين التينة بقاع الغربي",
+      "en": "Aain Et-Tineh BG",
+      "slug": "aain-et-tineh-bg-52116"
+    },
+    "code": {
+      "id": "52116",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.493",
+      "lon": "35.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52146",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين زبدة",
+      "en": "Aain Zebdeh",
+      "slug": "aain-zebdeh-52146"
+    },
+    "code": {
+      "id": "52146",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.627",
+      "lon": "35.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52176",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عميق",
+      "en": "Aammiq BG",
+      "slug": "aammiq-bg-52176"
+    },
+    "code": {
+      "id": "52176",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.724",
+      "lon": "35.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52161",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عانا",
+      "en": "Aana",
+      "slug": "aana-52161"
+    },
+    "code": {
+      "id": "52161",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.681",
+      "lon": "35.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52121",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيتنيت",
+      "en": "Aaytanit",
+      "slug": "aaytanit-52121"
+    },
+    "code": {
+      "id": "52121",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.562",
+      "lon": "35.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52224",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بعلول",
+      "en": "Baaloul BG",
+      "slug": "baaloul-bg-52224"
+    },
+    "code": {
+      "id": "52224",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.589",
+      "lon": "35.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52126",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "باب مارع",
+      "en": "Bab Mareaa",
+      "slug": "bab-mareaa-52126"
+    },
+    "code": {
+      "id": "52126",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.589",
+      "lon": "35.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52181",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شبرقية عميق",
+      "en": "Chebrqiyet Aammiq",
+      "slug": "chebrqiyet-aammiq-52181"
+    },
+    "code": {
+      "id": "52181",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.717",
+      "lon": "35.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دكوة",
+      "en": "Dakoueh",
+      "slug": "dakoueh-52251"
+    },
+    "code": {
+      "id": "52251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.693",
+      "lon": "35.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52131",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير عين الجوزة",
+      "en": "Deir Aain Ej-Jaouzeh",
+      "slug": "deir-aain-ej-jaouzeh-52131"
+    },
+    "code": {
+      "id": "52131",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.593",
+      "lon": "35.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52166",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير طحنيش",
+      "en": "Deir Tahniche",
+      "slug": "deir-tahniche-52166"
+    },
+    "code": {
+      "id": "52166",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.7",
+      "lon": "35.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52227",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غزة",
+      "en": "Ghazzeh",
+      "slug": "ghazzeh-52227"
+    },
+    "code": {
+      "id": "52227",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.675",
+      "lon": "35.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52254",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوش الحريمة",
+      "en": "Haouch El-Harime",
+      "slug": "haouch-el-harime-52254"
+    },
+    "code": {
+      "id": "52254",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.717",
+      "lon": "35.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52271",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حريمة الصغرى",
+      "en": "Harimeh Es-Soughra",
+      "slug": "harimeh-es-soughra-52271"
+    },
+    "code": {
+      "id": "52271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.734",
+      "lon": "35.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52257",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الجزيرة",
+      "en": "Jazira BG",
+      "slug": "jazira-bg-52257"
+    },
+    "code": {
+      "id": "52257",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.727",
+      "lon": "35.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جب جنين",
+      "en": "Joubb Jannine",
+      "slug": "joubb-jannine-52211"
+    },
+    "code": {
+      "id": "52211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.637",
+      "lon": "35.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52156",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفريا بقاع الغربي",
+      "en": "Kafraiya BG",
+      "slug": "kafraiya-bg-52156"
+    },
+    "code": {
+      "id": "52156",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.658",
+      "lon": "35.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52217",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كامد اللوز",
+      "en": "Kamed El-Laouz",
+      "slug": "kamed-el-laouz-52217"
+    },
+    "code": {
+      "id": "52217",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.624",
+      "lon": "35.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52234",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الخيارة",
+      "en": "Khiara",
+      "slug": "khiara-52234"
+    },
+    "code": {
+      "id": "52234",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.685",
+      "lon": "35.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52247",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خيارة العتيقة",
+      "en": "Khiara El-Aatiqa",
+      "slug": "khiara-el-aatiqa-52247"
+    },
+    "code": {
+      "id": "52247",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.71",
+      "lon": "35.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52151",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خربة قنافار",
+      "en": "Khirbet Qanafar",
+      "slug": "khirbet-qanafar-52151"
+    },
+    "code": {
+      "id": "52151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.64",
+      "lon": "35.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52214",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "لالا",
+      "en": "Lala",
+      "slug": "lala-52214"
+    },
+    "code": {
+      "id": "52214",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.611",
+      "lon": "35.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52274",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "لبايا",
+      "en": "Libbaya BG",
+      "slug": "libbaya-bg-52274"
+    },
+    "code": {
+      "id": "52274",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.478",
+      "lon": "35.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-52001"
+    },
+    "code": {
+      "id": "52001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.726",
+      "lon": "35.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52002",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-52002"
+    },
+    "code": {
+      "id": "52002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.676",
+      "lon": "35.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52003",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-52003"
+    },
+    "code": {
+      "id": "52003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.636",
+      "lon": "35.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52141",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "لوسيا",
+      "en": "Loussa",
+      "slug": "loussa-52141"
+    },
+    "code": {
+      "id": "52141",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.459",
+      "lon": "35.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشغرة",
+      "en": "Machghara",
+      "slug": "machghara-52111"
+    },
+    "code": {
+      "id": "52111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.522",
+      "lon": "35.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52244",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حمارة",
+      "en": "Manara (Hammara) BG",
+      "slug": "manara-hammara-bg-52244"
+    },
+    "code": {
+      "id": "52244",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.656",
+      "lon": "35.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52171",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المنصورة",
+      "en": "Mansoura BG",
+      "slug": "mansoura-bg-52171"
+    },
+    "code": {
+      "id": "52171",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.68",
+      "lon": "35.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52277",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المرج",
+      "en": "Marj BG",
+      "slug": "marj-bg-52277"
+    },
+    "code": {
+      "id": "52277",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.758",
+      "lon": "35.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52287",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ميدون",
+      "en": "Maydoun",
+      "slug": "maydoun-52287"
+    },
+    "code": {
+      "id": "52287",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.459",
+      "lon": "35.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52261",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الوقف بقاع الغربي",
+      "en": "Ouaqf BG",
+      "slug": "ouaqf-bg-52261"
+    },
+    "code": {
+      "id": "52261",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.737",
+      "lon": "35.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52237",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القرعون",
+      "en": "Qaraaoun",
+      "slug": "qaraaoun-52237"
+    },
+    "code": {
+      "id": "52237",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.565",
+      "lon": "35.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52291",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قلايا",
+      "en": "Qelaya",
+      "slug": "qelaya-52291"
+    },
+    "code": {
+      "id": "52291",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.438",
+      "lon": "35.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52295",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "روضة إسطبل",
+      "en": "Raouda (Istabel)",
+      "slug": "raouda-istabel-52295"
+    },
+    "code": {
+      "id": "52295",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.744",
+      "lon": "35.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52136",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صغبين",
+      "en": "Saghbine",
+      "slug": "saghbine-52136"
+    },
+    "code": {
+      "id": "52136",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.611",
+      "lon": "35.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52267",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سحمر",
+      "en": "Sohmor",
+      "slug": "sohmor-52267"
+    },
+    "code": {
+      "id": "52267",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.509",
+      "lon": "35.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52241",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سلطان يعقوب أراضي",
+      "en": "Soltan Yacoub el Aradi",
+      "slug": "soltan-yacoub-el-aradi-52241"
+    },
+    "code": {
+      "id": "52241",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.673",
+      "lon": "35.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52264",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صويري",
+      "en": "Souairi",
+      "slug": "souairi-52264"
+    },
+    "code": {
+      "id": "52264",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.686",
+      "lon": "35.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52231",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سلطان يعقوب الفوقا",
+      "en": "Soultan Yaacoub Faouqa",
+      "slug": "soultan-yaacoub-faouqa-52231"
+    },
+    "code": {
+      "id": "52231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.656",
+      "lon": "35.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52221",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تل زنوب",
+      "en": "Tall Znoub",
+      "slug": "tall-znoub-52221"
+    },
+    "code": {
+      "id": "52221",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.659",
+      "lon": "35.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52281",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "يحمر بقاع الغربي",
+      "en": "Yohmor BG",
+      "slug": "yohmor-bg-52281"
+    },
+    "code": {
+      "id": "52281",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.481",
+      "lon": "35.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52284",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زلايا",
+      "en": "Zilaya",
+      "slug": "zilaya-52284"
+    },
+    "code": {
+      "id": "52284",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB24",
+      "level": 2,
+      "name": {
+        "local": "البقاع الغربي",
+        "en": "West Bekaa",
+        "slug": "west-bekaa-lb24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB24",
+        "level": 2,
+        "name": {
+          "local": "البقاع الغربي",
+          "en": "West Bekaa",
+          "slug": "west-bekaa-lb24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.457",
+      "lon": "35.672"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

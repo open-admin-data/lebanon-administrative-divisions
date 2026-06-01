@@ -1,0 +1,2810 @@
+[
+  {
+    "id": "33267",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عشاش",
+      "en": "Aachach",
+      "slug": "aachach-33267"
+    },
+    "code": {
+      "id": "33267",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.42",
+      "lon": "35.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33133",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "علما",
+      "en": "Aalma",
+      "slug": "aalma-33133"
+    },
+    "code": {
+      "id": "33133",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.426",
+      "lon": "35.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33227",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عربة قزحيا",
+      "en": "Aarbet Qozhaiya",
+      "slug": "aarbet-qozhaiya-33227"
+    },
+    "code": {
+      "id": "33227",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.283",
+      "lon": "35.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33113",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عردات",
+      "en": "Aardat",
+      "slug": "aardat-33113"
+    },
+    "code": {
+      "id": "33113",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.413",
+      "lon": "35.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33161",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عرجس",
+      "en": "Aarjis",
+      "slug": "aarjis-33161"
+    },
+    "code": {
+      "id": "33161",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.337",
+      "lon": "35.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33219",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عينطورين",
+      "en": "Aintourine",
+      "slug": "aintourine-33219"
+    },
+    "code": {
+      "id": "33219",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.288",
+      "lon": "35.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33123",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "أرده",
+      "en": "Arde",
+      "slug": "arde-33123"
+    },
+    "code": {
+      "id": "33123",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.417",
+      "lon": "35.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33125",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "اصنون",
+      "en": "Asnoun",
+      "slug": "asnoun-33125"
+    },
+    "code": {
+      "id": "33125",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.386",
+      "lon": "35.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33243",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "أيطو",
+      "en": "Ayto",
+      "slug": "ayto-33243"
+    },
+    "code": {
+      "id": "33243",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.313",
+      "lon": "35.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33157",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بشنين",
+      "en": "Bchannine",
+      "slug": "bchannine-33157"
+    },
+    "code": {
+      "id": "33157",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.346",
+      "lon": "35.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33215",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بسلوقيت",
+      "en": "Beslouqit",
+      "slug": "beslouqit-33215"
+    },
+    "code": {
+      "id": "33215",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.308",
+      "lon": "35.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33239",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بحيرة تولا",
+      "en": "Bhairet Toula",
+      "slug": "bhairet-toula-33239"
+    },
+    "code": {
+      "id": "33239",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.324",
+      "lon": "35.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33159",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بنشعي",
+      "en": "Bnechaai",
+      "slug": "bnechaai-33159"
+    },
+    "code": {
+      "id": "33159",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.334",
+      "lon": "35.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33279",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بوسيط",
+      "en": "Boussit",
+      "slug": "boussit-33279"
+    },
+    "code": {
+      "id": "33279",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.441",
+      "lon": "35.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33149",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بسبعل",
+      "en": "Bsebaal",
+      "slug": "bsebaal-33149"
+    },
+    "code": {
+      "id": "33149",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.353",
+      "lon": "35.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33263",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دنها",
+      "en": "Danha",
+      "slug": "danha-33263"
+    },
+    "code": {
+      "id": "33263",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.395",
+      "lon": "35.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33163",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "داريا",
+      "en": "Daraiya Zgharta",
+      "slug": "daraiya-zgharta-33163"
+    },
+    "code": {
+      "id": "33163",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.334",
+      "lon": "35.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33137",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الجديدة زغرتا",
+      "en": "Deir Jdeide",
+      "slug": "deir-jdeide-33137"
+    },
+    "code": {
+      "id": "33137",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.363",
+      "lon": "35.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "اهدن",
+      "en": "Ehden",
+      "slug": "ehden-33211"
+    },
+    "code": {
+      "id": "33211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.292",
+      "lon": "35.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33275",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حيلان زغرتا",
+      "en": "Hailan",
+      "slug": "hailan-33275"
+    },
+    "code": {
+      "id": "33275",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.432",
+      "lon": "35.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33131",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حريق زغرتا",
+      "en": "Hariq Zgharta",
+      "slug": "hariq-zgharta-33131"
+    },
+    "code": {
+      "id": "33131",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.379",
+      "lon": "35.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33152",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حواكير",
+      "en": "Houakir",
+      "slug": "houakir-33152"
+    },
+    "code": {
+      "id": "33152",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.365",
+      "lon": "35.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33287",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حريقص",
+      "en": "Hraiqis",
+      "slug": "hraiqis-33287"
+    },
+    "code": {
+      "id": "33287",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.453",
+      "lon": "35.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33141",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "إيعال",
+      "en": "Iaal",
+      "slug": "iaal-33141"
+    },
+    "code": {
+      "id": "33141",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.355",
+      "lon": "35.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33291",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "اجبع",
+      "en": "Ijbaa",
+      "slug": "ijbaa-33291"
+    },
+    "code": {
+      "id": "33291",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.311",
+      "lon": "35.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33169",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كرم سده",
+      "en": "Karm Saddeh",
+      "slug": "karm-saddeh-33169"
+    },
+    "code": {
+      "id": "33169",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.305",
+      "lon": "35.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33147",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر شخنا",
+      "en": "Kfarchakhna",
+      "slug": "kfarchakhna-33147"
+    },
+    "code": {
+      "id": "33147",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.361",
+      "lon": "35.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33115",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفردلاقوس",
+      "en": "Kfardlaqous",
+      "slug": "kfardlaqous-33115"
+    },
+    "code": {
+      "id": "33115",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.399",
+      "lon": "35.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33165",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر فو",
+      "en": "Kfarfou",
+      "slug": "kfarfou-33165"
+    },
+    "code": {
+      "id": "33165",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.322",
+      "lon": "35.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33121",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر حاتا",
+      "en": "Kfarhata Zgharta",
+      "slug": "kfarhata-zgharta-33121"
+    },
+    "code": {
+      "id": "33121",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.381",
+      "lon": "35.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33143",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر حورا",
+      "en": "Kfarhoura",
+      "slug": "kfarhoura-33143"
+    },
+    "code": {
+      "id": "33143",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.385",
+      "lon": "35.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33223",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر صغاب",
+      "en": "Kfarsghab",
+      "slug": "kfarsghab-33223"
+    },
+    "code": {
+      "id": "33223",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.275",
+      "lon": "35.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33153",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر ياشيت",
+      "en": "Kfaryachit",
+      "slug": "kfaryachit-33153"
+    },
+    "code": {
+      "id": "33153",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.356",
+      "lon": "35.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33145",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر زينا",
+      "en": "Kfarzaina",
+      "slug": "kfarzaina-33145"
+    },
+    "code": {
+      "id": "33145",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.373",
+      "lon": "35.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33139",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خالدية",
+      "en": "Khaldiyeh",
+      "slug": "khaldiyeh-33139"
+    },
+    "code": {
+      "id": "33139",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.37",
+      "lon": "35.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33127",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة إجبع",
+      "en": "Mazraat Ajbeaa",
+      "slug": "mazraat-ajbeaa-33127"
+    },
+    "code": {
+      "id": "33127",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.386",
+      "lon": "35.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33235",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة التفاح",
+      "en": "Mazraat Et-Teffah",
+      "slug": "mazraat-et-teffah-33235"
+    },
+    "code": {
+      "id": "33235",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.32",
+      "lon": "35.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33135",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة جنيد",
+      "en": "Mazraat Jnaid",
+      "slug": "mazraat-jnaid-33135"
+    },
+    "code": {
+      "id": "33135",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.376",
+      "lon": "35.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33129",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجدليا زغرتا",
+      "en": "Mejdlaiya Zgharta",
+      "slug": "mejdlaiya-zgharta-33129"
+    },
+    "code": {
+      "id": "33129",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.43",
+      "lon": "35.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33271",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مرياطا",
+      "en": "Miriata",
+      "slug": "miriata-33271"
+    },
+    "code": {
+      "id": "33271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.419",
+      "lon": "35.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزيارة",
+      "en": "Miziara",
+      "slug": "miziara-33251"
+    },
+    "code": {
+      "id": "33251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.338",
+      "lon": "35.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33155",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرصغاب",
+      "en": "Morh Kfarsghab",
+      "slug": "morh-kfarsghab-33155"
+    },
+    "code": {
+      "id": "33155",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.35",
+      "lon": "35.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33283",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفريا زغرتا",
+      "en": "Mzraat Kefraya",
+      "slug": "mzraat-kefraya-33283"
+    },
+    "code": {
+      "id": "33283",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.447",
+      "lon": "35.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33119",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قره باش",
+      "en": "Qarah Bach",
+      "slug": "qarah-bach-33119"
+    },
+    "code": {
+      "id": "33119",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.383",
+      "lon": "35.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33117",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رشعين",
+      "en": "Rachaaine",
+      "slug": "rachaaine-33117"
+    },
+    "code": {
+      "id": "33117",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.398",
+      "lon": "35.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33167",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راس كيفا",
+      "en": "Ras Kifa",
+      "slug": "ras-kifa-33167"
+    },
+    "code": {
+      "id": "33167",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.315",
+      "lon": "35.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33151",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صخرة",
+      "en": "Sakhra",
+      "slug": "sakhra-33151"
+    },
+    "code": {
+      "id": "33151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.363",
+      "lon": "35.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33259",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سبعل زغرتا",
+      "en": "Sebaal Zgharta",
+      "slug": "sebaal-zgharta-33259"
+    },
+    "code": {
+      "id": "33259",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.318",
+      "lon": "35.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33255",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سرعيل",
+      "en": "Seraal",
+      "slug": "seraal-33255"
+    },
+    "code": {
+      "id": "33255",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.292",
+      "lon": "35.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33171",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تلة زغرتا",
+      "en": "Tallet Zgharta",
+      "slug": "tallet-zgharta-33171"
+    },
+    "code": {
+      "id": "33171",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.394",
+      "lon": "35.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33231",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تولا زغرتا",
+      "en": "Toula Zgharta",
+      "slug": "toula-zgharta-33231"
+    },
+    "code": {
+      "id": "33231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.322",
+      "lon": "35.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زغرتا",
+      "en": "Zgharta",
+      "slug": "zgharta-33111"
+    },
+    "code": {
+      "id": "33111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB57",
+      "level": 2,
+      "name": {
+        "local": "زغرتا",
+        "en": "Zgharta",
+        "slug": "zgharta-lb57"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB57",
+        "level": 2,
+        "name": {
+          "local": "زغرتا",
+          "en": "Zgharta",
+          "slug": "zgharta-lb57"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.397",
+      "lon": "35.889"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,686 @@
+# Akkar — Lebanon Administrative Divisions
+
+> 1 districts, 168 cadastres
+> Code: LB7
+> Coordinates: 34.552, 36.201
+> Last updated: 2026-06-01. License: CC-BY-4.0.
+
+## Districts
+
+### عكار (Akkar)
+
+Code: LB51, Coordinates: 34.552, 36.201
+Cadastres: 168
+
+#### العبودية (Aabboudiyeh)
+
+Code: 35249, Coordinates: 34.636, 36.119
+
+#### عين الزيت (Aain Ez-Zeit)
+
+Code: 35427, Coordinates: 34.59, 36.198
+
+#### عين تنتا (Aain Tinta)
+
+Code: 35435, Coordinates: 34.587, 36.183
+
+#### عين يعقوب (Aain Yaaqoub)
+
+Code: 35187, Coordinates: 34.521, 36.203
+
+#### عيات (Aaiyat)
+
+Code: 35185, Coordinates: 34.538, 36.199
+
+#### عكار العتيقة (Aakkar El-Aatiqa)
+
+Code: 35191, Coordinates: 34.532, 36.245
+
+#### عماره (Aamaret Aakkar)
+
+Code: 35265, Coordinates: 34.531, 36.007
+
+#### عمار البيكات (Aamaret El-Baykat)
+
+Code: 35449, Coordinates: 34.611, 36.166
+
+#### العماير (Aamayer)
+
+Code: 35512, Coordinates: 34.619, 36.371
+
+#### العمارية (Aamriyet Aakkar)
+
+Code: 35421, Coordinates: 34.602, 36.23
+
+#### عندقت (Aandqet)
+
+Code: 35498, Coordinates: 34.568, 36.312
+
+#### العوينات (Aaouaainat Aakkar)
+
+Code: 35420, Coordinates: 34.628, 36.301
+
+#### العريضة (AAridet Cheikh Zennad)
+
+Code: 35273, Coordinates: 34.635, 35.986
+
+#### عرمه (Aarmeh)
+
+Code: 35484, Coordinates: 34.628, 36.164
+
+#### عرقا (Aarqa)
+
+Code: 35141, Coordinates: 34.544, 36.043
+
+#### العيون (Aayoun Aakkar)
+
+Code: 35177, Coordinates: 34.531, 36.174
+
+#### عيون الغزلان (Aayoun El-Ghizlane)
+
+Code: 35347, Coordinates: 34.472, 36.016
+
+#### دوسة بغدادي (Baghdadi)
+
+Code: 35439, Coordinates: 34.604, 36.183
+
+#### بلدي (Balde WaMazraatBaldeh)
+
+Code: 35158, Coordinates: 34.561, 36.145
+
+#### برشا (Barcha)
+
+Code: 35241, Coordinates: 34.627, 36.121
+
+#### بردي (Bardeh)
+
+Code: 35408, Coordinates: 34.595, 36.256
+
+#### ببنين (Bebnine)
+
+Code: 35275, Coordinates: 34.507, 35.991
+
+#### بينو (Beino)
+
+Code: 35175, Coordinates: 34.548, 36.176
+
+#### بيت ايوب (Beit Ayoub)
+
+Code: 35337, Coordinates: 34.472, 36.158
+
+#### بيت الحوش (Beit El-Haouch)
+
+Code: 35367, Coordinates: 34.478, 35.997
+
+#### بيت ملات (Beit Mellat)
+
+Code: 35174, Coordinates: 34.533, 36.158
+
+#### بيت يونس (Beit Younes)
+
+Code: 35321, Coordinates: 34.475, 36.147
+
+#### برباره (Berbara Aakkar)
+
+Code: 35433, Coordinates: 34.574, 36.188
+
+#### برقايل (Berqayel)
+
+Code: 35314, Coordinates: 34.49, 36.03
+
+#### بزبينا (Bezbina)
+
+Code: 35189, Coordinates: 34.513, 36.192
+
+#### البيره عكار (Biret Aakkar)
+
+Code: 35416, Coordinates: 34.592, 36.238
+
+#### البرج عكار (Borj Aakkar)
+
+Code: 35183, Coordinates: 34.533, 36.187
+
+#### بقرزلا (Bqerzla)
+
+Code: 35147, Coordinates: 34.512, 36.066
+
+#### فسقين و عين اشما (Bsatine Aakkar)
+
+Code: 35425, Coordinates: 34.579, 36.202
+
+#### بزال (Bzal)
+
+Code: 35316, Coordinates: 34.464, 36.047
+
+#### شان (Chane)
+
+Code: 35320, Coordinates: 34.485, 36.111
+
+#### الشقدوف (Chaqdouf)
+
+Code: 35181, Coordinates: 34.529, 36.191
+
+#### شربيلا (Charbila)
+
+Code: 35457, Coordinates: 34.581, 36.146
+
+#### الشيخ محمد (Cheikh Mohammad)
+
+Code: 35113, Coordinates: 34.554, 36.083
+
+#### الشيخ طابا (Cheikh Taba)
+
+Code: 35123, Coordinates: 34.534, 36.081
+
+#### الشيخ طابا السهل (Cheikh Taba Es-Sahl)
+
+Code: 35121, Coordinates: 34.551, 36.061
+
+#### الشيخ زناد (Cheikh Zennad)
+
+Code: 35267, Coordinates: 34.611, 35.997
+
+#### شيخلار (Cheikhlar)
+
+Code: 35402, Coordinates: 34.62, 36.278
+
+#### شير حمارين (Chir Hmairine)
+
+Code: 35224, Coordinates: 34.623, 36.102
+
+#### الدغلة (Daghleh)
+
+Code: 35419, Coordinates: 34.58, 36.213
+
+#### ضهر ليسينه (Dahr Laissine)
+
+Code: 35155, Coordinates: 34.539, 36.139
+
+#### الدوره (Daouret Aakkar)
+
+Code: 35126, Coordinates: 34.545, 36.222
+
+#### دارين (Darine)
+
+Code: 35225, Coordinates: 34.61, 36.104
+
+#### دائرة النهر الكبير (Dayret Nahr El-Kabir)
+
+Code: 35511, Coordinates: 34.677, 36.332
+
+#### دير دلوم (Deir Dalloum)
+
+Code: 35149, Coordinates: 34.526, 36.018
+
+#### دير جنين (Deir Jannine)
+
+Code: 35441, Coordinates: 34.567, 36.176
+
+#### دبابية (Dibbabiyeh)
+
+Code: 35432, Coordinates: 34.627, 36.209
+
+#### دنبو عين الذهب (Dinbou)
+
+Code: 35318, Coordinates: 34.489, 36.084
+
+#### دوير عدويه (Douair Aadouiyeh)
+
+Code: 35443, Coordinates: 34.58, 36.172
+
+#### النبي خالد (Fnaydeq)
+
+Code: 35353, Coordinates: 34.459, 36.22
+
+#### فريديس (Fraydes Aakkar)
+
+Code: 35412, Coordinates: 34.617, 36.227
+
+#### الغزيله (Ghazayleh)
+
+Code: 35475, Coordinates: 34.597, 36.11
+
+#### حبشيت (Habchit)
+
+Code: 35326, Coordinates: 34.468, 36.091
+
+#### مشيلحة الحاكور (Hakour)
+
+Code: 35131, Coordinates: 34.525, 36.053
+
+#### حلبا (Halba)
+
+Code: 35111, Coordinates: 34.555, 36.073
+
+#### هوشب (Haouchab)
+
+Code: 35219, Coordinates: 34.587, 36.102
+
+#### الحيصة (Hayssa)
+
+Code: 35221, Coordinates: 34.589, 36.05
+
+#### هيتلا (Haytla)
+
+Code: 35463, Coordinates: 34.604, 36.13
+
+#### حيزوق (Hayzouq)
+
+Code: 35139, Coordinates: 34.551, 36.137
+
+#### الهد (Hedd)
+
+Code: 35169, Coordinates: 34.563, 36.157
+
+#### الحميرة (Hmaireh Aakkar)
+
+Code: 35331, Coordinates: 34.495, 36.047
+
+#### حميص (Hmaiss Aakkar)
+
+Code: 35470, Coordinates: 34.574, 36.125
+
+#### حنيدر (Hnaider)
+
+Code: 35514, Coordinates: 34.615, 36.419
+
+#### حكر الضاهري (Hokr Ed-Dahri)
+
+Code: 35253, Coordinates: 34.631, 36.024
+
+#### حكر قتة (Hokr Etti)
+
+Code: 35223, Coordinates: 34.569, 36.11
+
+#### حكر جورة سرار (Hokr Jouret Srar)
+
+Code: 35239, Coordinates: 34.631, 36.109
+
+#### الحويش (Houaich)
+
+Code: 35322, Coordinates: 34.493, 36.12
+
+#### حرار (Hrar)
+
+Code: 35328, Coordinates: 34.458, 36.128
+
+#### عدبل (Idbil)
+
+Code: 35117, Coordinates: 34.533, 36.101
+
+#### ايلات (Ilat)
+
+Code: 35145, Coordinates: 34.52, 36.103
+
+#### جنين (Janine)
+
+Code: 35263, Coordinates: 34.632, 36.141
+
+#### جديدة القيطع (Jdeidet El-Qaitaa)
+
+Code: 35344, Coordinates: 34.463, 36.001
+
+#### جديدة الجومه (Jdidet Ej-Joumeh)
+
+Code: 35125, Coordinates: 34.539, 36.064
+
+#### جبرائيل (Jebrayel)
+
+Code: 35163, Coordinates: 34.524, 36.128
+
+#### كفر الفتوح (Kafr)
+
+Code: 35423, Coordinates: 34.591, 36.211
+
+#### كرم عصفور (Karm Aasfour)
+
+Code: 35133, Coordinates: 34.524, 36.067
+
+#### كفرحره (Kfar Harra)
+
+Code: 35157, Coordinates: 34.567, 36.137
+
+#### كفرملكي (Kfar Melki Aakkar)
+
+Code: 35234, Coordinates: 34.558, 36.014
+
+#### كفرنون (Kfar Noun)
+
+Code: 35406, Coordinates: 34.629, 36.25
+
+#### خالصة (Khalsa)
+
+Code: 35430, Coordinates: 34.633, 36.314
+
+#### الخرنوبه (Kharnoubet Aakkar)
+
+Code: 35257, Coordinates: 34.63, 36.129
+
+#### خربة شار (Khirbet Char)
+
+Code: 35431, Coordinates: 34.579, 36.191
+
+#### خربة داوود (Khirbet Daoud Aakkar)
+
+Code: 35417, Coordinates: 34.587, 36.22
+
+#### خربة الرمان (Khirbet Er Remmane)
+
+Code: 35410, Coordinates: 34.627, 36.283
+
+#### الخريبة (Khreibet Aakkar)
+
+Code: 35330, Coordinates: 34.478, 36.126
+
+#### خريبة الجندي (Khreibet Ej-Jindi)
+
+Code: 35216, Coordinates: 34.567, 36.091
+
+#### الكنيسة (Kneisset Aakkar)
+
+Code: 35245, Coordinates: 34.616, 36.026
+
+#### كنيسة هنيدر (Kneisset Hnaider)
+
+Code: 35515, Coordinates: 34.598, 36.443
+
+#### كنيسة (Knisseh)
+
+Code: 35465, Coordinates: 34.566, 36.125
+
+#### الكواشرة (Kouachra)
+
+Code: 35429, Coordinates: 34.61, 36.208
+
+#### الكويخات (Koueikhat)
+
+Code: 35215, Coordinates: 34.583, 36.089
+
+#### كروم العرب (Kroum El-Aarab)
+
+Code: 35119, Coordinates: 34.556, 36.091
+
+#### Litige
+
+Code: 35001, Coordinates: 34.632, 36.116
+
+#### Litige
+
+Code: 35002, Coordinates: 34.488, 36.24
+
+#### Litige
+
+Code: 35003, Coordinates: 34.5, 36.263
+
+#### مشحة (Machha)
+
+Code: 35137, Coordinates: 34.544, 36.11
+
+#### مشتى حمود (Machta Hammoud)
+
+Code: 35437, Coordinates: 34.632, 36.325
+
+#### مجدلا (Majdala)
+
+Code: 35354, Coordinates: 34.501, 36.035
+
+#### المجدل عكار (Majdel Akkar)
+
+Code: 35128, Coordinates: 34.571, 36.211
+
+#### مار توما (Mar Touma)
+
+Code: 35167, Coordinates: 34.514, 36.018
+
+#### مار ليا ملحم (Marlaya Melhem)
+
+Code: 35255, Coordinates: 34.54, 36.023
+
+#### المسعودية (Massaaoudiyeh)
+
+Code: 35229, Coordinates: 34.614, 36.044
+
+#### اكروم (Mazareaa Jabal Akroum)
+
+Code: 35516, Coordinates: 34.556, 36.366
+
+#### بيت غطاس (Mazraat Beit Ghattas)
+
+Code: 35134, Coordinates: 34.524, 36.062
+
+#### النهريه (Mazraat En-Nahriyeh)
+
+Code: 35486, Coordinates: 34.6, 36.28
+
+#### ممنع (Menneaa)
+
+Code: 35371, Coordinates: 34.504, 36.178
+
+#### المحمرة (Mhammaret)
+
+Code: 35277, Coordinates: 34.506, 35.97
+
+#### مشمش (Michmich Aakkar)
+
+Code: 35351, Coordinates: 34.446, 36.168
+
+#### المغراق (Mighraq Aakkar)
+
+Code: 35251, Coordinates: 34.613, 36.015
+
+#### منيارة (Minyara)
+
+Code: 35129, Coordinates: 34.537, 36.061
+
+#### منجز (Mounjez)
+
+Code: 35414, Coordinates: 34.615, 36.247
+
+#### المقيطع (Mqaiteaa)
+
+Code: 35261, Coordinates: 34.563, 35.998
+
+#### مصلا (Msalla)
+
+Code: 35451, Coordinates: 34.593, 36.17
+
+#### مزيحمة (Mzeihmeh)
+
+Code: 35461, Coordinates: 34.61, 36.142
+
+#### النفيسة (Nfisseh)
+
+Code: 35115, Coordinates: 34.546, 36.088
+
+#### نورا التحتا (Noura Et-Tahta)
+
+Code: 35445, Coordinates: 34.624, 36.187
+
+#### وادي الحور (Ouadi El-Haour)
+
+Code: 35455, Coordinates: 34.61, 36.152
+
+#### وادي الجاموس (Ouadi El-Jamous)
+
+Code: 35364, Coordinates: 34.509, 36.009
+
+#### قعبرين (Qaabrine)
+
+Code: 35233, Coordinates: 34.569, 36.028
+
+#### قبعيت (Qabaait)
+
+Code: 35325, Coordinates: 34.454, 36.081
+
+#### قشلق (Qachlaq)
+
+Code: 35453, Coordinates: 34.619, 36.149
+
+#### القنطرة (Qantarat Aakkar)
+
+Code: 35135, Coordinates: 34.523, 36.08
+
+#### القرقف (Qardaf)
+
+Code: 35341, Coordinates: 34.492, 36.014
+
+#### قرحه عكار (Qarha Aakkar)
+
+Code: 35518, Coordinates: 34.622, 36.445
+
+#### القبيات (Qbaiyat Aakkar)
+
+Code: 35487, Coordinates: 34.546, 36.277
+
+#### قبولا (Qboula)
+
+Code: 35179, Coordinates: 34.531, 36.179
+
+#### القليعات (Qleiaat Aakkar)
+
+Code: 35243, Coordinates: 34.594, 36.009
+
+#### قلود الباقية (Qloud El-Baqieh)
+
+Code: 35317, Coordinates: 34.497, 36.059
+
+#### القرنة (Qornet Aakkar)
+
+Code: 35352, Coordinates: 34.482, 36.165
+
+#### قبة شمرا (Qoubber Chamra)
+
+Code: 35269, Coordinates: 34.538, 35.998
+
+#### القريات (Qraiyat)
+
+Code: 35334, Coordinates: 34.481, 36.153
+
+#### القصير (Qsair Aakkar)
+
+Code: 35415, Coordinates: 34.608, 36.239
+
+#### رحبة (Rahbeh)
+
+Code: 35357, Coordinates: 34.502, 36.14
+
+#### الريحانية (Rihaniyet Aakkar)
+
+Code: 35467, Coordinates: 34.582, 36.118
+
+#### رماح النهريه (Rmah)
+
+Code: 35404, Coordinates: 34.618, 36.263
+
+#### رمول (Rmoul)
+
+Code: 35281, Coordinates: 34.574, 36.007
+
+#### سعدين (Saadine)
+
+Code: 35217, Coordinates: 34.602, 36.088
+
+#### صدقة (Sadaqa)
+
+Code: 35327, Coordinates: 34.465, 36.15
+
+#### السنديانة (Saidnaya)
+
+Code: 35469, Coordinates: 34.589, 36.125
+
+#### السماقية (Sammaqiyeh)
+
+Code: 35271, Coordinates: 34.635, 36.009
+
+#### السمونيه (Sammouniyeh)
+
+Code: 35227, Coordinates: 34.569, 36.054
+
+#### سيسوق (Sayssouq)
+
+Code: 35311, Coordinates: 34.486, 36.058
+
+#### سمقالي (Semmaqli)
+
+Code: 35259, Coordinates: 34.543, 36.014
+
+#### سفينة القيطع (Sfaynet El-Qaitaa)
+
+Code: 35324, Coordinates: 34.456, 36.025
+
+#### سفينة الدريب (Sfinet Ed-Draib)
+
+Code: 35447, Coordinates: 34.577, 36.163
+
+#### سنديانة زيدان (Sindianet Zeidane)
+
+Code: 35411, Coordinates: 34.576, 36.239
+
+#### السويسة (Souaisset Aakkar)
+
+Code: 35143, Coordinates: 34.556, 36.119
+
+#### سرار (Srar)
+
+Code: 35471, Coordinates: 34.617, 36.132
+
+#### تل عباس الشرقي (Tall Aabbas Ech-Charqi)
+
+Code: 35213, Coordinates: 34.599, 36.073
+
+#### تلعباس غربي (Tall Aabbas El-Gharbi)
+
+Code: 35211, Coordinates: 34.584, 36.067
+
+#### تلبيرة (Tall Bireh)
+
+Code: 35235, Coordinates: 34.619, 36.057
+
+#### تلحميرة (Tall Hmayra)
+
+Code: 35237, Coordinates: 34.622, 36.078
+
+#### تلمعيان (Tall Meaayan Tall Kiri)
+
+Code: 35231, Coordinates: 34.599, 36.036
+
+#### تل سبعل (Tall Sebaal)
+
+Code: 35247, Coordinates: 34.553, 36.029
+
+#### شطاحة (Tallet Chattaha)
+
+Code: 35173, Coordinates: 34.533, 36.171
+
+#### تكريت (Tikrit)
+
+Code: 35171, Coordinates: 34.515, 36.164
+
+#### التليل (Tleil)
+
+Code: 35459, Coordinates: 34.596, 36.139
+
+#### تاشع (Tshea)
+
+Code: 35356, Coordinates: 34.498, 36.197
+
+#### الزواريب (Zouarib)
+
+Code: 35127, Coordinates: 34.534, 36.07
+
+#### ذوق الحصينة (Zouq El Hosniyeh)
+
+Code: 35151, Coordinates: 34.522, 36.04
+
+#### ذوق حدارة (Zouq El-Hadara)
+
+Code: 35159, Coordinates: 34.512, 36.035
+
+#### ذوق الحبالصة (Zouq El-Hbalsa)
+
+Code: 35153, Coordinates: 34.515, 36.04
+
+#### ذوق المقشرين (Zouq El-Moqachrine)
+
+Code: 35161, Coordinates: 34.519, 36.029
+

@@ -1,0 +1,2324 @@
+[
+  {
+    "id": "32143",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عبا الكورة",
+      "en": "Aaba",
+      "slug": "aaba-32143"
+    },
+    "code": {
+      "id": "32143",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.344",
+      "lon": "35.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32127",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عفصديق",
+      "en": "Aafsdiq",
+      "slug": "aafsdiq-32127"
+    },
+    "code": {
+      "id": "32127",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.33",
+      "lon": "35.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32135",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين عكرين",
+      "en": "Ain Aakrine",
+      "slug": "ain-aakrine-32135"
+    },
+    "code": {
+      "id": "32135",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.283",
+      "lon": "35.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "اميون",
+      "en": "Amioun",
+      "slug": "amioun-32111"
+    },
+    "code": {
+      "id": "32111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.3",
+      "lon": "35.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32161",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بدبهون",
+      "en": "Badbhoun",
+      "slug": "badbhoun-32161"
+    },
+    "code": {
+      "id": "32161",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.333",
+      "lon": "35.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32163",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برغون",
+      "en": "Barghoun",
+      "slug": "barghoun-32163"
+    },
+    "code": {
+      "id": "32163",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.342",
+      "lon": "35.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32187",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برصا",
+      "en": "Barsa",
+      "slug": "barsa-32187"
+    },
+    "code": {
+      "id": "32187",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.386",
+      "lon": "35.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32159",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بترومين",
+      "en": "Batroumine",
+      "slug": "batroumine-32159"
+    },
+    "code": {
+      "id": "32159",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.364",
+      "lon": "35.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32145",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بدبا",
+      "en": "Bdebba",
+      "slug": "bdebba-32145"
+    },
+    "code": {
+      "id": "32145",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.348",
+      "lon": "35.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32117",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بشمزين",
+      "en": "Bechmizzine",
+      "slug": "bechmizzine-32117"
+    },
+    "code": {
+      "id": "32117",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.321",
+      "lon": "35.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32165",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بدنايل الكورة",
+      "en": "Bednayel El-Koura",
+      "slug": "bednayel-el-koura-32165"
+    },
+    "code": {
+      "id": "32165",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.294",
+      "lon": "35.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32133",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بحبوش",
+      "en": "Bhabbouch El-Koura",
+      "slug": "bhabbouch-el-koura-32133"
+    },
+    "code": {
+      "id": "32133",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.277",
+      "lon": "35.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32189",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بكفتين",
+      "en": "Bkeftine",
+      "slug": "bkeftine-32189"
+    },
+    "code": {
+      "id": "32189",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.387",
+      "lon": "35.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32141",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بنهران",
+      "en": "Bnehran",
+      "slug": "bnehran-32141"
+    },
+    "code": {
+      "id": "32141",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.273",
+      "lon": "35.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32193",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "البقيعة",
+      "en": "Bqaiaa El-Koura",
+      "slug": "bqaiaa-el-koura-32193"
+    },
+    "code": {
+      "id": "32193",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.371",
+      "lon": "35.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32125",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بصرما",
+      "en": "Bsarma",
+      "slug": "bsarma-32125"
+    },
+    "code": {
+      "id": "32125",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.338",
+      "lon": "35.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32153",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بتعبورة",
+      "en": "Btaaboura",
+      "slug": "btaaboura-32153"
+    },
+    "code": {
+      "id": "32153",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.276",
+      "lon": "35.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32119",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بطرام",
+      "en": "Bterram",
+      "slug": "bterram-32119"
+    },
+    "code": {
+      "id": "32119",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.336",
+      "lon": "35.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32169",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بتوراتيج",
+      "en": "Btouratij",
+      "slug": "btouratij-32169"
+    },
+    "code": {
+      "id": "32169",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.361",
+      "lon": "35.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32121",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بزيزا",
+      "en": "Bziza",
+      "slug": "bziza-32121"
+    },
+    "code": {
+      "id": "32121",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.275",
+      "lon": "35.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32131",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دار بعشتار",
+      "en": "Dar Baaechtar",
+      "slug": "dar-baaechtar-32131"
+    },
+    "code": {
+      "id": "32131",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.273",
+      "lon": "35.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32129",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دار شمزين",
+      "en": "Dar Chmizzine",
+      "slug": "dar-chmizzine-32129"
+    },
+    "code": {
+      "id": "32129",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.285",
+      "lon": "35.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32179",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دده",
+      "en": "Deddeh",
+      "slug": "deddeh-32179"
+    },
+    "code": {
+      "id": "32179",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.377",
+      "lon": "35.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32173",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير البلمند",
+      "en": "Deir El-Balamand",
+      "slug": "deir-el-balamand-32173"
+    },
+    "code": {
+      "id": "32173",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.366",
+      "lon": "35.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32181",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "أنفه",
+      "en": "Enfeh",
+      "slug": "enfeh-32181"
+    },
+    "code": {
+      "id": "32181",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.351",
+      "lon": "35.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32147",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فيع",
+      "en": "Fiaa",
+      "slug": "fiaa-32147"
+    },
+    "code": {
+      "id": "32147",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.347",
+      "lon": "35.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32183",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حريشه",
+      "en": "Hraiche",
+      "slug": "hraiche-32183"
+    },
+    "code": {
+      "id": "32183",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.373",
+      "lon": "35.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32157",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "اجدعبرين",
+      "en": "Ijdaabrine",
+      "slug": "ijdaabrine-32157"
+    },
+    "code": {
+      "id": "32157",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.272",
+      "lon": "35.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32177",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفريا الكورة",
+      "en": "Kafraya El-Koura",
+      "slug": "kafraya-el-koura-32177"
+    },
+    "code": {
+      "id": "32177",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.299",
+      "lon": "35.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32151",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفتون",
+      "en": "Kaftoun",
+      "slug": "kaftoun-32151"
+    },
+    "code": {
+      "id": "32151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.265",
+      "lon": "35.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32113",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر عقا",
+      "en": "Kfar Aaqqa",
+      "slug": "kfar-aaqqa-32113"
+    },
+    "code": {
+      "id": "32113",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.31",
+      "lon": "35.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32155",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرحاتا",
+      "en": "Kfar Hata El-Koura",
+      "slug": "kfar-hata-el-koura-32155"
+    },
+    "code": {
+      "id": "32155",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.287",
+      "lon": "35.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32123",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرحزير",
+      "en": "Kfar Hazir",
+      "slug": "kfar-hazir-32123"
+    },
+    "code": {
+      "id": "32123",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.308",
+      "lon": "35.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32167",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرقاهل",
+      "en": "Kfar Kahel",
+      "slug": "kfar-kahel-32167"
+    },
+    "code": {
+      "id": "32167",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.354",
+      "lon": "35.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32115",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرصارون",
+      "en": "Kfar Saroun El-Koura",
+      "slug": "kfar-saroun-el-koura-32115"
+    },
+    "code": {
+      "id": "32115",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.297",
+      "lon": "35.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32137",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كوسبا",
+      "en": "Kousba",
+      "slug": "kousba-32137"
+    },
+    "code": {
+      "id": "32137",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.308",
+      "lon": "35.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32149",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجدل الكورة",
+      "en": "Majdel el-Koura",
+      "slug": "majdel-el-koura-32149"
+    },
+    "code": {
+      "id": "32149",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.255",
+      "lon": "35.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32191",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نخلة",
+      "en": "Nakhleh",
+      "slug": "nakhleh-32191"
+    },
+    "code": {
+      "id": "32191",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.369",
+      "lon": "35.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32171",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قلحات",
+      "en": "Qalhat",
+      "slug": "qalhat-32171"
+    },
+    "code": {
+      "id": "32171",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.361",
+      "lon": "35.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32185",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راس مسقا الجنوبية",
+      "en": "Ras Masqa",
+      "slug": "ras-masqa-32185"
+    },
+    "code": {
+      "id": "32185",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.397",
+      "lon": "35.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32139",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رشدبين",
+      "en": "Rechdibbine",
+      "slug": "rechdibbine-32139"
+    },
+    "code": {
+      "id": "32139",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.289",
+      "lon": "35.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32175",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زكرون",
+      "en": "Zakroun",
+      "slug": "zakroun-32175"
+    },
+    "code": {
+      "id": "32175",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.354",
+      "lon": "35.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32195",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زغرتا المتاولة",
+      "en": "Zgharta El-Mtaouile",
+      "slug": "zgharta-el-mtaouile-32195"
+    },
+    "code": {
+      "id": "32195",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB54",
+      "level": 2,
+      "name": {
+        "local": "الكورة",
+        "en": "El Koura",
+        "slug": "el-koura-lb54"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB54",
+        "level": 2,
+        "name": {
+          "local": "الكورة",
+          "en": "El Koura",
+          "slug": "el-koura-lb54"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.255",
+      "lon": "35.841"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

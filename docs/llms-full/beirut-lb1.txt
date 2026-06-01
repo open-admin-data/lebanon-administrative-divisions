@@ -1,0 +1,66 @@
+# Beirut — Lebanon Administrative Divisions
+
+> 1 districts, 13 cadastres
+> Code: LB1
+> Coordinates: 33.889, 35.502
+> Last updated: 2026-06-01. License: CC-BY-4.0.
+
+## Districts
+
+### بيروت (Beirut)
+
+Code: LB11, Coordinates: 33.889, 35.502
+Cadastres: 13
+
+#### الاشرفية (Achrafieh)
+
+Code: 10650, Coordinates: 33.884, 35.521
+
+#### عين المريسه (Ain el-Mreisseh)
+
+Code: 10110, Coordinates: 33.899, 35.475
+
+#### باشورة (Bachoura)
+
+Code: 10350, Coordinates: 33.89, 35.504
+
+#### وسط بيروت (Beirut Central District)
+
+Code: 10999, Coordinates: 33.908, 35.522
+
+#### مرفأ (Marfaa)
+
+Code: 10450, Coordinates: 33.9, 35.512
+
+#### المزرعة (Mazraa)
+
+Code: 10310, Coordinates: 33.874, 35.507
+
+#### مدور (Medawar)
+
+Code: 10610, Coordinates: 33.902, 35.53
+
+#### مينا الحصن (Minet el-Hosn)
+
+Code: 10250, Coordinates: 33.9, 35.496
+
+#### مصيطبة (Moussaytbeh)
+
+Code: 10210, Coordinates: 33.882, 35.488
+
+#### راس بيروت (Ras Beyrouth)
+
+Code: 10150, Coordinates: 33.891, 35.478
+
+#### رميل (Remeil)
+
+Code: 10550, Coordinates: 33.894, 35.524
+
+#### صيفي (Saifeh)
+
+Code: 10510, Coordinates: 33.893, 35.509
+
+#### زقاق البلاط (Zoukak el-Blatt)
+
+Code: 10410, Coordinates: 33.893, 35.499
+

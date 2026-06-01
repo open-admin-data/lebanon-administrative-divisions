@@ -1,0 +1,609 @@
+# El Nabatieh — Lebanon Administrative Divisions
+
+> 4 districts, 145 cadastres
+> Code: LB4
+> Coordinates: 33.283, 35.497
+> Last updated: 2026-06-01. License: CC-BY-4.0.
+
+## Districts
+
+### بنت جبيل (Bent Jbeil)
+
+Code: LB41, Coordinates: 33.183, 35.416
+Cadastres: 38
+
+#### عين ابل (Aain Ibl)
+
+Code: 72143, Coordinates: 33.109, 35.404
+
+#### عيترون (Aaintaroun)
+
+Code: 72151, Coordinates: 33.112, 35.483
+
+#### عيتا الجبل الزط (Aaita Ej-Jabal)
+
+Code: 72224, Coordinates: 33.174, 35.41
+
+#### عيناتا بنت جبيل (Aaynata Bent Jbayl)
+
+Code: 72119, Coordinates: 33.13, 35.45
+
+#### عيتا الشعب (Aayta Ech-Chaab)
+
+Code: 72183, Coordinates: 33.094, 35.342
+
+#### برعشيت (Baraachit)
+
+Code: 72227, Coordinates: 33.179, 35.439
+
+#### بيت ليف (Beit Lif)
+
+Code: 72287, Coordinates: 33.133, 35.336
+
+#### بيت ياحون (Beit Yahoun)
+
+Code: 72237, Coordinates: 33.158, 35.423
+
+#### بنت جبيل (Bent Jbayl)
+
+Code: 72111, Coordinates: 33.121, 35.438
+
+#### برج قلويه (Borj qalaouiyeh)
+
+Code: 72264, Coordinates: 33.26, 35.424
+
+#### شقرا (Chaqra)
+
+Code: 72229, Coordinates: 33.176, 35.469
+
+#### دبل امية (Debl)
+
+Code: 72281, Coordinates: 33.122, 35.377
+
+#### دير نطار (Deir Ntar)
+
+Code: 72244, Coordinates: 33.218, 35.377
+
+#### فرون (Froun)
+
+Code: 72276, Coordinates: 33.297, 35.429
+
+#### غندورية بنت جبيل (Ghandouriyet Bent Jbayl)
+
+Code: 72274, Coordinates: 33.277, 35.437
+
+#### حداثا (Haddatha)
+
+Code: 72231, Coordinates: 33.156, 35.392
+
+#### حنين (Hanine)
+
+Code: 72284, Coordinates: 33.103, 35.375
+
+#### حاريص (Haris)
+
+Code: 72241, Coordinates: 33.177, 35.381
+
+#### جميجمة (Jmaijmeh)
+
+Code: 72221, Coordinates: 33.209, 35.438
+
+#### كفرا بنت جبيل (Kafra Bant Jbayl)
+
+Code: 72257, Coordinates: 33.18, 35.355
+
+#### كفر دونين (Kfar Dounine)
+
+Code: 72247, Coordinates: 33.232, 35.399
+
+#### خربة سلم (Khirbet Selm)
+
+Code: 72234, Coordinates: 33.232, 35.42
+
+#### كونين (Kounine)
+
+Code: 72251, Coordinates: 33.149, 35.45
+
+#### مارون الراس (Maroun Er-Ras)
+
+Code: 72127, Coordinates: 33.104, 35.45
+
+#### قلويه (Qalaouiyeh)
+
+Code: 72261, Coordinates: 33.251, 35.42
+
+#### قوزح (Qaouzah)
+
+Code: 72291, Coordinates: 33.121, 35.345
+
+#### قطموم (Qatmoun)
+
+Code: 72175, Coordinates: 33.062, 35.366
+
+#### رشاف (Rachaf)
+
+Code: 72271, Coordinates: 33.144, 35.362
+
+#### رامية بنت جبيل (Ramyet Bent Jbayl)
+
+Code: 72191, Coordinates: 33.113, 35.315
+
+#### رميش (Rmaich)
+
+Code: 72167, Coordinates: 33.075, 35.37
+
+#### صفد البطيخ (Safad Al-Battikh)
+
+Code: 72217, Coordinates: 33.196, 35.433
+
+#### الصلحاني (Salhani)
+
+Code: 72135, Coordinates: 33.132, 35.307
+
+#### سلطانية (Soultaniyet Bent Jbayl)
+
+Code: 72214, Coordinates: 33.206, 35.403
+
+#### صربين (Srobbine)
+
+Code: 72267, Coordinates: 33.154, 35.361
+
+#### تبنين (Tibnine)
+
+Code: 72211, Coordinates: 33.192, 35.406
+
+#### طيري (Tiri)
+
+Code: 72254, Coordinates: 33.144, 35.401
+
+#### يارون (Yaroun)
+
+Code: 72159, Coordinates: 33.084, 35.417
+
+#### ياطر (Yater)
+
+Code: 72277, Coordinates: 33.148, 35.325
+
+### النبطية (El Nabatieh)
+
+Code: LB44, Coordinates: 33.403, 35.468
+Cadastres: 52
+
+#### عبا (Aabba)
+
+Code: 71351, Coordinates: 33.357, 35.392
+
+#### عدشيت الشقيف (Aadchit Ech-Chqif)
+
+Code: 71347, Coordinates: 33.346, 35.416
+
+#### مزرعة عين بوسوار (Aain Bou Souar)
+
+Code: 71216, Coordinates: 33.47, 35.519
+
+#### عين قانا (Aain Qana)
+
+Code: 71226, Coordinates: 33.468, 35.5
+
+#### علي الطاهر (Aali Et-Taher)
+
+Code: 71115, Coordinates: 33.365, 35.518
+
+#### عرب صاليم (Aarab Salim)
+
+Code: 71256, Coordinates: 33.424, 35.504
+
+#### عزه (Aazzi)
+
+Code: 71271, Coordinates: 33.452, 35.435
+
+#### إنصار (Ansar)
+
+Code: 71361, Coordinates: 33.379, 35.34
+
+#### أرنون (Arnoun)
+
+Code: 71377, Coordinates: 33.334, 35.527
+
+#### كفروة أو بفروة (Bfaroueh)
+
+Code: 71276, Coordinates: 33.442, 35.424
+
+#### بريقع (Braiqeaa)
+
+Code: 71387, Coordinates: 33.341, 35.378
+
+#### شرقية (Charqiyeh)
+
+Code: 71321, Coordinates: 33.408, 35.425
+
+#### شوكين (Choukine)
+
+Code: 71144, Coordinates: 33.351, 35.458
+
+#### دير الزهراني (Deir Ez-Zahrani)
+
+Code: 71311, Coordinates: 33.428, 35.448
+
+#### الدوير النبطية (Douair En-Nabatiyeh)
+
+Code: 71334, Coordinates: 33.383, 35.414
+
+#### حبوش (Habbouch En-Nabatiyeh)
+
+Code: 71155, Coordinates: 33.407, 35.486
+
+#### الحمرا النبطية (Hamra En-Nabattiyeh)
+
+Code: 71371, Coordinates: 33.326, 35.494
+
+#### حروف (Harouf En-Nabatiyeh)
+
+Code: 71331, Coordinates: 33.369, 35.445
+
+#### حميلة (Hmaileh)
+
+Code: 71251, Coordinates: 33.446, 35.467
+
+#### حومين الفوقا (Houmine El-Faouqa)
+
+Code: 71246, Coordinates: 33.441, 35.49
+
+#### حومين التحتا (Houmine Et-Tahta)
+
+Code: 71266, Coordinates: 33.479, 35.436
+
+#### جرجوع (Jarjouaa)
+
+Code: 71231, Coordinates: 33.449, 35.525
+
+#### جباع النبطية (Jbaa En-Nabatiyeh)
+
+Code: 71211, Coordinates: 33.489, 35.523
+
+#### جبشيت (Jibchit)
+
+Code: 71337, Coordinates: 33.361, 35.428
+
+#### كفردجال (Kfar Djal En-Nabatiyeh)
+
+Code: 71354, Coordinates: 33.343, 35.44
+
+#### كفر رمان (Kfar Roummane)
+
+Code: 71133, Coordinates: 33.398, 35.518
+
+#### كفرصير (Kfar Sir)
+
+Code: 71391, Coordinates: 33.316, 35.397
+
+#### كفر تبنيت (Kfar Tibnit)
+
+Code: 71166, Coordinates: 33.351, 35.519
+
+#### كفرفيلا (Kfarfila)
+
+Code: 71221, Coordinates: 33.481, 35.498
+
+#### الكفور النبطية (Kfour En-Nabatieh)
+
+Code: 71177, Coordinates: 33.404, 35.452
+
+#### ميفدون (Mayfadoun)
+
+Code: 71344, Coordinates: 33.345, 35.475
+
+#### مزرعة بصفُور (Mazraat Bsaffour)
+
+Code: 71386, Coordinates: 33.392, 35.381
+
+#### مزرعة شلبعل (Mazraat Chalbaal)
+
+Code: 71341, Coordinates: 33.386, 35.391
+
+#### مزرعة دمول (Mazraat Dmoul)
+
+Code: 71357, Coordinates: 33.37, 35.38
+
+#### مزرعة البياض (Mazraat El-Bayad En-Nabatieh)
+
+Code: 71314, Coordinates: 33.428, 35.481
+
+#### مزرعة كفر جوز (Mazraat Kfarjaouz)
+
+Code: 71117, Coordinates: 33.395, 35.475
+
+#### مزرعة قلعة ميس (Mazraat Qalaat El-Meis)
+
+Code: 71384, Coordinates: 33.358, 35.36
+
+#### مزرعة الخريبة (Mzaraat El-Khreibeh)
+
+Code: 71241, Coordinates: 33.472, 35.46
+
+#### نبطية التحتا (Nabatieh Et-Tahta)
+
+Code: 71111, Coordinates: 33.379, 35.483
+
+#### نبطية الفوقا (Nabatiyeh El-Faouka)
+
+Code: 71113, Coordinates: 33.355, 35.493
+
+#### نميرية (Nmairiyeh)
+
+Code: 71327, Coordinates: 33.418, 35.409
+
+#### قعقعية الجسر (Qaaqaaiyet Ej-Jisr)
+
+Code: 71381, Coordinates: 33.326, 35.426
+
+#### قصيبة النبطية (Qsaibet En-Nabatiyeh)
+
+Code: 71374, Coordinates: 33.335, 35.403
+
+#### رومين (Roumine)
+
+Code: 71261, Coordinates: 33.46, 35.453
+
+#### صربا النبطية (Sarba En-Nabatieh)
+
+Code: 71236, Coordinates: 33.471, 35.476
+
+#### صير الغربية (Sir El-Gharbiyeh)
+
+Code: 71397, Coordinates: 33.322, 35.36
+
+#### تول (Toul)
+
+Code: 71324, Coordinates: 33.391, 35.45
+
+#### يحمر (Yohmor En-Nabatiyeh)
+
+Code: 71394, Coordinates: 33.314, 35.513
+
+#### زوطر الشرقية (Zaoutar Ech-Charqiyeh)
+
+Code: 71367, Coordinates: 33.32, 35.475
+
+#### زوطر الغربية (Zaoutar El-Gharbiyeh)
+
+Code: 71364, Coordinates: 33.324, 35.453
+
+#### زفتا (Zefta)
+
+Code: 71281, Coordinates: 33.444, 35.401
+
+#### زبدين النبطية (Zibdine En-Nabatiyeh)
+
+Code: 71122, Coordinates: 33.373, 35.462
+
+### حاصبيا (Hasbaya)
+
+Code: LB42, Coordinates: 33.361, 35.703
+Cadastres: 22
+
+#### عين جرفا (Aain Jarfa)
+
+Code: 74114, Coordinates: 33.382, 35.684
+
+#### عين قنيا (Aain Qinia)
+
+Code: 74126, Coordinates: 33.398, 35.703
+
+#### أبو قمحة (Abou Qamha)
+
+Code: 74112, Coordinates: 33.382, 35.657
+
+#### برغز (Bourghos)
+
+Code: 74155, Coordinates: 33.41, 35.625
+
+#### شبعا (Chebaa)
+
+Code: 74130, Coordinates: 33.354, 35.749
+
+#### شويّا (Chouaya Hasbaiya)
+
+Code: 74124, Coordinates: 33.388, 35.737
+
+#### دلافة (Dellafeh)
+
+Code: 74179, Coordinates: 33.425, 35.644
+
+#### الفرديس (Fardis Hasbaiya)
+
+Code: 74116, Coordinates: 33.367, 35.656
+
+#### حاصبيّا (Hasbaiya)
+
+Code: 74111, Coordinates: 33.42, 35.672
+
+#### هبّارية (Hebbariyeh)
+
+Code: 74122, Coordinates: 33.361, 35.7
+
+#### كوكبا حاصبيّا (Kaoukaba Hasbaiya)
+
+Code: 74133, Coordinates: 33.393, 35.634
+
+#### كفر شوبا (Kfar Chouba)
+
+Code: 74160, Coordinates: 33.321, 35.685
+
+#### كفرحمام (Kfar Hamam)
+
+Code: 74120, Coordinates: 33.341, 35.671
+
+#### كفير الزيت (Kfayr Ez-Zait)
+
+Code: 74175, Coordinates: 33.44, 35.734
+
+#### خلوات حاصبيّا (Khalouet Hasbaiya)
+
+Code: 74168, Coordinates: 33.404, 35.752
+
+#### خريبة حاصبيّا (Khreibet Hasbaiya)
+
+Code: 74181, Coordinates: 33.333, 35.644
+
+#### مجيدية حاصبيا (Majidiyeh Hasbaiya)
+
+Code: 74177, Coordinates: 33.29, 35.656
+
+#### مرج الزهور الدنيبة (Marj Ez-Zouhour (Haouch El-Qinnaabeh))
+
+Code: 74131, Coordinates: 33.466, 35.741
+
+#### ميمس (Meimes)
+
+Code: 74128, Coordinates: 33.435, 35.698
+
+#### ماري (Meri)
+
+Code: 74158, Coordinates: 33.316, 35.646
+
+#### راشيّا الفخار (Rachaiya El-Foukhar)
+
+Code: 74118, Coordinates: 33.35, 35.652
+
+#### صلايب (Salaiyeb)
+
+Code: 74141, Coordinates: 33.284, 35.629
+
+### مرجعيون (Marjaayoun)
+
+Code: LB43, Coordinates: 33.259, 35.496
+Cadastres: 33
+
+#### عديسة مرجعيون (Aadaysseh Marjaayoun)
+
+Code: 73211, Coordinates: 33.248, 35.538
+
+#### عدشيت القصير (Aadchit El-Qoussair)
+
+Code: 73256, Coordinates: 33.27, 35.489
+
+#### عين عرب مرجعيون (Aain Aarab Marjaayoun)
+
+Code: 73162, Coordinates: 33.299, 35.623
+
+#### علمانة (Aalmane Marjaayoun)
+
+Code: 73293, Coordinates: 33.303, 35.466
+
+#### عمرة (Aamra)
+
+Code: 73191, Coordinates: 33.266, 35.604
+
+#### بني حيان (Bany haiyane)
+
+Code: 73226, Coordinates: 33.248, 35.488
+
+#### بلاط مرجعيون (Blat Marjaayoun)
+
+Code: 73135, Coordinates: 33.384, 35.605
+
+#### بليدا (Blida)
+
+Code: 73288, Coordinates: 33.137, 35.504
+
+#### برج الملوك (Borj El-Moulouk)
+
+Code: 73146, Coordinates: 33.313, 35.566
+
+#### بويضة مرجعيون (Boueyda Marjaayoun)
+
+Code: 73116, Coordinates: 33.365, 35.566
+
+#### دير ميماس (Deir Mimas)
+
+Code: 73167, Coordinates: 33.302, 35.544
+
+#### دير سريان (Deir Siriane)
+
+Code: 73230, Coordinates: 33.293, 35.498
+
+#### دبين (Dibbine)
+
+Code: 73119, Coordinates: 33.369, 35.6
+
+#### حولا (Houla)
+
+Code: 73234, Coordinates: 33.207, 35.511
+
+#### حوره (Houra)
+
+Code: 73183, Coordinates: 33.297, 35.558
+
+#### إبل السقي (Ibl Es-Saqi)
+
+Code: 73127, Coordinates: 33.356, 35.622
+
+#### كفركيلا (Kfar Kila)
+
+Code: 73228, Coordinates: 33.274, 35.548
+
+#### الخيام (Khiyam Marjaayoun)
+
+Code: 73159, Coordinates: 33.317, 35.611
+
+#### مجدل سلم (Majdel Selm)
+
+Code: 73279, Coordinates: 33.222, 35.461
+
+#### مرجعيون (Marjaayoun)
+
+Code: 73111, Coordinates: 33.351, 35.595
+
+#### مركبا (Markaba)
+
+Code: 73245, Coordinates: 33.231, 35.518
+
+#### مزرعة دمياط (Mazraat Doumiat)
+
+Code: 73143, Coordinates: 33.349, 35.548
+
+#### مزرعة سردة (Mazraat Sarada)
+
+Code: 73175, Coordinates: 33.296, 35.601
+
+#### ميس الجبل (Meiss Ej-Jabal)
+
+Code: 73250, Coordinates: 33.177, 35.511
+
+#### محيبيب (Mhaibib)
+
+Code: 73248, Coordinates: 33.151, 35.5
+
+#### قبريخا (Qabrikha)
+
+Code: 73262, Coordinates: 33.251, 35.468
+
+#### قنطرة (Qantara)
+
+Code: 73276, Coordinates: 33.271, 35.459
+
+#### قليعة (Qlaiaa)
+
+Code: 73151, Coordinates: 33.33, 35.564
+
+#### رب التلاتين (Rabb Et-Tlatine)
+
+Code: 73257, Coordinates: 33.254, 35.515
+
+#### صوانة مرجعيون (Saouanet Marjayoun)
+
+Code: 73280, Coordinates: 33.233, 35.444
+
+#### طلوسة (Talloussa)
+
+Code: 73244, Coordinates: 33.229, 35.489
+
+#### طيبة مرجعيون (Taybet Matjaayoun)
+
+Code: 73232, Coordinates: 33.279, 35.517
+
+#### تولين (Touline)
+
+Code: 73282, Coordinates: 33.254, 35.441
+

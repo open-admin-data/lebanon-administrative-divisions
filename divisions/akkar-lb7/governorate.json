@@ -1,0 +1,34 @@
+{
+  "id": "LB7",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "عكار",
+    "en": "Akkar",
+    "slug": "akkar-lb7"
+  },
+  "code": {
+    "id": "LB7",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1,
+    "cadastre": 168
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.552",
+    "lon": "36.201"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lb/governorates/akkar-lb7/",
+    "api": "https://openadmindata.org/api/lb/"
+  }
+}

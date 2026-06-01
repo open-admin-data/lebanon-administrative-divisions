@@ -1,0 +1,600 @@
+# Bekaa — Lebanon Administrative Divisions
+
+> 3 districts, 144 cadastres
+> Code: LB2
+> Coordinates: 33.64, 35.81
+> Last updated: 2026-06-01. License: CC-BY-4.0.
+
+## Districts
+
+### راشيا (Rachaya)
+
+Code: LB23, Coordinates: 33.518, 35.825
+Cadastres: 38
+
+#### عين عرب (Aain Aarab Rachaiya)
+
+Code: 55167, Coordinates: 33.577, 35.883
+
+#### عين عطا (Aain Aata)
+
+Code: 55171, Coordinates: 33.439, 35.78
+
+#### عين حرشة (Aain Rouha)
+
+Code: 55147, Coordinates: 33.462, 35.78
+
+#### عقبة راشيّا (Aaqabet Rachaya)
+
+Code: 55114, Coordinates: 33.512, 35.809
+
+#### عيحا (Aayha)
+
+Code: 55117, Coordinates: 33.484, 35.906
+
+#### عيتا الفخار (Aayta El-Foukhar)
+
+Code: 55194, Coordinates: 33.65, 35.921
+
+#### بكا (Bakka)
+
+Code: 55177, Coordinates: 33.601, 35.926
+
+#### بكيفا راشيا (Bakkifac Rachaya)
+
+Code: 55121, Coordinates: 33.489, 35.818
+
+#### بيت لهيا (Beit Lahia)
+
+Code: 55127, Coordinates: 33.486, 35.791
+
+#### بيرة راشّيا (Biret Rachaiya)
+
+Code: 55164, Coordinates: 33.602, 35.839
+
+#### ضهر الاحمر (Dahr El-Ahmar)
+
+Code: 55124, Coordinates: 33.537, 35.842
+
+#### دير العشاير (Deir El-Aachayer)
+
+Code: 55187, Coordinates: 33.558, 36.006
+
+#### حوش القنعبة (Haouch El Qinnabeh Rachaiya)
+
+Code: 55161, Coordinates: 33.476, 35.764
+
+#### حلوة (Helouet Rachaiya)
+
+Code: 55197, Coordinates: 33.612, 36.003
+
+#### كوكبا (Kaoukaba Bou Arab)
+
+Code: 55144, Coordinates: 33.536, 35.778
+
+#### كفر دنيس (Kfar Denis)
+
+Code: 55137, Coordinates: 33.553, 35.855
+
+#### كفر مشكي (Kfar Lichki)
+
+Code: 55154, Coordinates: 33.51, 35.769
+
+#### كفرقوق (Kfar Qouq)
+
+Code: 55134, Coordinates: 33.548, 35.921
+
+#### خربة روحا (Khirbet Rouha)
+
+Code: 55151, Coordinates: 33.578, 35.848
+
+#### Litige
+
+Code: 55001, Coordinates: 33.681, 35.953
+
+#### مزرعة دير العشاير (Litige)
+
+Code: 55002, Coordinates: 33.58, 36.026
+
+#### Litige
+
+Code: 55003, Coordinates: 33.559, 35.775
+
+#### Litige
+
+Code: 55004, Coordinates: 33.55, 35.777
+
+#### Litige
+
+Code: 55005, Coordinates: 33.539, 35.868
+
+#### Litige
+
+Code: 55006, Coordinates: 33.495, 35.83
+
+#### Litige
+
+Code: 55007, Coordinates: 33.457, 35.888
+
+#### Litige
+
+Code: 55008, Coordinates: 33.467, 35.787
+
+#### Litige
+
+Code: 55009, Coordinates: 33.46, 35.935
+
+#### Litige
+
+Code: 55010, Coordinates: 33.395, 35.804
+
+#### مجدل بلهيص (Majdel Balhis)
+
+Code: 55174, Coordinates: 33.54, 35.73
+
+#### مدوخا (Mdoukha)
+
+Code: 55181, Coordinates: 33.607, 35.878
+
+#### محيدثه (Mhaiydseh Rachaiya)
+
+Code: 55141, Coordinates: 33.562, 35.792
+
+#### نبي صفا (Nabi Safa)
+
+Code: 55199, Coordinates: 33.497, 35.742
+
+#### راشيّا الوادي (Rachaiya)
+
+Code: 55111, Coordinates: 33.481, 35.848
+
+#### الرافد راشيا (Rafid Rachaiya)
+
+Code: 55157, Coordinates: 33.576, 35.804
+
+#### مزرعة سلساتا (Selsata (Mazraat Deir El-Aachaiyer))
+
+Code: 55191, Coordinates: 33.583, 35.986
+
+#### تنورة (Tannoura)
+
+Code: 55131, Coordinates: 33.47, 35.802
+
+#### ينطا (Yanta)
+
+Code: 55184, Coordinates: 33.602, 35.963
+
+### البقاع الغربي (West Bekaa)
+
+Code: LB24, Coordinates: 33.599, 35.725
+Cadastres: 44
+
+#### عين التينة بقاع الغربي (Aain Et-Tineh BG)
+
+Code: 52116, Coordinates: 33.493, 35.636
+
+#### عين زبدة (Aain Zebdeh)
+
+Code: 52146, Coordinates: 33.627, 35.7
+
+#### عميق (Aammiq BG)
+
+Code: 52176, Coordinates: 33.724, 35.789
+
+#### عانا (Aana)
+
+Code: 52161, Coordinates: 33.681, 35.768
+
+#### عيتنيت (Aaytanit)
+
+Code: 52121, Coordinates: 33.562, 35.668
+
+#### بعلول (Baaloul BG)
+
+Code: 52224, Coordinates: 33.589, 35.752
+
+#### باب مارع (Bab Mareaa)
+
+Code: 52126, Coordinates: 33.589, 35.676
+
+#### شبرقية عميق (Chebrqiyet Aammiq)
+
+Code: 52181, Coordinates: 33.717, 35.816
+
+#### دكوة (Dakoueh)
+
+Code: 52251, Coordinates: 33.693, 35.876
+
+#### دير عين الجوزة (Deir Aain Ej-Jaouzeh)
+
+Code: 52131, Coordinates: 33.593, 35.7
+
+#### دير طحنيش (Deir Tahniche)
+
+Code: 52166, Coordinates: 33.7, 35.771
+
+#### غزة (Ghazzeh)
+
+Code: 52227, Coordinates: 33.675, 35.83
+
+#### حوش الحريمة (Haouch El-Harime)
+
+Code: 52254, Coordinates: 33.717, 35.861
+
+#### حريمة الصغرى (Harimeh Es-Soughra)
+
+Code: 52271, Coordinates: 33.734, 35.875
+
+#### الجزيرة (Jazira BG)
+
+Code: 52257, Coordinates: 33.727, 35.843
+
+#### جب جنين (Joubb Jannine)
+
+Code: 52211, Coordinates: 33.637, 35.791
+
+#### كفريا بقاع الغربي (Kafraiya BG)
+
+Code: 52156, Coordinates: 33.658, 35.734
+
+#### كامد اللوز (Kamed El-Laouz)
+
+Code: 52217, Coordinates: 33.624, 35.825
+
+#### الخيارة (Khiara)
+
+Code: 52234, Coordinates: 33.685, 35.849
+
+#### خيارة العتيقة (Khiara El-Aatiqa)
+
+Code: 52247, Coordinates: 33.71, 35.836
+
+#### خربة قنافار (Khirbet Qanafar)
+
+Code: 52151, Coordinates: 33.64, 35.71
+
+#### لالا (Lala)
+
+Code: 52214, Coordinates: 33.611, 35.757
+
+#### لبايا (Libbaya BG)
+
+Code: 52274, Coordinates: 33.478, 35.714
+
+#### Litige
+
+Code: 52001, Coordinates: 33.726, 35.766
+
+#### Litige
+
+Code: 52002, Coordinates: 33.676, 35.706
+
+#### Litige
+
+Code: 52003, Coordinates: 33.636, 35.679
+
+#### لوسيا (Loussa)
+
+Code: 52141, Coordinates: 33.459, 35.653
+
+#### مشغرة (Machghara)
+
+Code: 52111, Coordinates: 33.522, 35.657
+
+#### حمارة (Manara (Hammara) BG)
+
+Code: 52244, Coordinates: 33.656, 35.893
+
+#### المنصورة (Mansoura BG)
+
+Code: 52171, Coordinates: 33.68, 35.806
+
+#### المرج (Marj BG)
+
+Code: 52277, Coordinates: 33.758, 35.869
+
+#### ميدون (Maydoun)
+
+Code: 52287, Coordinates: 33.459, 35.63
+
+#### الوقف بقاع الغربي (Ouaqf BG)
+
+Code: 52261, Coordinates: 33.737, 35.848
+
+#### القرعون (Qaraaoun)
+
+Code: 52237, Coordinates: 33.565, 35.73
+
+#### قلايا (Qelaya)
+
+Code: 52291, Coordinates: 33.438, 35.659
+
+#### روضة إسطبل (Raouda (Istabel))
+
+Code: 52295, Coordinates: 33.744, 35.893
+
+#### صغبين (Saghbine)
+
+Code: 52136, Coordinates: 33.611, 35.698
+
+#### سحمر (Sohmor)
+
+Code: 52267, Coordinates: 33.509, 35.695
+
+#### سلطان يعقوب أراضي (Soltan Yacoub el Aradi)
+
+Code: 52241, Coordinates: 33.673, 35.869
+
+#### صويري (Souairi)
+
+Code: 52264, Coordinates: 33.686, 35.915
+
+#### سلطان يعقوب الفوقا (Soultan Yaacoub Faouqa)
+
+Code: 52231, Coordinates: 33.656, 35.851
+
+#### تل زنوب (Tall Znoub)
+
+Code: 52221, Coordinates: 33.659, 35.777
+
+#### يحمر بقاع الغربي (Yohmor BG)
+
+Code: 52281, Coordinates: 33.481, 35.677
+
+#### زلايا (Zilaya)
+
+Code: 52284, Coordinates: 33.457, 35.672
+
+### زحلة (Zahle)
+
+Code: LB25, Coordinates: 33.805, 35.913
+Cadastres: 62
+
+#### عين كفر زبد (Aain Kfar Zabad)
+
+Code: 51377, Coordinates: 33.79, 36.011
+
+#### علي النهري (Aali En-Nahri)
+
+Code: 51323, Coordinates: 33.862, 36.032
+
+#### عنجر (Aanjar (Haouch Moussa))
+
+Code: 51281, Coordinates: 33.741, 35.934
+
+#### ابلح (Ablah)
+
+Code: 51163, Coordinates: 33.864, 35.972
+
+#### بر الياس (Barr Elias)
+
+Code: 51267, Coordinates: 33.78, 35.932
+
+#### بوارج (Bouarej)
+
+Code: 51244, Coordinates: 33.817, 35.813
+
+#### شبرقية تابت (Chebrqiyet Tabet)
+
+Code: 51247, Coordinates: 33.78, 35.867
+
+#### شتورا (Chtaura)
+
+Code: 51211, Coordinates: 33.816, 35.857
+
+#### دلهميه (Dalhamiyet Zahleh)
+
+Code: 51383, Coordinates: 33.816, 35.958
+
+#### دير الغزال (Deir El-Ghazal)
+
+Code: 51347, Coordinates: 33.824, 36.046
+
+#### فرزل (Fourzol)
+
+Code: 51139, Coordinates: 33.864, 35.946
+
+#### تل العمارة (Haouch El-Aamara)
+
+Code: 51335, Coordinates: 33.857, 35.989
+
+#### حوش الغنم (Haouch El-Ghanam)
+
+Code: 51329, Coordinates: 33.874, 36.027
+
+#### حوش الصيادي (Haouch Es-Siyadeh)
+
+Code: 51251, Coordinates: 33.767, 35.824
+
+#### حوش حالا (Haouch Hala)
+
+Code: 51317, Coordinates: 33.847, 35.992
+
+#### حوش مندره (Haouch Mandara)
+
+Code: 51237, Coordinates: 33.777, 35.861
+
+#### قيصر (Haouch Qayssar)
+
+Code: 51264, Coordinates: 33.762, 35.814
+
+#### حزرتا (Hazerta)
+
+Code: 51157, Coordinates: 33.875, 35.867
+
+#### حشمش (Hoshmosh)
+
+Code: 51341, Coordinates: 33.829, 36.014
+
+#### جديتا (Jdita)
+
+Code: 51224, Coordinates: 33.813, 35.846
+
+#### كفر زبد (Kfarzabad)
+
+Code: 51389, Coordinates: 33.765, 35.983
+
+#### كسارة (Ksara)
+
+Code: 51184, Coordinates: 33.826, 35.892
+
+#### Litige
+
+Code: 51001, Coordinates: 33.783, 35.811
+
+#### مجدل عنجر (Majdel Aanjar)
+
+Code: 51284, Coordinates: 33.71, 35.914
+
+#### مكسة (Makseh)
+
+Code: 51217, Coordinates: 33.799, 35.843
+
+#### مسا (Massa)
+
+Code: 51371, Coordinates: 33.844, 36.067
+
+#### الرمطانية (Mazraat Er-Remtaniyeh)
+
+Code: 51185, Coordinates: 33.836, 35.817
+
+#### مريجات (Mrayjat Zahleh)
+
+Code: 51241, Coordinates: 33.811, 35.798
+
+#### مزرعة زحلة (Mzaraat Zahleh)
+
+Code: 51271, Coordinates: 33.767, 35.806
+
+#### نبي ايلا (Nabi Ayla)
+
+Code: 51151, Coordinates: 33.869, 35.987
+
+#### ناصرية رزق (Nasriyet Rizk)
+
+Code: 51354, Coordinates: 33.857, 36.078
+
+#### ناصرية زحلة (Nasriyet Zahleh)
+
+Code: 51287, Coordinates: 33.753, 35.85
+
+#### نيحا زحلة (Niha Zahleh)
+
+Code: 51177, Coordinates: 33.895, 35.964
+
+#### وادي الدلم (Ouadi Ed-Delm)
+
+Code: 51257, Coordinates: 33.801, 35.786
+
+#### وادي العرايش (Ouadi El-Aarayech)
+
+Code: 51189, Coordinates: 33.873, 35.909
+
+#### قاع الريم (Qaa Er-Rim)
+
+Code: 51173, Coordinates: 33.902, 35.898
+
+#### قب الياس (Qabb Elias)
+
+Code: 51234, Coordinates: 33.778, 35.838
+
+#### قوسايا (Qoussaya)
+
+Code: 51353, Coordinates: 33.801, 36.035
+
+#### رعيت (Raait)
+
+Code: 51359, Coordinates: 33.839, 36.041
+
+#### رياق (Riyaq)
+
+Code: 51311, Coordinates: 33.852, 36.019
+
+#### سعدنايل (Saadnayel)
+
+Code: 51231, Coordinates: 33.817, 35.885
+
+#### تعلبايا (Taalbaya)
+
+Code: 51221, Coordinates: 33.811, 35.872
+
+#### تعنايل (Taanayel)
+
+Code: 51227, Coordinates: 33.789, 35.878
+
+#### تشفلك اده حوش (Tcheflik Eddé Haouch)
+
+Code: 51274, Coordinates: 33.756, 35.805
+
+#### تشفلك قيقانو (Tcheflik Qiqano)
+
+Code: 51261, Coordinates: 33.756, 35.829
+
+#### تل الاخضر (Tell El-Akhdar)
+
+Code: 51277, Coordinates: 33.732, 35.824
+
+#### تربل (Terbol Zahleh)
+
+Code: 51365, Coordinates: 33.812, 35.992
+
+#### تويتي (Touaite Zahleh)
+
+Code: 51145, Coordinates: 33.857, 35.839
+
+#### زحلة حوش الامراء أراضي (Zahlé Haouch El-Oumara Aradi)
+
+Code: 51127, Coordinates: 33.804, 35.92
+
+#### زحلة مار أنطونيوس (Zahlé Mar Antonios)
+
+Code: 51123, Coordinates: 33.848, 35.899
+
+#### مار الياس زحلة (Zahlé Mar Elias)
+
+Code: 51135, Coordinates: 33.845, 35.899
+
+#### زحلة مار جرجس (Zahlé Mar Gerges)
+
+Code: 51115, Coordinates: 33.845, 35.903
+
+#### زحلة سيدة النجاة (Zahlé Saydet En-Najat)
+
+Code: 51129, Coordinates: 33.846, 35.894
+
+#### زحلة أراضي (Zahleh Aradi)
+
+Code: 51133, Coordinates: 33.845, 35.875
+
+#### بربارة زحلة (Zahleh El-Berbara)
+
+Code: 51119, Coordinates: 33.852, 35.898
+
+#### زحلة معلقة أراضي (Zahleh El-Maallaqa)
+
+Code: 51121, Coordinates: 33.844, 35.916
+
+#### زحلة (Zahleh El-Midane)
+
+Code: 51111, Coordinates: 33.847, 35.904
+
+#### الراسية (Zahleh Er-Rassiyeh)
+
+Code: 51117, Coordinates: 33.85, 35.897
+
+#### تل شيحا (Zahleh Haouch El-Oumara)
+
+Code: 51131, Coordinates: 33.833, 35.913
+
+#### حوش الزراعنة (Zahleh Haouch Ez-Zaraane)
+
+Code: 51113, Coordinates: 33.844, 35.91
+
+#### مدينة الصناعية (Zahleh Maallaqa Aradi)
+
+Code: 51125, Coordinates: 33.829, 35.941
+
+#### زبدل (Zebdoul)
+
+Code: 51214, Coordinates: 33.812, 35.84
+

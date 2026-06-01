@@ -1,0 +1,4808 @@
+[
+  {
+    "id": "53127",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عدّوس",
+      "en": "Aadous",
+      "slug": "aadous-53127"
+    },
+    "code": {
+      "id": "53127",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.022",
+      "lon": "36.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53217",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "العين",
+      "en": "Aain Baalbek",
+      "slug": "aain-baalbek-53217"
+    },
+    "code": {
+      "id": "53217",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.224",
+      "lon": "36.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53115",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين بورداي",
+      "en": "Aain Bourday",
+      "slug": "aain-bourday-53115"
+    },
+    "code": {
+      "id": "53115",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.975",
+      "lon": "36.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53473",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين الجوزة",
+      "en": "Aain Ej-Jaouz Baalbek",
+      "slug": "aain-ej-jaouz-baalbek-53473"
+    },
+    "code": {
+      "id": "53473",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.854",
+      "lon": "36.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53465",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين البنية",
+      "en": "Aain El-Barnaya",
+      "slug": "aain-el-barnaya-53465"
+    },
+    "code": {
+      "id": "53465",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.887",
+      "lon": "36.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53163",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حصن الشادورا",
+      "en": "Aain Es-Siyaa Chadoura",
+      "slug": "aain-es-siyaa-chadoura-53163"
+    },
+    "code": {
+      "id": "53163",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.953",
+      "lon": "36.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53131",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عمشكي",
+      "en": "Aamchki",
+      "slug": "aamchki-53131"
+    },
+    "code": {
+      "id": "53131",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.992",
+      "lon": "36.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53231",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عرسال",
+      "en": "Aarsal",
+      "slug": "aarsal-53231"
+    },
+    "code": {
+      "id": "53231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.142",
+      "lon": "36.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53377",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيناتا",
+      "en": "Aaynata Baalbek",
+      "slug": "aaynata-baalbek-53377"
+    },
+    "code": {
+      "id": "53377",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.195",
+      "lon": "36.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بعلبك",
+      "en": "Baalbek",
+      "slug": "baalbek-53111"
+    },
+    "code": {
+      "id": "53111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.017",
+      "lon": "36.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53221",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بجاجة",
+      "en": "Bajjaje",
+      "slug": "bajjaje-53221"
+    },
+    "code": {
+      "id": "53221",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.225",
+      "lon": "36.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53344",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برقا",
+      "en": "Barqa",
+      "slug": "barqa-53344"
+    },
+    "code": {
+      "id": "53344",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.186",
+      "lon": "36.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53333",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بشوات",
+      "en": "Bechouat",
+      "slug": "bechouat-53333"
+    },
+    "code": {
+      "id": "53333",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.151",
+      "lon": "36.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53411",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بدنايل",
+      "en": "Bednayel Baalbak",
+      "slug": "bednayel-baalbak-53411"
+    },
+    "code": {
+      "id": "53411",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.924",
+      "lon": "35.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53417",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت شاما",
+      "en": "Beit Chama",
+      "slug": "beit-chama-53417"
+    },
+    "code": {
+      "id": "53417",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.925",
+      "lon": "36.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53459",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بوداي",
+      "en": "Bouday",
+      "slug": "bouday-53459"
+    },
+    "code": {
+      "id": "53459",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.061",
+      "lon": "36.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53453",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بريتال",
+      "en": "Brital",
+      "slug": "brital-53453"
+    },
+    "code": {
+      "id": "53453",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.932",
+      "lon": "36.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53375",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بتدعي",
+      "en": "Btedaai",
+      "slug": "btedaai-53375"
+    },
+    "code": {
+      "id": "53375",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.108",
+      "lon": "36.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53469",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جبل الشعيبة",
+      "en": "Chaaibeh",
+      "slug": "chaaibeh-53469"
+    },
+    "code": {
+      "id": "53469",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.921",
+      "lon": "36.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53274",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شعت",
+      "en": "Chaat",
+      "slug": "chaat-53274"
+    },
+    "code": {
+      "id": "53274",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.138",
+      "lon": "36.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53467",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شليفا",
+      "en": "Chlifa",
+      "slug": "chlifa-53467"
+    },
+    "code": {
+      "id": "53467",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.081",
+      "lon": "36.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53429",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شمسطار",
+      "en": "Chmistar",
+      "slug": "chmistar-53429"
+    },
+    "code": {
+      "id": "53429",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.959",
+      "lon": "36.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53366",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دار الواسعة",
+      "en": "Dar El-Ouassaa",
+      "slug": "dar-el-ouassaa-53366"
+    },
+    "code": {
+      "id": "53366",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.109",
+      "lon": "36.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير الاحمر",
+      "en": "Deir El-Ahmar",
+      "slug": "deir-el-ahmar-53311"
+    },
+    "code": {
+      "id": "53311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.12",
+      "lon": "36.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53244",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير مار مارون بعلبك",
+      "en": "Deir Mar Maroun Baalbek",
+      "slug": "deir-mar-maroun-baalbek-53244"
+    },
+    "code": {
+      "id": "53244",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.353",
+      "lon": "36.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53119",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دوريس",
+      "en": "Douris",
+      "slug": "douris-53119"
+    },
+    "code": {
+      "id": "53119",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.989",
+      "lon": "36.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53214",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فاكهة",
+      "en": "Fekehe",
+      "slug": "fekehe-53214"
+    },
+    "code": {
+      "id": "53214",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.25",
+      "lon": "36.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53183",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حدت الهرمل",
+      "en": "Hadath Baalbek",
+      "slug": "hadath-baalbek-53183"
+    },
+    "code": {
+      "id": "53183",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.006",
+      "lon": "36.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53247",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حلباتا",
+      "en": "Halbata",
+      "slug": "halbata-53247"
+    },
+    "code": {
+      "id": "53247",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.261",
+      "lon": "36.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53463",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حام",
+      "en": "Ham",
+      "slug": "ham-53463"
+    },
+    "code": {
+      "id": "53463",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.865",
+      "lon": "36.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53159",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوش الدهب",
+      "en": "Haouch El-Dehab",
+      "slug": "haouch-el-dehab-53159"
+    },
+    "code": {
+      "id": "53159",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.037",
+      "lon": "36.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53431",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوش النبي",
+      "en": "Haouch En-Nabi",
+      "slug": "haouch-en-nabi-53431"
+    },
+    "code": {
+      "id": "53431",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.934",
+      "lon": "36.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53419",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوش الرافقة",
+      "en": "Haouch Er-Rafqa",
+      "slug": "haouch-er-rafqa-53419"
+    },
+    "code": {
+      "id": "53419",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.911",
+      "lon": "36.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53433",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوش سنيد",
+      "en": "Haouch Snaid",
+      "slug": "haouch-snaid-53433"
+    },
+    "code": {
+      "id": "53433",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.933",
+      "lon": "36.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53135",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوش تل صفية",
+      "en": "Haouch Tall Safiyeh",
+      "slug": "haouch-tall-safiyeh-53135"
+    },
+    "code": {
+      "id": "53135",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.024",
+      "lon": "36.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53151",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوش بردى",
+      "en": "Haouche Barada",
+      "slug": "haouche-barada-53151"
+    },
+    "code": {
+      "id": "53151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.01",
+      "lon": "36.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53451",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حور تعلا",
+      "en": "Haour Taala",
+      "slug": "haour-taala-53451"
+    },
+    "code": {
+      "id": "53451",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.91",
+      "lon": "36.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53264",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حربتا",
+      "en": "Harabta",
+      "slug": "harabta-53264"
+    },
+    "code": {
+      "id": "53264",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.212",
+      "lon": "36.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53441",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حزين",
+      "en": "Hizzine",
+      "slug": "hizzine-53441"
+    },
+    "code": {
+      "id": "53441",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.969",
+      "lon": "36.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53123",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ايعات",
+      "en": "Iaat",
+      "slug": "iaat-53123"
+    },
+    "code": {
+      "id": "53123",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.057",
+      "lon": "36.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53171",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جبعا",
+      "en": "Jebaa",
+      "slug": "jebaa-53171"
+    },
+    "code": {
+      "id": "53171",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.023",
+      "lon": "36.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53447",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جنتا",
+      "en": "Jenta",
+      "slug": "jenta-53447"
+    },
+    "code": {
+      "id": "53447",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.837",
+      "lon": "36.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53427",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر دبش",
+      "en": "Kfar Dabach",
+      "slug": "kfar-dabach-53427"
+    },
+    "code": {
+      "id": "53427",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.939",
+      "lon": "36.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53179",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر دان",
+      "en": "Kfar Dane",
+      "slug": "kfar-dane-53179"
+    },
+    "code": {
+      "id": "53179",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.021",
+      "lon": "36.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "54175",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الخرائب",
+      "en": "Kharayeb El-Hermel",
+      "slug": "kharayeb-el-hermel-54175"
+    },
+    "code": {
+      "id": "54175",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.237",
+      "lon": "36.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53443",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خضر",
+      "en": "Khodr Baalbek",
+      "slug": "khodr-baalbek-53443"
+    },
+    "code": {
+      "id": "53443",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.908",
+      "lon": "36.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53455",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خريبة",
+      "en": "Khreibet Baalbek",
+      "slug": "khreibet-baalbek-53455"
+    },
+    "code": {
+      "id": "53455",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.876",
+      "lon": "36.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53322",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كنيسة",
+      "en": "Kneisset Baalbek",
+      "slug": "kneisset-baalbek-53322"
+    },
+    "code": {
+      "id": "53322",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.123",
+      "lon": "36.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53234",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "لبوة",
+      "en": "Laboueh",
+      "slug": "laboueh-53234"
+    },
+    "code": {
+      "id": "53234",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.192",
+      "lon": "36.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-53001"
+    },
+    "code": {
+      "id": "53001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.288",
+      "lon": "36.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53002",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوارته",
+      "en": "Litige",
+      "slug": "litige-53002"
+    },
+    "code": {
+      "id": "53002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.25",
+      "lon": "36.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53003",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-53003"
+    },
+    "code": {
+      "id": "53003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.852",
+      "lon": "36.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "54003",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-54003"
+    },
+    "code": {
+      "id": "54003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.409",
+      "lon": "36.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53461",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "معربون",
+      "en": "Maaraboun",
+      "slug": "maaraboun-53461"
+    },
+    "code": {
+      "id": "53461",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.849",
+      "lon": "36.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53147",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجدلون",
+      "en": "Majdaloun",
+      "slug": "majdaloun-53147"
+    },
+    "code": {
+      "id": "53147",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.992",
+      "lon": "36.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53155",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مقنة",
+      "en": "Maqneh",
+      "slug": "maqneh-53155"
+    },
+    "code": {
+      "id": "53155",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.077",
+      "lon": "36.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53457",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة بيت مشيك",
+      "en": "Mazraat beit Mchaik",
+      "slug": "mazraat-beit-mchaik-53457"
+    },
+    "code": {
+      "id": "53457",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.06",
+      "lon": "35.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المقرق",
+      "en": "Moqraq",
+      "slug": "moqraq-53251"
+    },
+    "code": {
+      "id": "53251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.159",
+      "lon": "36.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53421",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مطحنة مصراية",
+      "en": "Mousrayeh",
+      "slug": "mousrayeh-53421"
+    },
+    "code": {
+      "id": "53421",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.912",
+      "lon": "36.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53271",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نبحا",
+      "en": "Nabha Ed-Damdoum",
+      "slug": "nabha-ed-damdoum-53271"
+    },
+    "code": {
+      "id": "53271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.22",
+      "lon": "36.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53471",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "النبي سباط",
+      "en": "Nabi Chbay",
+      "slug": "nabi-chbay-53471"
+    },
+    "code": {
+      "id": "53471",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.935",
+      "lon": "36.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53445",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نبي شيت",
+      "en": "Nabi Chit",
+      "slug": "nabi-chit-53445"
+    },
+    "code": {
+      "id": "53445",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.89",
+      "lon": "36.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53224",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نبي عثمان",
+      "en": "Nabi Osmane",
+      "slug": "nabi-osmane-53224"
+    },
+    "code": {
+      "id": "53224",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.215",
+      "lon": "36.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53143",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نحله",
+      "en": "Nahleh baalbek",
+      "slug": "nahleh-baalbek-53143"
+    },
+    "code": {
+      "id": "53143",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.056",
+      "lon": "36.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "54183",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي القصص",
+      "en": "Ouadi El-Aaoss",
+      "slug": "ouadi-el-aaoss-54183"
+    },
+    "code": {
+      "id": "54183",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.246",
+      "lon": "36.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53241",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القاع",
+      "en": "Qaa Baalbek",
+      "slug": "qaa-baalbek-53241"
+    },
+    "code": {
+      "id": "53241",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.335",
+      "lon": "36.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53257",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قاع بعيون",
+      "en": "Qaa Baayoun",
+      "slug": "qaa-baayoun-53257"
+    },
+    "code": {
+      "id": "53257",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.339",
+      "lon": "36.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53267",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قاع جوار مكية",
+      "en": "Qaa Jouar Maqiyé",
+      "slug": "qaa-jouar-maqiy-53267"
+    },
+    "code": {
+      "id": "53267",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.387",
+      "lon": "36.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53254",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قاع وادي الخنزير",
+      "en": "Qaa Ouadi El-Khanzir",
+      "slug": "qaa-ouadi-el-khanzir-53254"
+    },
+    "code": {
+      "id": "53254",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.386",
+      "lon": "36.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53277",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرحا",
+      "en": "Qarha Baalbek",
+      "slug": "qarha-baalbek-53277"
+    },
+    "code": {
+      "id": "53277",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.166",
+      "lon": "36.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53413",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قصرنابا",
+      "en": "Qsarnaba",
+      "slug": "qsarnaba-53413"
+    },
+    "code": {
+      "id": "53413",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.907",
+      "lon": "35.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53281",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الرام",
+      "en": "Ram Baalbek",
+      "slug": "ram-baalbek-53281"
+    },
+    "code": {
+      "id": "53281",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.175",
+      "lon": "36.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53227",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راس بعلبك الشرقي",
+      "en": "Ras Baalbek Ech-Charqi",
+      "slug": "ras-baalbek-ech-charqi-53227"
+    },
+    "code": {
+      "id": "53227",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.258",
+      "lon": "36.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راس بعلبك",
+      "en": "Ras Baalbek Es-Sahel",
+      "slug": "ras-baalbek-es-sahel-53211"
+    },
+    "code": {
+      "id": "53211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.295",
+      "lon": "36.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53355",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ريحا",
+      "en": "Riha",
+      "slug": "riha-53355"
+    },
+    "code": {
+      "id": "53355",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.135",
+      "lon": "36.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53167",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سعيدة",
+      "en": "Saaideh",
+      "slug": "saaideh-53167"
+    },
+    "code": {
+      "id": "53167",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.025",
+      "lon": "36.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53261",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صبوبا",
+      "en": "Sbouba",
+      "slug": "sbouba-53261"
+    },
+    "code": {
+      "id": "53261",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.223",
+      "lon": "36.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53437",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سرعين التحتا",
+      "en": "Serraaine Et-Tahta",
+      "slug": "serraaine-et-tahta-53437"
+    },
+    "code": {
+      "id": "53437",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.89",
+      "lon": "36.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53423",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سلوقي",
+      "en": "Slouqi",
+      "slug": "slouqi-53423"
+    },
+    "code": {
+      "id": "53423",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.973",
+      "lon": "35.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53139",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طيبة بعلبك",
+      "en": "Taibet Baalbek",
+      "slug": "taibet-baalbek-53139"
+    },
+    "code": {
+      "id": "53139",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.963",
+      "lon": "36.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53439",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طليا",
+      "en": "Talia",
+      "slug": "talia-53439"
+    },
+    "code": {
+      "id": "53439",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.942",
+      "lon": "36.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53435",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طاريا",
+      "en": "Taraiya",
+      "slug": "taraiya-53435"
+    },
+    "code": {
+      "id": "53435",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.989",
+      "lon": "35.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53415",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تمنين الفوقا",
+      "en": "Temnine El-Faouqa",
+      "slug": "temnine-el-faouqa-53415"
+    },
+    "code": {
+      "id": "53415",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.911",
+      "lon": "35.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53425",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تمنين التحتا",
+      "en": "Temnine Et-Tahta",
+      "slug": "temnine-et-tahta-53425"
+    },
+    "code": {
+      "id": "53425",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.876",
+      "lon": "36.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53475",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طفيل",
+      "en": "Tfail",
+      "slug": "tfail-53475"
+    },
+    "code": {
+      "id": "53475",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.858",
+      "lon": "36.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53449",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "يحفوفا",
+      "en": "Yahfoufa",
+      "slug": "yahfoufa-53449"
+    },
+    "code": {
+      "id": "53449",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.854",
+      "lon": "36.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53388",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "يمونة",
+      "en": "Yammouneh",
+      "slug": "yammouneh-53388"
+    },
+    "code": {
+      "id": "53388",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.129",
+      "lon": "36.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53284",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "يونين",
+      "en": "Youmine",
+      "slug": "youmine-53284"
+    },
+    "code": {
+      "id": "53284",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.108",
+      "lon": "36.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53237",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زبود",
+      "en": "Zabboud",
+      "slug": "zabboud-53237"
+    },
+    "code": {
+      "id": "53237",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB21",
+      "level": 2,
+      "name": {
+        "local": "بعلبك",
+        "en": "Baalbek",
+        "slug": "baalbek-lb21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB8",
+        "level": 1,
+        "name": {
+          "local": "بعلبك - الهرمل",
+          "en": "Baalbek-El Hermel",
+          "slug": "baalbek-el-hermel-lb8"
+        }
+      },
+      {
+        "id": "LB21",
+        "level": 2,
+        "name": {
+          "local": "بعلبك",
+          "en": "Baalbek",
+          "slug": "baalbek-lb21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.238",
+      "lon": "36.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

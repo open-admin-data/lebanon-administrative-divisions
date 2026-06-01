@@ -1,0 +1,5510 @@
+[
+  {
+    "id": "22551",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين علق",
+      "en": "Aain Aalaq",
+      "slug": "aain-aalaq-22551"
+    },
+    "code": {
+      "id": "22551",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.918",
+      "lon": "35.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22471",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين عار",
+      "en": "Aain Aar",
+      "slug": "aain-aar-22471"
+    },
+    "code": {
+      "id": "22471",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.923",
+      "lon": "35.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22543",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين الخروبة",
+      "en": "Aain El-Kharroubeh",
+      "slug": "aain-el-kharroubeh-22543"
+    },
+    "code": {
+      "id": "22543",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.933",
+      "lon": "35.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22777",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين القبو",
+      "en": "Aain El-Qabu",
+      "slug": "aain-el-qabu-22777"
+    },
+    "code": {
+      "id": "22777",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.939",
+      "lon": "35.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22523",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين القش",
+      "en": "Aain El-Qach",
+      "slug": "aain-el-qach-22523"
+    },
+    "code": {
+      "id": "22523",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.925",
+      "lon": "35.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22737",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين السنديانة",
+      "en": "Aain Es-Sindiane",
+      "slug": "aain-es-sindiane-22737"
+    },
+    "code": {
+      "id": "22737",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.903",
+      "lon": "35.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22727",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين الصفصاف المتن",
+      "en": "Aain es-Sofsaf El-Matn",
+      "slug": "aain-es-sofsaf-el-matn-22727"
+    },
+    "code": {
+      "id": "22727",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.912",
+      "lon": "35.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22563",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين التفاحة",
+      "en": "Aain Et-Teffaha",
+      "slug": "aain-et-teffaha-22563"
+    },
+    "code": {
+      "id": "22563",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.934",
+      "lon": "35.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22714",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين الزيتونة",
+      "en": "Aain Ez-Zeitouneh",
+      "slug": "aain-ez-zeitouneh-22714"
+    },
+    "code": {
+      "id": "22714",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.905",
+      "lon": "35.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22423",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين سعادة",
+      "en": "Aain Saadeh",
+      "slug": "aain-saadeh-22423"
+    },
+    "code": {
+      "id": "22423",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.869",
+      "lon": "35.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22343",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الوطى عمارة شلهوب",
+      "en": "Aamaret Chalhoub",
+      "slug": "aamaret-chalhoub-22343"
+    },
+    "code": {
+      "id": "22343",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.901",
+      "lon": "35.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22555",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عطشانة",
+      "en": "Aatchaneh",
+      "slug": "aatchaneh-22555"
+    },
+    "code": {
+      "id": "22555",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.91",
+      "lon": "35.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22635",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيون المتن",
+      "en": "Aayoun El-Matn",
+      "slug": "aayoun-el-matn-22635"
+    },
+    "code": {
+      "id": "22635",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.881",
+      "lon": "35.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22767",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيرون",
+      "en": "Aayroun",
+      "slug": "aayroun-22767"
+    },
+    "code": {
+      "id": "22767",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.906",
+      "lon": "35.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22575",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "أبو ميزان",
+      "en": "Abou Mizane",
+      "slug": "abou-mizane-22575"
+    },
+    "code": {
+      "id": "22575",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.939",
+      "lon": "35.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22751",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عينطورة المتن",
+      "en": "Aintoura El-Matn",
+      "slug": "aintoura-el-matn-22751"
+    },
+    "code": {
+      "id": "22751",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.895",
+      "lon": "35.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "انطلياس",
+      "en": "Antelias",
+      "slug": "antelias-22311"
+    },
+    "code": {
+      "id": "22311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.914",
+      "lon": "35.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22659",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بعبدات",
+      "en": "Baabdat",
+      "slug": "baabdat-22659"
+    },
+    "code": {
+      "id": "22659",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.893",
+      "lon": "35.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22228",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بوشرية",
+      "en": "Baouchriyeh",
+      "slug": "baouchriyeh-22228"
+    },
+    "code": {
+      "id": "22228",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.885",
+      "lon": "35.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22797",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بسكنتا",
+      "en": "Baskinta",
+      "slug": "baskinta-22797"
+    },
+    "code": {
+      "id": "22797",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.948",
+      "lon": "35.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22531",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت شباب",
+      "en": "Beit Chabab",
+      "slug": "beit-chabab-22531"
+    },
+    "code": {
+      "id": "22531",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.93",
+      "lon": "35.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22459",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة بيت الشعّار",
+      "en": "Beit Ech-Chaar",
+      "slug": "beit-ech-chaar-22459"
+    },
+    "code": {
+      "id": "22459",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.929",
+      "lon": "35.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22451",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت الككو",
+      "en": "Beit El-Kekko",
+      "slug": "beit-el-kekko-22451"
+    },
+    "code": {
+      "id": "22451",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.924",
+      "lon": "35.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22667",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت مري",
+      "en": "Beit Meri",
+      "slug": "beit-meri-22667"
+    },
+    "code": {
+      "id": "22667",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.858",
+      "lon": "35.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22535",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بحرصاف",
+      "en": "Bhersaf",
+      "slug": "bhersaf-22535"
+    },
+    "code": {
+      "id": "22535",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.913",
+      "lon": "35.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22511",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بكفيا",
+      "en": "Bikfaya",
+      "slug": "bikfaya-22511"
+    },
+    "code": {
+      "id": "22511",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.92",
+      "lon": "35.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22724",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بنابيل",
+      "en": "Bnabil",
+      "slug": "bnabil-22724"
+    },
+    "code": {
+      "id": "22724",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.9",
+      "lon": "35.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برج حمّود",
+      "en": "Bourj Hammoud",
+      "slug": "bourj-hammoud-22111"
+    },
+    "code": {
+      "id": "22111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.892",
+      "lon": "35.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22431",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بقنايا",
+      "en": "Bqennaya",
+      "slug": "bqennaya-22431"
+    },
+    "code": {
+      "id": "22431",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.902",
+      "lon": "35.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22611",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برمانا المتن",
+      "en": "Broummana El-Matn",
+      "slug": "broummana-el-matn-22611"
+    },
+    "code": {
+      "id": "22611",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.879",
+      "lon": "35.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22439",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بصاليم",
+      "en": "Bsalim",
+      "slug": "bsalim-22439"
+    },
+    "code": {
+      "id": "22439",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.901",
+      "lon": "35.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22691",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بسفرين",
+      "en": "Bsifrine",
+      "slug": "bsifrine-22691"
+    },
+    "code": {
+      "id": "22691",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.885",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22757",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بتغرين",
+      "en": "Bteghrine",
+      "slug": "bteghrine-22757"
+    },
+    "code": {
+      "id": "22757",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.928",
+      "lon": "35.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22359",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بياقوت",
+      "en": "Byaqout",
+      "slug": "byaqout-22359"
+    },
+    "code": {
+      "id": "22359",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.895",
+      "lon": "35.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22559",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شاوية",
+      "en": "Chaouiyeh",
+      "slug": "chaouiyeh-22559"
+    },
+    "code": {
+      "id": "22559",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.93",
+      "lon": "35.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22764",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شويا",
+      "en": "Chouaya El-Matn",
+      "slug": "chouaya-el-matn-22764"
+    },
+    "code": {
+      "id": "22764",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.929",
+      "lon": "35.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22754",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شوير",
+      "en": "Choueir",
+      "slug": "choueir-22754"
+    },
+    "code": {
+      "id": "22754",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.915",
+      "lon": "35.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22591",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شرين",
+      "en": "Chrine",
+      "slug": "chrine-22591"
+    },
+    "code": {
+      "id": "22591",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.936",
+      "lon": "35.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22675",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ضهر الصوان المتن",
+      "en": "Dahr Es-Souane El-Matn",
+      "slug": "dahr-es-souane-el-matn-22675"
+    },
+    "code": {
+      "id": "22675",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.901",
+      "lon": "35.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22415",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ديشونية",
+      "en": "Daychouniyeh",
+      "slug": "daychouniyeh-22415"
+    },
+    "code": {
+      "id": "22415",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.846",
+      "lon": "35.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22375",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ضبية",
+      "en": "Dbayeh",
+      "slug": "dbayeh-22375"
+    },
+    "code": {
+      "id": "22375",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.937",
+      "lon": "35.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22579",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير شمرا",
+      "en": "Deir Chamra",
+      "slug": "deir-chamra-22579"
+    },
+    "code": {
+      "id": "22579",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.949",
+      "lon": "35.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22487",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير مار عبدا المشمر",
+      "en": "Deir Mar Aabda el Mchammar",
+      "slug": "deir-mar-aabda-el-mchammar-22487"
+    },
+    "code": {
+      "id": "22487",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.944",
+      "lon": "35.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22245",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مار روكز",
+      "en": "Deir mar Roukoz",
+      "slug": "deir-mar-roukoz-22245"
+    },
+    "code": {
+      "id": "22245",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.87",
+      "lon": "35.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22479",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير طاميش",
+      "en": "Deir Tamich",
+      "slug": "deir-tamich-22479"
+    },
+    "code": {
+      "id": "22479",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.94",
+      "lon": "35.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22262",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دكوانة",
+      "en": "Dekouaneh",
+      "slug": "dekouaneh-22262"
+    },
+    "code": {
+      "id": "22262",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.877",
+      "lon": "35.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22463",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ديك المحدي",
+      "en": "Dik El-Mehdi",
+      "slug": "dik-el-mehdi-22463"
+    },
+    "code": {
+      "id": "22463",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.932",
+      "lon": "35.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22761",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دوار",
+      "en": "Douar El-Matn",
+      "slug": "douar-el-matn-22761"
+    },
+    "code": {
+      "id": "22761",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.901",
+      "lon": "35.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22419",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الفنار",
+      "en": "Fanar",
+      "slug": "fanar-22419"
+    },
+    "code": {
+      "id": "22419",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.878",
+      "lon": "35.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22571",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فريكه",
+      "en": "Fraikeh",
+      "slug": "fraikeh-22571"
+    },
+    "code": {
+      "id": "22571",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.937",
+      "lon": "35.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22383",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حارة البلان",
+      "en": "Haret El-Ballane",
+      "slug": "haret-el-ballane-22383"
+    },
+    "code": {
+      "id": "22383",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.938",
+      "lon": "35.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22583",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حبوس",
+      "en": "Hbous",
+      "slug": "hbous-22583"
+    },
+    "code": {
+      "id": "22583",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.928",
+      "lon": "35.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22547",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حملايا",
+      "en": "Himlaya",
+      "slug": "himlaya-22547"
+    },
+    "code": {
+      "id": "22547",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.941",
+      "lon": "35.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22327",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جل الديب",
+      "en": "Jall Ed-Did",
+      "slug": "jall-ed-did-22327"
+    },
+    "code": {
+      "id": "22327",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.906",
+      "lon": "35.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جديدة المتن",
+      "en": "Jdaidet El-Matn",
+      "slug": "jdaidet-el-matn-22211"
+    },
+    "code": {
+      "id": "22211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.89",
+      "lon": "35.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22587",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جوار المتن",
+      "en": "Jouar El-Matn",
+      "slug": "jouar-el-matn-22587"
+    },
+    "code": {
+      "id": "22587",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.93",
+      "lon": "35.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22619",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جورة البلوط",
+      "en": "Jouret El-Ballout",
+      "slug": "jouret-el-ballout-22619"
+    },
+    "code": {
+      "id": "22619",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.896",
+      "lon": "35.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22781",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرعقاب",
+      "en": "Kfar Aaqab",
+      "slug": "kfar-aaqab-22781"
+    },
+    "code": {
+      "id": "22781",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.942",
+      "lon": "35.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22799",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرتيه",
+      "en": "Kfar Tay El-Matn",
+      "slug": "kfar-tay-el-matn-22799"
+    },
+    "code": {
+      "id": "22799",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.977",
+      "lon": "35.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22722",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خلة المتين",
+      "en": "Khillet El-Mtain",
+      "slug": "khillet-el-mtain-22722"
+    },
+    "code": {
+      "id": "22722",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.893",
+      "lon": "35.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22747",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خنشارة",
+      "en": "Khinchara",
+      "slug": "khinchara-22747"
+    },
+    "code": {
+      "id": "22747",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.921",
+      "lon": "35.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-22001"
+    },
+    "code": {
+      "id": "22001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.893",
+      "lon": "35.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22002",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-22002"
+    },
+    "code": {
+      "id": "22002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.886",
+      "lon": "35.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22787",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشرح",
+      "en": "Machraah El-Matn",
+      "slug": "machraah-el-matn-22787"
+    },
+    "code": {
+      "id": "22787",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.944",
+      "lon": "35.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22774",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجدل ترشيش",
+      "en": "Majdel tarchich",
+      "slug": "majdel-tarchich-22774"
+    },
+    "code": {
+      "id": "22774",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.892",
+      "lon": "35.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22435",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجذوب",
+      "en": "Majzoub",
+      "slug": "majzoub-22435"
+    },
+    "code": {
+      "id": "22435",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.901",
+      "lon": "35.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22411",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "منصورية",
+      "en": "Mansouriyet El-Matn",
+      "slug": "mansouriyet-el-matn-22411"
+    },
+    "code": {
+      "id": "22411",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.854",
+      "lon": "35.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22527",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مار بطرس كرم التين",
+      "en": "Mar Boutros Karm Et-Tine",
+      "slug": "mar-boutros-karm-et-tine-22527"
+    },
+    "code": {
+      "id": "22527",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.936",
+      "lon": "35.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22784",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مار موسى الدوار",
+      "en": "Mar Moussa Ed-Douar",
+      "slug": "mar-moussa-ed-douar-22784"
+    },
+    "code": {
+      "id": "22784",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.9",
+      "lon": "35.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22734",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مرجبا",
+      "en": "Marjaba",
+      "slug": "marjaba-22734"
+    },
+    "code": {
+      "id": "22734",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.918",
+      "lon": "35.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22627",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المسقى",
+      "en": "Masqa",
+      "slug": "masqa-22627"
+    },
+    "code": {
+      "id": "22627",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.879",
+      "lon": "35.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22539",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مياسة",
+      "en": "Mayasseh",
+      "slug": "mayasseh-22539"
+    },
+    "code": {
+      "id": "22539",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.942",
+      "lon": "35.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22391",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة دير عوكر",
+      "en": "Mazraat Deir Aaoukar",
+      "slug": "mazraat-deir-aaoukar-22391"
+    },
+    "code": {
+      "id": "22391",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.934",
+      "lon": "35.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22367",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة الحضيرة",
+      "en": "Mazraat El-Hdaira",
+      "slug": "mazraat-el-hdaira-22367"
+    },
+    "code": {
+      "id": "22367",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.932",
+      "lon": "35.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22475",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة يشوع",
+      "en": "Mazraat Yachouaa",
+      "slug": "mazraat-yachouaa-22475"
+    },
+    "code": {
+      "id": "22475",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.931",
+      "lon": "35.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22717",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشيخا",
+      "en": "Mchikha",
+      "slug": "mchikha-22717"
+    },
+    "code": {
+      "id": "22717",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.884",
+      "lon": "35.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22319",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزهر",
+      "en": "Menqlet Mezher",
+      "slug": "menqlet-mezher-22319"
+    },
+    "code": {
+      "id": "22319",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.908",
+      "lon": "35.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22515",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "محيدثة المتن",
+      "en": "Mhaidset Matn",
+      "slug": "mhaidset-matn-22515"
+    },
+    "code": {
+      "id": "22515",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.922",
+      "lon": "35.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22279",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مكلس",
+      "en": "Mkalles",
+      "slug": "mkalles-22279"
+    },
+    "code": {
+      "id": "22279",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.861",
+      "lon": "35.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22733",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المروج",
+      "en": "Mrouj",
+      "slug": "mrouj-22733"
+    },
+    "code": {
+      "id": "22733",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.91",
+      "lon": "35.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22711",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المتين",
+      "en": "Mtain",
+      "slug": "mtain-22711"
+    },
+    "code": {
+      "id": "22711",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.92",
+      "lon": "35.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22447",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مطيلب",
+      "en": "Mtayleb",
+      "slug": "mtayleb-22447"
+    },
+    "code": {
+      "id": "22447",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.922",
+      "lon": "35.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22651",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزكة",
+      "en": "Mzakkeh",
+      "slug": "mzakkeh-22651"
+    },
+    "code": {
+      "id": "22651",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.896",
+      "lon": "35.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22443",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نابيه",
+      "en": "Nabay",
+      "slug": "nabay-22443"
+    },
+    "code": {
+      "id": "22443",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.904",
+      "lon": "35.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22335",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نقاش",
+      "en": "Naqqach",
+      "slug": "naqqach-22335"
+    },
+    "code": {
+      "id": "22335",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.924",
+      "lon": "35.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22519",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي شاهين",
+      "en": "Ouadi Chahine",
+      "slug": "ouadi-chahine-22519"
+    },
+    "code": {
+      "id": "22519",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.932",
+      "lon": "35.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22791",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي الكرم المتن",
+      "en": "Ouadi El-Karm El-Matn",
+      "slug": "ouadi-el-karm-el-matn-22791"
+    },
+    "code": {
+      "id": "22791",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.953",
+      "lon": "35.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22731",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وطى المروج",
+      "en": "Ouata El-Mrouj",
+      "slug": "ouata-el-mrouj-22731"
+    },
+    "code": {
+      "id": "22731",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.909",
+      "lon": "35.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22744",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القعقور",
+      "en": "Qaaqour",
+      "slug": "qaaqour-22744"
+    },
+    "code": {
+      "id": "22744",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.895",
+      "lon": "35.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22683",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قنابة صليما",
+      "en": "Qannebet Salima",
+      "slug": "qannebet-salima-22683"
+    },
+    "code": {
+      "id": "22683",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.886",
+      "lon": "35.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22643",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قنابة برمانا",
+      "en": "Qennabet Broummana",
+      "slug": "qennabet-broummana-22643"
+    },
+    "code": {
+      "id": "22643",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.892",
+      "lon": "35.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22455",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرنة شهوان",
+      "en": "Qornet Chehouane",
+      "slug": "qornet-chehouane-22455"
+    },
+    "code": {
+      "id": "22455",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.916",
+      "lon": "35.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22595",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرنة الحمرا",
+      "en": "Qornet El-Hamra",
+      "slug": "qornet-el-hamra-22595"
+    },
+    "code": {
+      "id": "22595",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.935",
+      "lon": "35.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22427",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "روميه المتن",
+      "en": "Roumieh",
+      "slug": "roumieh-22427"
+    },
+    "code": {
+      "id": "22427",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.885",
+      "lon": "35.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22567",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سفيلة بكفيا",
+      "en": "Sfeilet Bikfaya",
+      "slug": "sfeilet-bikfaya-22567"
+    },
+    "code": {
+      "id": "22567",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.943",
+      "lon": "35.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22155",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سن الفيل",
+      "en": "Sinn El-Fil",
+      "slug": "sinn-el-fil-22155"
+    },
+    "code": {
+      "id": "22155",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.876",
+      "lon": "35.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22794",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زبوغا",
+      "en": "Zabbougha",
+      "slug": "zabbougha-22794"
+    },
+    "code": {
+      "id": "22794",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.952",
+      "lon": "35.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22483",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زكريت",
+      "en": "Zakrit",
+      "slug": "zakrit-22483"
+    },
+    "code": {
+      "id": "22483",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.938",
+      "lon": "35.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22351",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الزلقا",
+      "en": "Zalqa",
+      "slug": "zalqa-22351"
+    },
+    "code": {
+      "id": "22351",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.899",
+      "lon": "35.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22741",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زرعون",
+      "en": "Zaraaoun",
+      "slug": "zaraaoun-22741"
+    },
+    "code": {
+      "id": "22741",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.898",
+      "lon": "35.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22771",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زغرين المتن",
+      "en": "Zighrine El-Matn",
+      "slug": "zighrine-el-matn-22771"
+    },
+    "code": {
+      "id": "22771",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.923",
+      "lon": "35.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22467",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ذوق الخراب",
+      "en": "Zouk El-Kharab",
+      "slug": "zouk-el-kharab-22467"
+    },
+    "code": {
+      "id": "22467",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB36",
+      "level": 2,
+      "name": {
+        "local": "المتن",
+        "en": "El Meten",
+        "slug": "el-meten-lb36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB36",
+        "level": 2,
+        "name": {
+          "local": "المتن",
+          "en": "El Meten",
+          "slug": "el-meten-lb36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.948",
+      "lon": "35.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

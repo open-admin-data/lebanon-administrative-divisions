@@ -1,0 +1,274 @@
+[
+  {
+    "id": "LB7",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "عكار",
+      "en": "Akkar",
+      "slug": "akkar-lb7"
+    },
+    "code": {
+      "id": "LB7",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1,
+      "cadastre": 168
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.552",
+      "lon": "36.201"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lb/governorates/akkar-lb7/",
+      "api": "https://openadmindata.org/api/lb/"
+    }
+  },
+  {
+    "id": "LB8",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "بعلبك - الهرمل",
+      "en": "Baalbek-El Hermel",
+      "slug": "baalbek-el-hermel-lb8"
+    },
+    "code": {
+      "id": "LB8",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 2,
+      "cadastre": 100
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.168",
+      "lon": "36.297"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lb/governorates/baalbek-el-hermel-lb8/",
+      "api": "https://openadmindata.org/api/lb/"
+    }
+  },
+  {
+    "id": "LB1",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "بيروت",
+      "en": "Beirut",
+      "slug": "beirut-lb1"
+    },
+    "code": {
+      "id": "LB1",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1,
+      "cadastre": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.889",
+      "lon": "35.502"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lb/governorates/beirut-lb1/",
+      "api": "https://openadmindata.org/api/lb/"
+    }
+  },
+  {
+    "id": "LB2",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "البقاع",
+      "en": "Bekaa",
+      "slug": "bekaa-lb2"
+    },
+    "code": {
+      "id": "LB2",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "cadastre": 144
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.64",
+      "lon": "35.81"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lb/governorates/bekaa-lb2/",
+      "api": "https://openadmindata.org/api/lb/"
+    }
+  },
+  {
+    "id": "LB4",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "النبطية",
+      "en": "El Nabatieh",
+      "slug": "el-nabatieh-lb4"
+    },
+    "code": {
+      "id": "LB4",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "cadastre": 145
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.283",
+      "lon": "35.497"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lb/governorates/el-nabatieh-lb4/",
+      "api": "https://openadmindata.org/api/lb/"
+    }
+  },
+  {
+    "id": "LB3",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "جبل لبنان",
+      "en": "Mount Lebanon",
+      "slug": "mount-lebanon-lb3"
+    },
+    "code": {
+      "id": "LB3",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "cadastre": 536
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.851",
+      "lon": "35.648"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lb/governorates/mount-lebanon-lb3/",
+      "api": "https://openadmindata.org/api/lb/"
+    }
+  },
+  {
+    "id": "LB5",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "الشمال",
+      "en": "North",
+      "slug": "north-lb5"
+    },
+    "code": {
+      "id": "LB5",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "cadastre": 273
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.32",
+      "lon": "35.937"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lb/governorates/north-lb5/",
+      "api": "https://openadmindata.org/api/lb/"
+    }
+  },
+  {
+    "id": "LB6",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "الجنوب",
+      "en": "South",
+      "slug": "south-lb6"
+    },
+    "code": {
+      "id": "LB6",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "cadastre": 231
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.342",
+      "lon": "35.304"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lb/governorates/south-lb6/",
+      "api": "https://openadmindata.org/api/lb/"
+    }
+  }
+]

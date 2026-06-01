@@ -1,0 +1,284 @@
+[
+  {
+    "id": "LB31",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "عاليه",
+      "en": "Aley",
+      "slug": "aley-lb31"
+    },
+    "code": {
+      "id": "LB31",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 82
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.766",
+      "lon": "35.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB32",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "بعبدا",
+      "en": "Baabda",
+      "slug": "baabda-lb32"
+    },
+    "code": {
+      "id": "LB32",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 57
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.841",
+      "lon": "35.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB33",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشوف",
+      "en": "Chouf",
+      "slug": "chouf-lb33"
+    },
+    "code": {
+      "id": "LB33",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 106
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.628",
+      "lon": "35.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB36",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "المتن",
+      "en": "El Meten",
+      "slug": "el-meten-lb36"
+    },
+    "code": {
+      "id": "LB36",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 102
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.91",
+      "lon": "35.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB34",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "جبيل",
+      "en": "Jbeil",
+      "slug": "jbeil-lb34"
+    },
+    "code": {
+      "id": "LB34",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 107
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.125",
+      "lon": "35.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB35",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "كسروان",
+      "en": "Kesrwane",
+      "slug": "kesrwane-lb35"
+    },
+    "code": {
+      "id": "LB35",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 82
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.013",
+      "lon": "35.791"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

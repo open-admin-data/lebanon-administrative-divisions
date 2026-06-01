@@ -1,0 +1,2183 @@
+# Mount Lebanon — Lebanon Administrative Divisions
+
+> 6 districts, 536 cadastres
+> Code: LB3
+> Coordinates: 33.851, 35.648
+> Last updated: 2026-06-01. License: CC-BY-4.0.
+
+## Districts
+
+### عاليه (Aley)
+
+Code: LB31, Coordinates: 33.766, 35.631
+Cadastres: 82
+
+#### عبيه (Aabey)
+
+Code: 24375, Coordinates: 33.739, 35.523
+
+#### عين عنوب (Aain Aanoub)
+
+Code: 24259, Coordinates: 33.792, 35.539
+
+#### عين داره (Aain Dara)
+
+Code: 24477, Coordinates: 33.788, 35.767
+
+#### عين درافيل (Aain Drafil)
+
+Code: 24219, Coordinates: 33.753, 35.499
+
+#### عين الجديدة (Aain Ej-Jdideh Aaley)
+
+Code: 24325, Coordinates: 33.807, 35.631
+
+#### عين الحلزون (Aain El Halazoun)
+
+Code: 24431, Coordinates: 33.771, 35.65
+
+#### عين الرمانة (Aain Er-Roummaneh Aaley)
+
+Code: 24317, Coordinates: 33.804, 35.588
+
+#### عين كسور (Aain Ksour)
+
+Code: 24371, Coordinates: 33.747, 35.534
+
+#### عين تراز (Aain Traz)
+
+Code: 24361, Coordinates: 33.735, 35.582
+
+#### عاليه (Aaley)
+
+Code: 24311, Coordinates: 33.808, 35.607
+
+#### البساتين (Aaley Bsatine)
+
+Code: 24365, Coordinates: 33.754, 35.525
+
+#### عرمون (Aaramoun Aaley)
+
+Code: 24211, Coordinates: 33.766, 35.503
+
+#### عيناب (Aaynab)
+
+Code: 24351, Coordinates: 33.765, 35.545
+
+#### عيتات (Aaytat)
+
+Code: 24329, Coordinates: 33.794, 35.557
+
+#### العزونيه (Aazouniyeh)
+
+Code: 24454, Coordinates: 33.782, 35.71
+
+#### بعورته (Baaouerta)
+
+Code: 24235, Coordinates: 33.741, 35.476
+
+#### بيصور (Bayssour Aaley)
+
+Code: 24343, Coordinates: 33.768, 35.566
+
+#### بشامون (Bchamoun)
+
+Code: 24243, Coordinates: 33.786, 35.512
+
+#### بدادون (Bdadoun)
+
+Code: 24283, Coordinates: 33.808, 35.57
+
+#### بدغان (Bedghan Oua Ouadi Bedghan)
+
+Code: 24434, Coordinates: 33.765, 35.648
+
+#### بحوارا (Behouara)
+
+Code: 24327, Coordinates: 33.789, 35.601
+
+#### بحمدون الضيعة (Bhamdoun Ed-Dayaa)
+
+Code: 24414, Coordinates: 33.797, 35.652
+
+#### بحمدون المحطة (Bhamdoun El-Mhatta)
+
+Code: 24411, Coordinates: 33.806, 35.661
+
+#### البينه (Binnay)
+
+Code: 24369, Coordinates: 33.734, 35.55
+
+#### بخشتيه (Bkhichtay)
+
+Code: 24321, Coordinates: 33.799, 35.62
+
+#### بليبل (Blaybel)
+
+Code: 24267, Coordinates: 33.809, 35.551
+
+#### بمهريه (Bmahray)
+
+Code: 24484, Coordinates: 33.755, 35.75
+
+#### بمكين (Bmakine)
+
+Code: 24319, Coordinates: 33.8, 35.57
+
+#### بو زريده (Bou Zrideh)
+
+Code: 24355, Coordinates: 33.744, 35.577
+
+#### بسرين (Bserrine)
+
+Code: 24464, Coordinates: 33.757, 35.638
+
+#### بسوس (Bsous)
+
+Code: 24291, Coordinates: 33.814, 35.58
+
+#### بطلون (Btalloun)
+
+Code: 24421, Coordinates: 33.791, 35.633
+
+#### بتاتر (Btater)
+
+Code: 24447, Coordinates: 33.767, 35.622
+
+#### شانيه (Chanay)
+
+Code: 24417, Coordinates: 33.788, 35.662
+
+#### شارون (Charoun)
+
+Code: 24444, Coordinates: 33.777, 35.694
+
+#### شرتون (Chartoun)
+
+Code: 24353, Coordinates: 33.755, 35.589
+
+#### شملان (Chimlane)
+
+Code: 24339, Coordinates: 33.78, 35.548
+
+#### عمروسية الشويفات (Choueifat El-Aamrousiyeh)
+
+Code: 24111, Coordinates: 33.815, 35.515
+
+#### الشويفات الامراء (Choueifat El-Oumara)
+
+Code: 24155, Coordinates: 33.812, 35.499
+
+#### قبة الشويفات (Choueifat El-Quoubbeh)
+
+Code: 24133, Coordinates: 33.786, 35.484
+
+#### دقون (Daqqoun)
+
+Code: 24251, Coordinates: 33.727, 35.504
+
+#### دير قوبل (Deir Qoubel)
+
+Code: 24177, Coordinates: 33.795, 35.513
+
+#### دفون (Dfoun)
+
+Code: 24357, Coordinates: 33.75, 35.554
+
+#### دوير الرمان (Douair Er-Remmaneh)
+
+Code: 24345, Coordinates: 33.755, 35.581
+
+#### الغابون (Ghaboune)
+
+Code: 24323, Coordinates: 33.782, 35.594
+
+#### حبرمون (Habramoun)
+
+Code: 24461, Coordinates: 33.757, 35.646
+
+#### حمص وحمى (Homs Oua Hama)
+
+Code: 24437, Coordinates: 33.769, 35.652
+
+#### حومال (Houmal)
+
+Code: 24275, Coordinates: 33.81, 35.56
+
+#### اغميد (Ighmid)
+
+Code: 24451, Coordinates: 33.759, 35.695
+
+#### جسر القاضي (Jisr El Qadi)
+
+Code: 24373, Coordinates: 33.727, 35.563
+
+#### الكحاله (Kahhaleh)
+
+Code: 24313, Coordinates: 33.821, 35.588
+
+#### كيفون (Keyfoun)
+
+Code: 24337, Coordinates: 33.779, 35.561
+
+#### كفرعميه (Kfar Aamay)
+
+Code: 24341, Coordinates: 33.77, 35.594
+
+#### كفرمتى (Kfar Matta)
+
+Code: 24377, Coordinates: 33.717, 35.512
+
+#### Litige
+
+Code: 24001, Coordinates: 33.769, 35.643
+
+#### Litige
+
+Code: 24002, Coordinates: 33.762, 35.595
+
+#### Litige
+
+Code: 24003, Coordinates: 33.758, 35.632
+
+#### Litige
+
+Code: 24004, Coordinates: 33.753, 35.63
+
+#### Litige
+
+Code: 24005, Coordinates: 33.751, 35.642
+
+#### Litige
+
+Code: 24006, Coordinates: 33.75, 35.641
+
+#### Litige
+
+Code: 24007, Coordinates: 33.743, 35.574
+
+#### Litige
+
+Code: 24008, Coordinates: 33.744, 35.544
+
+#### Litige
+
+Code: 24009, Coordinates: 33.722, 35.554
+
+#### معصريتي (Maasrati)
+
+Code: 24471, Coordinates: 33.749, 35.633
+
+#### مجدل بعنا (Majdel Baana)
+
+Code: 24424, Coordinates: 33.784, 35.679
+
+#### منصورية بحمدون (Mansouriyet Bhamdoun)
+
+Code: 24441, Coordinates: 33.778, 35.618
+
+#### مزرعة النهر (Mazraat En-Nahr Aaley)
+
+Code: 24474, Coordinates: 33.752, 35.643
+
+#### مشاقتي (Mchekhti)
+
+Code: 24443, Coordinates: 33.758, 35.704
+
+#### مشرفه (Mcherfeh)
+
+Code: 24457, Coordinates: 33.761, 35.662
+
+#### مجدليا (Mejdlaiya)
+
+Code: 24349, Coordinates: 33.759, 35.575
+
+#### مريجات عاليه (Mrayjat Aaley)
+
+Code: 24481, Coordinates: 33.744, 35.676
+
+#### قماطية (Qmatiyeh)
+
+Code: 24315, Coordinates: 33.802, 35.578
+
+#### رملية (Ramlieh)
+
+Code: 24467, Coordinates: 33.746, 35.653
+
+#### رشميا (Richmaiya)
+
+Code: 24359, Coordinates: 33.739, 35.607
+
+#### رجمة (Rijmeh)
+
+Code: 24335, Coordinates: 33.789, 35.614
+
+#### رمحالا (Rimhala)
+
+Code: 24367, Coordinates: 33.745, 35.569
+
+#### رويسة النعمان (Rouayssat En-Naamane)
+
+Code: 24347, Coordinates: 33.754, 35.602
+
+#### صوفر (Saoufar)
+
+Code: 24427, Coordinates: 33.802, 35.691
+
+#### سلفايا (Selfaya)
+
+Code: 24363, Coordinates: 33.734, 35.57
+
+#### سرحمول (Sirhmoul)
+
+Code: 24227, Coordinates: 33.767, 35.529
+
+#### سوق الغرب (Souq El-Gharb)
+
+Code: 24331, Coordinates: 33.79, 35.574
+
+#### تعزانية (Taazaniyeh)
+
+Code: 24333, Coordinates: 33.785, 35.622
+
+### بعبدا (Baabda)
+
+Code: LB32, Coordinates: 33.841, 35.7
+Cadastres: 57
+
+#### عبادية (Aabadiyeh)
+
+Code: 21341, Coordinates: 33.831, 35.624
+
+#### عين موفق (Aain Mouaffaq)
+
+Code: 21314, Coordinates: 33.821, 35.654
+
+#### عاريا (Aaraiya)
+
+Code: 21371, Coordinates: 33.832, 35.585
+
+#### عربانية (Aarbaniyeh)
+
+Code: 21381, Coordinates: 33.873, 35.671
+
+#### ارصون (Arsoun)
+
+Code: 21471, Coordinates: 33.857, 35.69
+
+#### بعبدا (Baabda)
+
+Code: 21211, Coordinates: 33.846, 35.545
+
+#### بعلشميه (Baalchmay)
+
+Code: 21311, Coordinates: 33.816, 35.647
+
+#### بمريم (Bmaryam)
+
+Code: 21436, Coordinates: 33.829, 35.711
+
+#### برج البراجنة (Bourj El-Brajneh)
+
+Code: 21177, Coordinates: 33.841, 35.506
+
+#### بطشيه (Boutchay)
+
+Code: 21227, Coordinates: 33.826, 35.542
+
+#### بسابا وادي الدلب (Bsaba Baabda)
+
+Code: 21283, Coordinates: 33.805, 35.538
+
+#### بتخناي (Btekhnay)
+
+Code: 21441, Coordinates: 33.841, 35.716
+
+#### بتبيات (Btibyat)
+
+Code: 21451, Coordinates: 33.837, 35.698
+
+#### بزبدين (Bzebdine)
+
+Code: 21466, Coordinates: 33.874, 35.741
+
+#### شبانية (Chbaniyeh)
+
+Code: 21426, Coordinates: 33.814, 35.717
+
+#### شياح (Chiyah)
+
+Code: 21111, Coordinates: 33.855, 35.494
+
+#### شميسة (Chmeisset Baabda)
+
+Code: 21347, Coordinates: 33.83, 35.686
+
+#### شويت (Chouit)
+
+Code: 21354, Coordinates: 33.83, 35.608
+
+#### دير الحرف (Deir El-harf)
+
+Code: 21367, Coordinates: 33.849, 35.691
+
+#### دير خونة (Deir Khouna)
+
+Code: 21337, Coordinates: 33.832, 35.664
+
+#### دليبه (Dlaybeh)
+
+Code: 21391, Coordinates: 33.879, 35.69
+
+#### فالوغا (Falougha)
+
+Code: 21446, Coordinates: 33.829, 35.772
+
+#### فرن الشباك (Furn Ech-Chebbak)
+
+Code: 21133, Coordinates: 33.871, 35.528
+
+#### حدث (Hadath Beyrouth)
+
+Code: 21219, Coordinates: 33.84, 35.525
+
+#### حمانا (Hammana)
+
+Code: 21411, Coordinates: 33.813, 35.747
+
+#### حارة الست (Haret Es-Sit)
+
+Code: 21275, Coordinates: 33.826, 35.568
+
+#### حارة حمزة (Haret Hamzeh)
+
+Code: 21327, Coordinates: 33.821, 35.663
+
+#### حارة حريك (Haret Hreik)
+
+Code: 21144, Coordinates: 33.852, 35.513
+
+#### حاصبيّا المتن (Hasbaiya El-Matn)
+
+Code: 21397, Coordinates: 33.876, 35.721
+
+#### هلالية (Hlaliyeh Baabda)
+
+Code: 21324, Coordinates: 33.83, 35.639
+
+#### جوار الحوز (Jouar El-Haouz)
+
+Code: 21461, Coordinates: 33.861, 35.758
+
+#### جورة ارصون (Jouret Arsoun)
+
+Code: 21487, Coordinates: 33.853, 35.71
+
+#### كفرشيما (Kfar Chima)
+
+Code: 21251, Coordinates: 33.815, 35.533
+
+#### كفرسلوان (Kfar Selouane)
+
+Code: 21476, Coordinates: 33.857, 35.792
+
+#### خلوات (Khalouat Baabda)
+
+Code: 21421, Coordinates: 33.84, 35.736
+
+#### خريبة بعبدا (Khreibet Baabda)
+
+Code: 21431, Coordinates: 33.823, 35.718
+
+#### كنيسة بعبدا (Kneisset Baabda)
+
+Code: 21377, Coordinates: 33.865, 35.667
+
+#### ليلكي (Laylakeh)
+
+Code: 21166, Coordinates: 33.832, 35.515
+
+#### لويزة (Louayzeh Baabda)
+
+Code: 21243, Coordinates: 33.838, 35.572
+
+#### مرداشة (Merdache)
+
+Code: 21235, Coordinates: 33.823, 35.539
+
+#### مزيرعة بعبدا (Mzairaa Baabda)
+
+Code: 21321, Coordinates: 33.83, 35.656
+
+#### وادي شحرور العليا (Ouadi Chahrour El Aaoulia)
+
+Code: 21267, Coordinates: 33.818, 35.565
+
+#### وادي شحرور السفلى (Ouadi Chahrour Es-Soufla)
+
+Code: 21259, Coordinates: 33.822, 35.554
+
+#### القلعة (Qalaat Baabda)
+
+Code: 21416, Coordinates: 33.838, 35.728
+
+#### قبيع (Qobbayaa)
+
+Code: 21357, Coordinates: 33.814, 35.691
+
+#### قرطادة (Qordata)
+
+Code: 21361, Coordinates: 33.86, 35.625
+
+#### قرنايل (Qornayel)
+
+Code: 21456, Coordinates: 33.856, 35.729
+
+#### قرية (Qrayet Baabda)
+
+Code: 21344, Coordinates: 33.808, 35.68
+
+#### قصيبة (Qsaibeh Baabda)
+
+Code: 21364, Coordinates: 33.864, 35.65
+
+#### قتالة (Qtaleh Baabda)
+
+Code: 21331, Coordinates: 33.821, 35.679
+
+#### راس المتن (Ras El Matn)
+
+Code: 21351, Coordinates: 33.846, 35.658
+
+#### راس الحرف (Ras El-Href)
+
+Code: 21334, Coordinates: 33.813, 35.669
+
+#### رويسة البلوط (Rouayssrt El-Ballout)
+
+Code: 21317, Coordinates: 33.828, 35.647
+
+#### صليما بعبدا (Salima Baabda)
+
+Code: 21394, Coordinates: 33.873, 35.697
+
+#### تحويطة الغدير (Tahouitat El Ghadir)
+
+Code: 21188, Coordinates: 33.829, 35.494
+
+#### ترشيش (Tarchich)
+
+Code: 21481, Coordinates: 33.874, 35.805
+
+#### زندوقة (Zandouqa)
+
+Code: 21374, Coordinates: 33.866, 35.638
+
+### الشوف (Chouf)
+
+Code: LB33, Coordinates: 33.628, 35.537
+Cadastres: 106
+
+#### عين وزين (Aain Ouzain)
+
+Code: 23627, Coordinates: 33.679, 35.626
+
+#### عين قني (Aain Qania)
+
+Code: 23619, Coordinates: 33.645, 35.601
+
+#### عين زحلتا (Aain Zhalta)
+
+Code: 23469, Coordinates: 33.737, 35.725
+
+#### عينبال (Aainbal)
+
+Code: 23533, Coordinates: 33.658, 35.557
+
+#### علمان الشوف (Aalmane Ech-Chouf)
+
+Code: 23311, Coordinates: 33.592, 35.412
+
+#### عمّاطور (Aammatour)
+
+Code: 23639, Coordinates: 33.615, 35.601
+
+#### عميق الشوف (Aammiq Ech-Chouf)
+
+Code: 23427, Coordinates: 33.718, 35.59
+
+#### عانوت (Aanout)
+
+Code: 23239, Coordinates: 33.623, 35.515
+
+#### عترين (Aathrine)
+
+Code: 23544, Coordinates: 33.662, 35.575
+
+#### بعدران (Baadarane)
+
+Code: 23631, Coordinates: 33.632, 35.628
+
+#### بعقلين (Baaqline)
+
+Code: 23511, Coordinates: 33.668, 35.541
+
+#### بعاصير (Baassir)
+
+Code: 23255, Coordinates: 33.662, 35.444
+
+#### برجا (Barja)
+
+Code: 23251, Coordinates: 33.644, 35.438
+
+#### الباروك (Barouk)
+
+Code: 23679, Coordinates: 33.695, 35.702
+
+#### باتر (Bater)
+
+Code: 23675, Coordinates: 33.591, 35.601
+
+#### بتلون (Batloun)
+
+Code: 23663, Coordinates: 33.693, 35.653
+
+#### بيقون (Bayqoun)
+
+Code: 23687, Coordinates: 33.614, 35.582
+
+#### بشتفين (Bchtfine)
+
+Code: 23423, Coordinates: 33.712, 35.551
+
+#### بيت الدين (Beit Ed-Dine)
+
+Code: 23411, Coordinates: 33.693, 35.582
+
+#### بنواتي (Benouati Ech-Chouf)
+
+Code: 23263, Coordinates: 33.677, 35.514
+
+#### بيرة (Biret Ech-Chouf)
+
+Code: 23451, Coordinates: 33.726, 35.652
+
+#### بكشتين (Bkechtine Ouel Mcheiaa)
+
+Code: 23253, Coordinates: 33.671, 35.497
+
+#### بكيفا (Bkifa Ech-Chouf)
+
+Code: 23356, Coordinates: 33.591, 35.496
+
+#### بطمة (Botmeh)
+
+Code: 23615, Coordinates: 33.671, 35.642
+
+#### البرجين (Bourjein)
+
+Code: 23247, Coordinates: 33.652, 35.481
+
+#### بقيعة (Bqaiaa Ech-Chouf)
+
+Code: 23457, Coordinates: 33.687, 35.492
+
+#### بريح (Brih)
+
+Code: 23459, Coordinates: 33.715, 35.654
+
+#### بسابا (Bsaba Ech-Chouf)
+
+Code: 23386, Coordinates: 33.603, 35.548
+
+#### شميس (Chammis Ech-Chouf)
+
+Code: 23223, Coordinates: 33.64, 35.462
+
+#### شحيم (Chhim)
+
+Code: 23211, Coordinates: 33.627, 35.488
+
+#### شمعرين (Chmaarine)
+
+Code: 23275, Coordinates: 33.679, 35.505
+
+#### شوريت (Chourit)
+
+Code: 23453, Coordinates: 33.742, 35.635
+
+#### ضهر المغارة (Dahr Ech-Chouf)
+
+Code: 23279, Coordinates: 33.68, 35.448
+
+#### دلهون (Dalhoun)
+
+Code: 23219, Coordinates: 33.625, 35.464
+
+#### الدامور (Damour)
+
+Code: 23111, Coordinates: 33.712, 35.454
+
+#### داريا الشوف (Daraiya Ech-Chouf)
+
+Code: 23227, Coordinates: 33.648, 35.516
+
+#### دير بابا (Deir Baba)
+
+Code: 23435, Coordinates: 33.698, 35.519
+
+#### دير دوريت (Deir Dourit)
+
+Code: 23522, Coordinates: 33.677, 35.536
+
+#### دير المخلص الشوف (Deir El-Moukhalles Ech-Chouf)
+
+Code: 23346, Coordinates: 33.584, 35.484
+
+#### دير القمر (Deir El-Qamar)
+
+Code: 23413, Coordinates: 33.697, 35.558
+
+#### دير كوشه (Deir Koucheh)
+
+Code: 23429, Coordinates: 33.719, 35.566
+
+#### دبية (Dibbiyeh)
+
+Code: 23259, Coordinates: 33.676, 35.473
+
+#### دميت (Dmit)
+
+Code: 23447, Coordinates: 33.695, 35.501
+
+#### فوارة جعفر (Faouarat Jaafar)
+
+Code: 23449, Coordinates: 33.713, 35.639
+
+#### فريديس الشوف (Fraudis Ech-Chouf)
+
+Code: 23467, Coordinates: 33.713, 35.705
+
+#### غابة جعفر (GHabet Jaafar)
+
+Code: 23438, Coordinates: 33.693, 35.527
+
+#### غريفة (Gharifeh)
+
+Code: 23566, Coordinates: 33.631, 35.558
+
+#### حارة جندل (Haret Jandal)
+
+Code: 23647, Coordinates: 33.621, 35.616
+
+#### حصروت (Hasrout)
+
+Code: 23588, Coordinates: 33.626, 35.537
+
+#### جدرا (Jadra)
+
+Code: 23271, Coordinates: 33.634, 35.41
+
+#### جاهلية (Jahliyeh)
+
+Code: 23577, Coordinates: 33.662, 35.512
+
+#### جباع (Jbaa Ech-Chouf)
+
+Code: 23671, Coordinates: 33.604, 35.645
+
+#### جديدة الشوف (Jdeidet Ech-Chouf)
+
+Code: 23623, Coordinates: 33.669, 35.606
+
+#### جية (Jiyeh)
+
+Code: 23267, Coordinates: 33.665, 35.425
+
+#### جليلية (Jleiliyeh)
+
+Code: 23376, Coordinates: 33.607, 35.526
+
+#### جميلية (Jmailiyeh)
+
+Code: 23316, Coordinates: 33.598, 35.429
+
+#### جون (Joun)
+
+Code: 23336, Coordinates: 33.579, 35.449
+
+#### كحلونية الشوف (Kahlouniet Ech-Chouf)
+
+Code: 23643, Coordinates: 33.648, 35.593
+
+#### كترمايا (Ketermaya)
+
+Code: 23231, Coordinates: 33.615, 35.454
+
+#### كفرفاقود (Kfar Faqoud)
+
+Code: 23433, Coordinates: 33.703, 35.537
+
+#### كفر حمل (Kfar Hamal)
+
+Code: 23415, Coordinates: 33.709, 35.566
+
+#### كفر حي (Kfar hay)
+
+Code: 23454, Coordinates: 33.748, 35.639
+
+#### كفرحيم (Kfar Him)
+
+Code: 23439, Coordinates: 33.688, 35.525
+
+#### كفرنبرخ (Kfar Nabrakh)
+
+Code: 23655, Coordinates: 33.698, 35.631
+
+#### كفرنيس (Kfar Niss)
+
+Code: 23455, Coordinates: 33.735, 35.653
+
+#### كفرقطرة (Kfar Qatra)
+
+Code: 23419, Coordinates: 33.71, 35.589
+
+#### خريبة الشوف (Khereibet Ech-Chouf)
+
+Code: 23635, Coordinates: 33.645, 35.647
+
+#### خربة بسري (Khirbet Bisri)
+
+Code: 23371, Coordinates: 33.584, 35.523
+
+#### كنيسة الشوف (Kneisset Ech-Chouf)
+
+Code: 23425, Coordinates: 33.72, 35.575
+
+#### Litige
+
+Code: 23001, Coordinates: 33.744, 35.744
+
+#### Litige
+
+Code: 23002, Coordinates: 33.73, 35.678
+
+#### Litige
+
+Code: 23003, Coordinates: 33.724, 35.562
+
+#### Litige
+
+Code: 23004, Coordinates: 33.629, 35.672
+
+#### Litige
+
+Code: 23005, Coordinates: 33.622, 35.477
+
+#### Litige
+
+Code: 23006, Coordinates: 33.591, 35.475
+
+#### Litige
+
+Code: 23007, Coordinates: 33.589, 35.586
+
+#### معنيه (Maaniyeh)
+
+Code: 23235, Coordinates: 33.63, 35.445
+
+#### معاصر بيت الدين (Maasser Beit Ed-Dine)
+
+Code: 23421, Coordinates: 33.697, 35.6
+
+#### معاصر الشوف (Maasser Ech-Chouf)
+
+Code: 23667, Coordinates: 33.661, 35.667
+
+#### مجدلونا (Majdalouna)
+
+Code: 23326, Coordinates: 33.598, 35.446
+
+#### مجدل المعوش (Majdel El-Meouch)
+
+Code: 23445, Coordinates: 33.726, 35.622
+
+#### مزبود (Mazboud)
+
+Code: 23215, Coordinates: 33.608, 35.481
+
+#### مزمورة (Mazmoura)
+
+Code: 23361, Coordinates: 33.594, 35.509
+
+#### مزرعة (Mazraat Ech-Chouf)
+
+Code: 23651, Coordinates: 33.621, 35.571
+
+#### مزرعة الدوير (Mazraat Ed-Douair)
+
+Code: 23431, Coordinates: 33.706, 35.606
+
+#### مزرعة الضهر (Mazraat Es-Dahr)
+
+Code: 23366, Coordinates: 33.592, 35.53
+
+#### مشرف (Mechref)
+
+Code: 23171, Coordinates: 33.708, 35.476
+
+#### مغيرية الشوف (Mghairiyeh Ech-Chouf)
+
+Code: 23341, Coordinates: 33.601, 35.458
+
+#### مغيره (Moughayret Ech-Chouf)
+
+Code: 23461, Coordinates: 33.694, 35.48
+
+#### مختارة (Moukhtara)
+
+Code: 23611, Coordinates: 33.657, 35.61
+
+#### مرستى (Mristi)
+
+Code: 23659, Coordinates: 33.621, 35.657
+
+#### مطله (Mtolleh)
+
+Code: 23365, Coordinates: 33.608, 35.537
+
+#### ناعمه (Naameh)
+
+Code: 23141, Coordinates: 33.746, 35.467
+
+#### نيحا (Niha El-Chouf)
+
+Code: 23625, Coordinates: 33.547, 35.623
+
+#### وادي ابو يوسف (Ouadi Abou Youssef)
+
+Code: 23237, Coordinates: 33.678, 35.497
+
+#### وادي بنحليه (Ouadi bnehlay)
+
+Code: 23555, Coordinates: 33.679, 35.524
+
+#### وادي الدير (Ouadi Ed-Deir)
+
+Code: 23441, Coordinates: 33.685, 35.531
+
+#### وادي الست (Ouadi Es-Sitt)
+
+Code: 23443, Coordinates: 33.715, 35.627
+
+#### وردانيه (Ouardaniyeh)
+
+Code: 23331, Coordinates: 33.611, 35.426
+
+#### ورهانية (Ouarhaniyeh)
+
+Code: 23463, Coordinates: 33.718, 35.67
+
+#### قريعة (Qreiaa)
+
+Code: 23351, Coordinates: 33.597, 35.489
+
+#### رميلة (Rmeilet Ech-Chouf)
+
+Code: 23321, Coordinates: 33.603, 35.397
+
+#### سمقانية (Semqaniyeh)
+
+Code: 23417, Coordinates: 33.676, 35.591
+
+#### سبلين (Sibline)
+
+Code: 23243, Coordinates: 33.625, 35.421
+
+#### سرجبال (Sirjbal)
+
+Code: 23437, Coordinates: 33.685, 35.508
+
+#### زعرورية (Zaarouriyeh)
+
+Code: 23381, Coordinates: 33.609, 35.515
+
+### المتن (El Meten)
+
+Code: LB36, Coordinates: 33.91, 35.718
+Cadastres: 102
+
+#### عين علق (Aain Aalaq)
+
+Code: 22551, Coordinates: 33.918, 35.658
+
+#### عين عار (Aain Aar)
+
+Code: 22471, Coordinates: 33.923, 35.644
+
+#### عين الخروبة (Aain El-Kharroubeh)
+
+Code: 22543, Coordinates: 33.933, 35.701
+
+#### عين القبو (Aain El-Qabu)
+
+Code: 22777, Coordinates: 33.939, 35.769
+
+#### عين القش (Aain El-Qach)
+
+Code: 22523, Coordinates: 33.925, 35.701
+
+#### عين السنديانة (Aain Es-Sindiane)
+
+Code: 22737, Coordinates: 33.903, 35.728
+
+#### عين الصفصاف المتن (Aain es-Sofsaf El-Matn)
+
+Code: 22727, Coordinates: 33.912, 35.728
+
+#### عين التفاحة (Aain Et-Teffaha)
+
+Code: 22563, Coordinates: 33.934, 35.726
+
+#### عين الزيتونة (Aain Ez-Zeitouneh)
+
+Code: 22714, Coordinates: 33.905, 35.743
+
+#### عين سعادة (Aain Saadeh)
+
+Code: 22423, Coordinates: 33.869, 35.587
+
+#### الوطى عمارة شلهوب (Aamaret Chalhoub)
+
+Code: 22343, Coordinates: 33.901, 35.569
+
+#### عطشانة (Aatchaneh)
+
+Code: 22555, Coordinates: 33.91, 35.647
+
+#### عيون المتن (Aayoun El-Matn)
+
+Code: 22635, Coordinates: 33.881, 35.658
+
+#### عيرون (Aayroun)
+
+Code: 22767, Coordinates: 33.906, 35.706
+
+#### أبو ميزان (Abou Mizane)
+
+Code: 22575, Coordinates: 33.939, 35.722
+
+#### عينطورة المتن (Aintoura El-Matn)
+
+Code: 22751, Coordinates: 33.895, 35.789
+
+#### انطلياس (Antelias)
+
+Code: 22311, Coordinates: 33.914, 35.595
+
+#### بعبدات (Baabdat)
+
+Code: 22659, Coordinates: 33.893, 35.676
+
+#### بوشرية (Baouchriyeh)
+
+Code: 22228, Coordinates: 33.885, 35.558
+
+#### بسكنتا (Baskinta)
+
+Code: 22797, Coordinates: 33.948, 35.809
+
+#### بيت شباب (Beit Chabab)
+
+Code: 22531, Coordinates: 33.93, 35.673
+
+#### مزرعة بيت الشعّار (Beit Ech-Chaar)
+
+Code: 22459, Coordinates: 33.929, 35.618
+
+#### بيت الككو (Beit El-Kekko)
+
+Code: 22451, Coordinates: 33.924, 35.637
+
+#### بيت مري (Beit Meri)
+
+Code: 22667, Coordinates: 33.858, 35.602
+
+#### بحرصاف (Bhersaf)
+
+Code: 22535, Coordinates: 33.913, 35.668
+
+#### بكفيا (Bikfaya)
+
+Code: 22511, Coordinates: 33.92, 35.685
+
+#### بنابيل (Bnabil)
+
+Code: 22724, Coordinates: 33.9, 35.737
+
+#### برج حمّود (Bourj Hammoud)
+
+Code: 22111, Coordinates: 33.892, 35.542
+
+#### بقنايا (Bqennaya)
+
+Code: 22431, Coordinates: 33.902, 35.588
+
+#### برمانا المتن (Broummana El-Matn)
+
+Code: 22611, Coordinates: 33.879, 35.624
+
+#### بصاليم (Bsalim)
+
+Code: 22439, Coordinates: 33.901, 35.605
+
+#### بسفرين (Bsifrine)
+
+Code: 22691, Coordinates: 33.885, 35.704
+
+#### بتغرين (Bteghrine)
+
+Code: 22757, Coordinates: 33.928, 35.762
+
+#### بياقوت (Byaqout)
+
+Code: 22359, Coordinates: 33.895, 35.586
+
+#### شاوية (Chaouiyeh)
+
+Code: 22559, Coordinates: 33.93, 35.659
+
+#### شويا (Chouaya El-Matn)
+
+Code: 22764, Coordinates: 33.929, 35.718
+
+#### شوير (Choueir)
+
+Code: 22754, Coordinates: 33.915, 35.716
+
+#### شرين (Chrine)
+
+Code: 22591, Coordinates: 33.936, 35.732
+
+#### ضهر الصوان المتن (Dahr Es-Souane El-Matn)
+
+Code: 22675, Coordinates: 33.901, 35.661
+
+#### ديشونية (Daychouniyeh)
+
+Code: 22415, Coordinates: 33.846, 35.574
+
+#### ضبية (Dbayeh)
+
+Code: 22375, Coordinates: 33.937, 35.589
+
+#### دير شمرا (Deir Chamra)
+
+Code: 22579, Coordinates: 33.949, 35.717
+
+#### دير مار عبدا المشمر (Deir Mar Aabda el Mchammar)
+
+Code: 22487, Coordinates: 33.944, 35.629
+
+#### مار روكز (Deir mar Roukoz)
+
+Code: 22245, Coordinates: 33.87, 35.559
+
+#### دير طاميش (Deir Tamich)
+
+Code: 22479, Coordinates: 33.94, 35.618
+
+#### دكوانة (Dekouaneh)
+
+Code: 22262, Coordinates: 33.877, 35.546
+
+#### ديك المحدي (Dik El-Mehdi)
+
+Code: 22463, Coordinates: 33.932, 35.621
+
+#### دوار (Douar El-Matn)
+
+Code: 22761, Coordinates: 33.901, 35.701
+
+#### الفنار (Fanar)
+
+Code: 22419, Coordinates: 33.878, 35.575
+
+#### فريكه (Fraikeh)
+
+Code: 22571, Coordinates: 33.937, 35.66
+
+#### حارة البلان (Haret El-Ballane)
+
+Code: 22383, Coordinates: 33.938, 35.598
+
+#### حبوس (Hbous)
+
+Code: 22583, Coordinates: 33.928, 35.643
+
+#### حملايا (Himlaya)
+
+Code: 22547, Coordinates: 33.941, 35.711
+
+#### جل الديب (Jall Ed-Did)
+
+Code: 22327, Coordinates: 33.906, 35.58
+
+#### جديدة المتن (Jdaidet El-Matn)
+
+Code: 22211, Coordinates: 33.89, 35.571
+
+#### جوار المتن (Jouar El-Matn)
+
+Code: 22587, Coordinates: 33.93, 35.732
+
+#### جورة البلوط (Jouret El-Ballout)
+
+Code: 22619, Coordinates: 33.896, 35.628
+
+#### كفرعقاب (Kfar Aaqab)
+
+Code: 22781, Coordinates: 33.942, 35.745
+
+#### كفرتيه (Kfar Tay El-Matn)
+
+Code: 22799, Coordinates: 33.977, 35.802
+
+#### خلة المتين (Khillet El-Mtain)
+
+Code: 22722, Coordinates: 33.893, 35.728
+
+#### خنشارة (Khinchara)
+
+Code: 22747, Coordinates: 33.921, 35.739
+
+#### Litige
+
+Code: 22001, Coordinates: 33.893, 35.706
+
+#### Litige
+
+Code: 22002, Coordinates: 33.886, 35.772
+
+#### مشرح (Machraah El-Matn)
+
+Code: 22787, Coordinates: 33.944, 35.755
+
+#### مجدل ترشيش (Majdel tarchich)
+
+Code: 22774, Coordinates: 33.892, 35.808
+
+#### مجذوب (Majzoub)
+
+Code: 22435, Coordinates: 33.901, 35.596
+
+#### منصورية (Mansouriyet El-Matn)
+
+Code: 22411, Coordinates: 33.854, 35.567
+
+#### مار بطرس كرم التين (Mar Boutros Karm Et-Tine)
+
+Code: 22527, Coordinates: 33.936, 35.687
+
+#### مار موسى الدوار (Mar Moussa Ed-Douar)
+
+Code: 22784, Coordinates: 33.9, 35.688
+
+#### مرجبا (Marjaba)
+
+Code: 22734, Coordinates: 33.918, 35.757
+
+#### المسقى (Masqa)
+
+Code: 22627, Coordinates: 33.879, 35.642
+
+#### مياسة (Mayasseh)
+
+Code: 22539, Coordinates: 33.942, 35.692
+
+#### مزرعة دير عوكر (Mazraat Deir Aaoukar)
+
+Code: 22391, Coordinates: 33.934, 35.598
+
+#### مزرعة الحضيرة (Mazraat El-Hdaira)
+
+Code: 22367, Coordinates: 33.932, 35.607
+
+#### مزرعة يشوع (Mazraat Yachouaa)
+
+Code: 22475, Coordinates: 33.931, 35.633
+
+#### مشيخا (Mchikha)
+
+Code: 22717, Coordinates: 33.884, 35.745
+
+#### مزهر (Menqlet Mezher)
+
+Code: 22319, Coordinates: 33.908, 35.598
+
+#### محيدثة المتن (Mhaidset Matn)
+
+Code: 22515, Coordinates: 33.922, 35.694
+
+#### مكلس (Mkalles)
+
+Code: 22279, Coordinates: 33.861, 35.557
+
+#### المروج (Mrouj)
+
+Code: 22733, Coordinates: 33.91, 35.757
+
+#### المتين (Mtain)
+
+Code: 22711, Coordinates: 33.92, 35.807
+
+#### مطيلب (Mtayleb)
+
+Code: 22447, Coordinates: 33.922, 35.612
+
+#### مزكة (Mzakkeh)
+
+Code: 22651, Coordinates: 33.896, 35.644
+
+#### نابيه (Nabay)
+
+Code: 22443, Coordinates: 33.904, 35.624
+
+#### نقاش (Naqqach)
+
+Code: 22335, Coordinates: 33.924, 35.593
+
+#### وادي شاهين (Ouadi Chahine)
+
+Code: 22519, Coordinates: 33.932, 35.693
+
+#### وادي الكرم المتن (Ouadi El-Karm El-Matn)
+
+Code: 22791, Coordinates: 33.953, 35.752
+
+#### وطى المروج (Ouata El-Mrouj)
+
+Code: 22731, Coordinates: 33.909, 35.736
+
+#### القعقور (Qaaqour)
+
+Code: 22744, Coordinates: 33.895, 35.72
+
+#### قنابة صليما (Qannebet Salima)
+
+Code: 22683, Coordinates: 33.886, 35.693
+
+#### قنابة برمانا (Qennabet Broummana)
+
+Code: 22643, Coordinates: 33.892, 35.618
+
+#### قرنة شهوان (Qornet Chehouane)
+
+Code: 22455, Coordinates: 33.916, 35.627
+
+#### قرنة الحمرا (Qornet El-Hamra)
+
+Code: 22595, Coordinates: 33.935, 35.648
+
+#### روميه المتن (Roumieh)
+
+Code: 22427, Coordinates: 33.885, 35.602
+
+#### سفيلة بكفيا (Sfeilet Bikfaya)
+
+Code: 22567, Coordinates: 33.943, 35.698
+
+#### سن الفيل (Sinn El-Fil)
+
+Code: 22155, Coordinates: 33.876, 35.535
+
+#### زبوغا (Zabbougha)
+
+Code: 22794, Coordinates: 33.952, 35.735
+
+#### زكريت (Zakrit)
+
+Code: 22483, Coordinates: 33.938, 35.629
+
+#### الزلقا (Zalqa)
+
+Code: 22351, Coordinates: 33.899, 35.58
+
+#### زرعون (Zaraaoun)
+
+Code: 22741, Coordinates: 33.898, 35.708
+
+#### زغرين المتن (Zighrine El-Matn)
+
+Code: 22771, Coordinates: 33.923, 35.715
+
+#### ذوق الخراب (Zouk El-Kharab)
+
+Code: 22467, Coordinates: 33.948, 35.6
+
+### جبيل (Jbeil)
+
+Code: LB34, Coordinates: 34.125, 35.829
+Cadastres: 107
+
+#### عبيدات (Aabaydat)
+
+Code: 26256, Coordinates: 34.164, 35.725
+
+#### عين الدلبة جبيل (Aain Ed-Delbeh Jbayl)
+
+Code: 26221, Coordinates: 34.091, 35.765
+
+#### عين الغويبة (Aain El-Ghouaybeh)
+
+Code: 26317, Coordinates: 34.084, 35.859
+
+#### عين جرين (Aain Jrain)
+
+Code: 26227, Coordinates: 34.084, 35.767
+
+#### عين كفاع (Aain Kfaa)
+
+Code: 26289, Coordinates: 34.187, 35.697
+
+#### عاليتا (Aalita)
+
+Code: 26219, Coordinates: 34.09, 35.693
+
+#### علمات الشمالية (Aalmat Ech-Chamliyeh)
+
+Code: 26212, Coordinates: 34.11, 35.785
+
+#### حصنا (Aalmat Ej-Jnoubiyeh)
+
+Code: 26214, Coordinates: 34.107, 35.819
+
+#### عمشيت (Aamchit)
+
+Code: 26141, Coordinates: 34.149, 35.642
+
+#### عاقورة (Aaqoura)
+
+Code: 26371, Coordinates: 34.102, 35.961
+
+#### عرب اللهيب (Aarab El-Lahib)
+
+Code: 26374, Coordinates: 34.153, 35.896
+
+#### عرستا (Aarasta)
+
+Code: 26392, Coordinates: 34.082, 35.881
+
+#### ادونيس (Adonis Jbayl)
+
+Code: 26239, Coordinates: 34.082, 35.732
+
+#### افقا (Afqa Jbayl)
+
+Code: 26364, Coordinates: 34.065, 35.919
+
+#### بزيون (Bayzoun)
+
+Code: 26299, Coordinates: 34.095, 35.754
+
+#### بشلّلي (Bchille Jbayl)
+
+Code: 26244, Coordinates: 34.104, 35.713
+
+#### بحديدات (Behdaydat)
+
+Code: 26259, Coordinates: 34.149, 35.708
+
+#### بيت حبّاق (Beit Habbaq)
+
+Code: 26271, Coordinates: 34.163, 35.705
+
+#### بجه (Bejjeh)
+
+Code: 26276, Coordinates: 34.183, 35.716
+
+#### بخعاز (Bekhaaz)
+
+Code: 26297, Coordinates: 34.189, 35.664
+
+#### بربارة (Berbara Jbayl)
+
+Code: 26183, Coordinates: 34.196, 35.645
+
+#### بشتليدا (Bichtlida)
+
+Code: 26243, Coordinates: 34.129, 35.712
+
+#### بنتاعل (Bintaael)
+
+Code: 26269, Coordinates: 34.141, 35.699
+
+#### بركة حجولا (Birket Hjoula)
+
+Code: 26237, Coordinates: 34.147, 35.729
+
+#### بلاط (Blat Jbeil)
+
+Code: 26129, Coordinates: 34.111, 35.678
+
+#### بمهرين (Bmehrayn)
+
+Code: 26283, Coordinates: 34.122, 35.679
+
+#### بلحص (Boulhos)
+
+Code: 26354, Coordinates: 34.095, 35.806
+
+#### بريج (Brayj Jbayl)
+
+Code: 26253, Coordinates: 34.119, 35.7
+
+#### شامات (Chamate)
+
+Code: 26279, Coordinates: 34.165, 35.699
+
+#### شيخان (Chikhane)
+
+Code: 26295, Coordinates: 34.173, 35.659
+
+#### شموت (Chmout)
+
+Code: 26296, Coordinates: 34.197, 35.668
+
+#### إده (Eddeh Jbayl)
+
+Code: 26135, Coordinates: 34.142, 35.666
+
+#### اهمج (Ehmej)
+
+Code: 26211, Coordinates: 34.13, 35.815
+
+#### فتري (Fatre)
+
+Code: 26266, Coordinates: 34.086, 35.705
+
+#### فرحت (Ferhet)
+
+Code: 26217, Coordinates: 34.1, 35.743
+
+#### فغال (Fghal)
+
+Code: 26298, Coordinates: 34.207, 35.664
+
+#### فرات (Frat)
+
+Code: 26223, Coordinates: 34.087, 35.792
+
+#### غابات (Ghabat)
+
+Code: 26337, Coordinates: 34.079, 35.871
+
+#### غلبون (Ghalboun)
+
+Code: 26277, Coordinates: 34.175, 35.702
+
+#### غرزوز (Gharzouz)
+
+Code: 26294, Coordinates: 34.179, 35.669
+
+#### غرفين (Ghofrine)
+
+Code: 26291, Coordinates: 34.156, 35.663
+
+#### هابيل (Habil)
+
+Code: 26234, Coordinates: 34.151, 35.738
+
+#### حالات (Halate)
+
+Code: 26147, Coordinates: 34.086, 35.667
+
+#### حقل (Haqel)
+
+Code: 26247, Coordinates: 34.168, 35.745
+
+#### حصرايل (Hasrayel)
+
+Code: 26153, Coordinates: 34.164, 35.66
+
+#### حبالين (Hbaline)
+
+Code: 26281, Coordinates: 34.159, 35.686
+
+#### حبوب (Hboub)
+
+Code: 26284, Coordinates: 34.128, 35.688
+
+#### هدينة (Hdeine)
+
+Code: 26324, Coordinates: 34.092, 35.871
+
+#### حمى الرهبان (Hema Er-Rehban)
+
+Code: 26390, Coordinates: 34.146, 35.861
+
+#### حمى مار مارون عنَايا (Hema Mar Maroun Aannaya)
+
+Code: 26388, Coordinates: 34.132, 35.849
+
+#### حجولا (Hjoula)
+
+Code: 26226, Coordinates: 34.133, 35.742
+
+#### حصارات (Hsarat)
+
+Code: 26286, Coordinates: 34.169, 35.682
+
+#### حصون (Hsoun)
+
+Code: 26229, Coordinates: 34.094, 35.738
+
+#### جاج (Jaj)
+
+Code: 26381, Coordinates: 34.161, 35.826
+
+#### جنة (Janneh)
+
+Code: 26327, Coordinates: 34.081, 35.831
+
+#### جبيل (Jbayl)
+
+Code: 26111, Coordinates: 34.123, 35.656
+
+#### جدايل (Jeoddayel Jbayl)
+
+Code: 26165, Coordinates: 34.163, 35.646
+
+#### جليسه (Jlisseh)
+
+Code: 26274, Coordinates: 34.114, 35.694
+
+#### جورة القطين (Jouret El-Qattine)
+
+Code: 26236, Coordinates: 34.105, 35.728
+
+#### كفر الفتوح (Kafr)
+
+Code: 26273, Coordinates: 34.153, 35.696
+
+#### كفر بعال (Kfar Baal)
+
+Code: 26224, Coordinates: 34.114, 35.749
+
+#### كفر كده (Kfar Kiddeh)
+
+Code: 26189, Coordinates: 34.2, 35.656
+
+#### كفر مسحون (Kfar Mashoun)
+
+Code: 26287, Coordinates: 34.147, 35.678
+
+#### كفر قواص (Kfar Qouas)
+
+Code: 26264, Coordinates: 34.123, 35.701
+
+#### كفون (Kfoun)
+
+Code: 26267, Coordinates: 34.155, 35.712
+
+#### خاربة جبيل (Kharbet Jbayl)
+
+Code: 26249, Coordinates: 34.177, 35.746
+
+#### اللقلوق (Laqlouq)
+
+Code: 26361, Coordinates: 34.134, 35.866
+
+#### لاسا (Lassa)
+
+Code: 26331, Coordinates: 34.068, 35.848
+
+#### لحفد (Lehfed)
+
+Code: 26233, Coordinates: 34.164, 35.77
+
+#### Litige
+
+Code: 26001, Coordinates: 34.123, 35.757
+
+#### Litige
+
+Code: 26002, Coordinates: 34.097, 35.761
+
+#### Litige
+
+Code: 26003, Coordinates: 34.082, 35.849
+
+#### Litige
+
+Code: 26004, Coordinates: 34.079, 35.833
+
+#### Litige
+
+Code: 26005, Coordinates: 34.078, 35.877
+
+#### Litige
+
+Code: 26006, Coordinates: 34.078, 35.867
+
+#### Litige
+
+Code: 26007, Coordinates: 34.067, 35.869
+
+#### Litige
+
+Code: 26009, Coordinates: 34.068, 35.836
+
+#### معاد (Maad)
+
+Code: 26293, Coordinates: 34.191, 35.681
+
+#### المجدل (Majdel El-Aqoura)
+
+Code: 26357, Coordinates: 34.087, 35.903
+
+#### دير مار سركيس (Mar Sarkis)
+
+Code: 26314, Coordinates: 34.096, 35.859
+
+#### مستيتا (Mastita)
+
+Code: 26117, Coordinates: 34.105, 35.657
+
+#### ميفوق (Mayfouq)
+
+Code: 26257, Coordinates: 34.184, 35.764
+
+#### مزرعة المعادن (Mazraat El-Maaden)
+
+Code: 26213, Coordinates: 34.118, 35.796
+
+#### مزرعة السياد (Mazraat Es Siyad)
+
+Code: 26321, Coordinates: 34.117, 35.857
+
+#### مشان (Mchaneh)
+
+Code: 26231, Coordinates: 34.081, 35.749
+
+#### مغيره (Mghayreh Jbeil)
+
+Code: 26341, Coordinates: 34.109, 35.881
+
+#### مشمش جبيل (Michmich Jbayl)
+
+Code: 26218, Coordinates: 34.141, 35.776
+
+#### المنصف (Mounsef)
+
+Code: 26177, Coordinates: 34.181, 35.643
+
+#### نهر ابراهيم (Nahr Ibrahim)
+
+Code: 26171, Coordinates: 34.067, 35.65
+
+#### قهمز (Qahmez)
+
+Code: 26367, Coordinates: 34.06, 35.81
+
+#### قرطبا (Qartaba)
+
+Code: 26311, Coordinates: 34.098, 35.837
+
+#### قرطبون (Qartaboun)
+
+Code: 26123, Coordinates: 34.11, 35.656
+
+#### قرقريا (Qorqraiya)
+
+Code: 26351, Coordinates: 34.078, 35.805
+
+#### قطارة (Qottara Jbayl)
+
+Code: 26251, Coordinates: 34.178, 35.801
+
+#### الراموط (Ramout)
+
+Code: 26261, Coordinates: 34.166, 35.713
+
+#### راس اسطا (Ras Osta)
+
+Code: 26241, Coordinates: 34.118, 35.726
+
+#### ريحانة (Rihanet Jbayl)
+
+Code: 26159, Coordinates: 34.168, 35.636
+
+#### سقي رشميا (Saqi Richmaya)
+
+Code: 26377, Coordinates: 34.152, 35.804
+
+#### ساقية الخيط (Saqiet El-Khayt)
+
+Code: 26263, Coordinates: 34.162, 35.715
+
+#### سربين (Sebrine)
+
+Code: 26254, Coordinates: 34.111, 35.711
+
+#### سرعيتا (Seraaiita)
+
+Code: 26334, Coordinates: 34.084, 35.87
+
+#### صوانة (Souanet Jbayl)
+
+Code: 26220, Coordinates: 34.095, 35.771
+
+#### تدمر (Tadmor)
+
+Code: 26344, Coordinates: 34.104, 35.868
+
+#### ترتج (Tartij)
+
+Code: 26384, Coordinates: 34.175, 35.842
+
+#### طورزيا (Tourzaiya)
+
+Code: 26215, Coordinates: 34.11, 35.757
+
+#### يانوح (Yanouh Jbayl)
+
+Code: 26347, Coordinates: 34.097, 35.882
+
+#### زبدين (Zibdine Jbayl)
+
+Code: 26246, Coordinates: 34.095, 35.708
+
+### كسروان (Kesrwane)
+
+Code: LB35, Coordinates: 34.013, 35.791
+Cadastres: 82
+
+#### عشقوت (Aachqout)
+
+Code: 25423, Coordinates: 33.991, 35.706
+
+#### عين الدلبة (Aain Ed-Delbeh Kesrouane)
+
+Code: 25463, Coordinates: 34.039, 35.766
+
+#### عين الريحان (Aain Er-Rihane)
+
+Code: 25251, Coordinates: 33.962, 35.645
+
+#### عجلتون (Aajaltoun)
+
+Code: 25211, Coordinates: 33.961, 35.685
+
+#### عقيبة (Aaqaibeh Kesrouane)
+
+Code: 25171, Coordinates: 34.054, 35.643
+
+#### عرمون كسروان (Aaramoun Kesrouane)
+
+Code: 25327, Coordinates: 34.019, 35.699
+
+#### عذره والعذر (Aazra ouel Aazr)
+
+Code: 25361, Coordinates: 34.063, 35.703
+
+#### أدما والدفنه (Adma Oua Dafine)
+
+Code: 25156, Coordinates: 34.023, 35.647
+
+#### عينطورة (Aintoura Kesrouane)
+
+Code: 25271, Coordinates: 33.96, 35.635
+
+#### بلونة (Balloune)
+
+Code: 25221, Coordinates: 33.952, 35.672
+
+#### بطحا (Batha)
+
+Code: 25325, Coordinates: 33.99, 35.663
+
+#### بقعاتة عشقوت (Beqaata Aachqout)
+
+Code: 25431, Coordinates: 34.006, 35.732
+
+#### بقعاتة كنعان (Beqaata Kanaan)
+
+Code: 25443, Coordinates: 33.964, 35.762
+
+#### بزحل (Bizhel)
+
+Code: 25369, Coordinates: 34.078, 35.695
+
+#### بوار (Bouar)
+
+Code: 25166, Coordinates: 34.044, 35.643
+
+#### فتقا (Bourj El-Ftouh)
+
+Code: 25313, Coordinates: 34.034, 35.665
+
+#### بقعتوتا (Bqaatouta)
+
+Code: 25451, Coordinates: 33.974, 35.781
+
+#### بقاق الدين (Bqaq Ed-Dine)
+
+Code: 25176, Coordinates: 34.059, 35.647
+
+#### بزمار (Bzoummar)
+
+Code: 25337, Coordinates: 33.986, 35.684
+
+#### شحتول (Chahtoul)
+
+Code: 25351, Coordinates: 34.034, 35.725
+
+#### شننعير (Chnanaair)
+
+Code: 25315, Coordinates: 34.004, 35.664
+
+#### شوان (Chouane)
+
+Code: 25479, Coordinates: 34.073, 35.775
+
+#### درعون (Daraaoun)
+
+Code: 25347, Coordinates: 33.975, 35.653
+
+#### داريا كسروان (Daraiya Kesrouane)
+
+Code: 25241, Coordinates: 33.953, 35.698
+
+#### دير بقلوش (Deir Baqlouch)
+
+Code: 25335, Coordinates: 33.99, 35.658
+
+#### دلبتا (Dlebta)
+
+Code: 25323, Coordinates: 34.008, 35.693
+
+#### فاريا (Faraya)
+
+Code: 25475, Coordinates: 34.025, 35.839
+
+#### فيطرون (Faytroun)
+
+Code: 25427, Coordinates: 33.995, 35.741
+
+#### غزير (Ghazir)
+
+Code: 25311, Coordinates: 34.017, 35.669
+
+#### غبالة (Ghbaleh Kesrouane)
+
+Code: 25363, Coordinates: 34.055, 35.721
+
+#### غدراس (Ghidras)
+
+Code: 25331, Coordinates: 34.047, 35.682
+
+#### غينة (Ghineh)
+
+Code: 25343, Coordinates: 34.039, 35.709
+
+#### غوسطا (Ghosta)
+
+Code: 25319, Coordinates: 33.986, 35.671
+
+#### هرهريا (Harharaya)
+
+Code: 25333, Coordinates: 34.029, 35.703
+
+#### حريصا (Harissa Kesrouane)
+
+Code: 25339, Coordinates: 33.981, 35.65
+
+#### حياطة (Hayata)
+
+Code: 25349, Coordinates: 34.024, 35.722
+
+#### حراجل (Hrajel)
+
+Code: 25471, Coordinates: 34.029, 35.807
+
+#### حصين (Hsayn)
+
+Code: 25345, Coordinates: 34.051, 35.71
+
+#### إغبة (Ighbeh)
+
+Code: 25391, Coordinates: 34.014, 35.71
+
+#### جعيتا (Jaaita)
+
+Code: 25261, Coordinates: 33.949, 35.642
+
+#### جديدة غزير (Jdaidet Ghazir)
+
+Code: 25317, Coordinates: 34.019, 35.69
+
+#### جونيه (Jounie Ghadir)
+
+Code: 25121, Coordinates: 33.976, 35.636
+
+#### حارة صخر (Jounie Haret Sakhr)
+
+Code: 25131, Coordinates: 33.99, 35.643
+
+#### صربا (Jounieh Sarba)
+
+Code: 25111, Coordinates: 33.98, 35.621
+
+#### جورة بدران (Jouret Bedrane)
+
+Code: 25365, Coordinates: 34.065, 35.717
+
+#### جورة الترمس (Jouret E-Tourmos)
+
+Code: 25355, Coordinates: 34.046, 35.72
+
+#### جورة مهاد (Jouret Mhad)
+
+Code: 25359, Coordinates: 34.036, 35.738
+
+#### كفر دبيان (Kfar Dibiane)
+
+Code: 25439, Coordinates: 33.983, 35.783
+
+#### دير زرعيا (Kfar Tay Kesrouane)
+
+Code: 25447, Coordinates: 33.962, 35.747
+
+#### كفر ياسين (Kfar Yassine)
+
+Code: 25146, Coordinates: 34.021, 35.635
+
+#### الكفور (Kfour Kesrouane)
+
+Code: 25329, Coordinates: 34.034, 35.691
+
+#### زاير (Kharayeb Nahr Ibrahim)
+
+Code: 25181, Coordinates: 34.069, 35.658
+
+#### Litige
+
+Code: 25001, Coordinates: 34.054, 35.913
+
+#### Litige
+
+Code: 25002, Coordinates: 34.017, 35.879
+
+#### Litige
+
+Code: 25003, Coordinates: 33.978, 35.691
+
+#### Litige
+
+Code: 26008, Coordinates: 34.07, 35.944
+
+#### معراب (Maarab)
+
+Code: 25321, Coordinates: 33.999, 35.684
+
+#### المعيصرة (Maaysra Kesrouane)
+
+Code: 25357, Coordinates: 34.069, 35.674
+
+#### ميروبا (Mayrouba)
+
+Code: 25459, Coordinates: 34.03, 35.778
+
+#### مزرعة الراس (Mazraat Er-Ras)
+
+Code: 25281, Coordinates: 33.953, 35.633
+
+#### مراح المير (Mazraat Mrah El-Mir)
+
+Code: 25419, Coordinates: 33.963, 35.701
+
+#### مشاع الفتوح (Mchaa El Ftouh)
+
+Code: 25488, Coordinates: 34.039, 35.933
+
+#### مشاع فاريا (Mchaa Faraya)
+
+Code: 25485, Coordinates: 34.037, 35.858
+
+#### مشاع كفر ذبيان (Mchaa Kfar Dibiane)
+
+Code: 25482, Coordinates: 33.98, 35.86
+
+#### المغاير (Mghayer)
+
+Code: 25467, Coordinates: 34.039, 35.771
+
+#### مرادية (Mradiyeh)
+
+Code: 25367, Coordinates: 34.072, 35.71
+
+#### نهر الدهب (Nahr Ed-Dahab)
+
+Code: 25371, Coordinates: 34.055, 35.756
+
+#### نمورة (Nammoura Kesrouane)
+
+Code: 25341, Coordinates: 34.052, 35.671
+
+#### وطى الجوز (Ouata El-Jaouz)
+
+Code: 25455, Coordinates: 34.028, 35.753
+
+#### وطى سلام (Ouata Sillam)
+
+Code: 25141, Coordinates: 34.023, 35.627
+
+#### قليعات كسروان (Qleiaat Kesrouane)
+
+Code: 25415, Coordinates: 33.967, 35.716
+
+#### رعشين (Raachine)
+
+Code: 25435, Coordinates: 34.014, 35.73
+
+#### ريفون (Rayfoun)
+
+Code: 25411, Coordinates: 33.978, 35.701
+
+#### صفرا كسروان (Safra Kesrouane)
+
+Code: 25161, Coordinates: 34.036, 35.639
+
+#### ساحل علما (Sahel Aalma)
+
+Code: 25136, Coordinates: 33.993, 35.654
+
+#### سهيلة (Shayleh Kesrouane)
+
+Code: 25231, Coordinates: 33.961, 35.659
+
+#### طبرجا (Tabarja)
+
+Code: 25151, Coordinates: 34.03, 35.634
+
+#### يحشوش (Yahchouch)
+
+Code: 25373, Coordinates: 34.069, 35.74
+
+#### زعيتره (Zaaitreh)
+
+Code: 25353, Coordinates: 34.07, 35.698
+
+#### زيتون (Zaitoun)
+
+Code: 25375, Coordinates: 34.062, 35.686
+
+#### ذوق مكايل (Zouk Mkayel)
+
+Code: 25116, Coordinates: 33.97, 35.615
+
+#### ذوق مصبح (Zouk Mousbeh)
+
+Code: 25126, Coordinates: 33.957, 35.612
+

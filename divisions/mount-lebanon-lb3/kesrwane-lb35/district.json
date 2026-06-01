@@ -1,0 +1,47 @@
+{
+  "id": "LB35",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "كسروان",
+    "en": "Kesrwane",
+    "slug": "kesrwane-lb35"
+  },
+  "code": {
+    "id": "LB35",
+    "iso": null
+  },
+  "parent": {
+    "id": "LB3",
+    "level": 1,
+    "name": {
+      "local": "جبل لبنان",
+      "en": "Mount Lebanon",
+      "slug": "mount-lebanon-lb3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    }
+  ],
+  "children_count": {
+    "cadastre": 82
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.013",
+    "lon": "35.791"
+  },
+  "metadata": {},
+  "source": {}
+}

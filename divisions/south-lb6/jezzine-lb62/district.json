@@ -1,0 +1,47 @@
+{
+  "id": "LB62",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "جزين",
+    "en": "Jezzine",
+    "slug": "jezzine-lb62"
+  },
+  "code": {
+    "id": "LB62",
+    "iso": null
+  },
+  "parent": {
+    "id": "LB6",
+    "level": 1,
+    "name": {
+      "local": "الجنوب",
+      "en": "South",
+      "slug": "south-lb6"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LB6",
+      "level": 1,
+      "name": {
+        "local": "الجنوب",
+        "en": "South",
+        "slug": "south-lb6"
+      }
+    }
+  ],
+  "children_count": {
+    "cadastre": 79
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.474",
+    "lon": "35.577"
+  },
+  "metadata": {},
+  "source": {}
+}

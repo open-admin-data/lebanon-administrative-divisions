@@ -1,0 +1,68 @@
+# Lebanon Administrative Divisions
+
+> Open dataset of Lebanon's administrative hierarchy:
+> 8 governorates, 26 districts, 1,610 cadastres.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total governorates: 8
+- Total districts: 26
+- Total cadastres: 1,610
+- Coordinates: included (all levels)
+- Last updated: 2026-06-01
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All governorates (JSON)](https://raw.githubusercontent.com/open-admin-data/lebanon-administrative-divisions/main/data/all-governorate.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/lebanon-administrative-divisions/main/data/all-district.json)
+- [All cadastres (JSON)](https://raw.githubusercontent.com/open-admin-data/lebanon-administrative-divisions/main/data/all-cadastre.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/lebanon-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/lebanon-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/lebanon-administrative-divisions/main/data/schema.json)
+
+## Browse by Governorate
+
+- [Akkar](https://github.com/open-admin-data/lebanon-administrative-divisions/tree/main/divisions/akkar-lb7/) — 1 districts, 168 cadastres
+- [Baalbek-El Hermel](https://github.com/open-admin-data/lebanon-administrative-divisions/tree/main/divisions/baalbek-el-hermel-lb8/) — 2 districts, 100 cadastres
+- [Beirut](https://github.com/open-admin-data/lebanon-administrative-divisions/tree/main/divisions/beirut-lb1/) — 1 districts, 13 cadastres
+- [Bekaa](https://github.com/open-admin-data/lebanon-administrative-divisions/tree/main/divisions/bekaa-lb2/) — 3 districts, 144 cadastres
+- [El Nabatieh](https://github.com/open-admin-data/lebanon-administrative-divisions/tree/main/divisions/el-nabatieh-lb4/) — 4 districts, 145 cadastres
+- [Mount Lebanon](https://github.com/open-admin-data/lebanon-administrative-divisions/tree/main/divisions/mount-lebanon-lb3/) — 6 districts, 536 cadastres
+- [North](https://github.com/open-admin-data/lebanon-administrative-divisions/tree/main/divisions/north-lb5/) — 6 districts, 273 cadastres
+- [South](https://github.com/open-admin-data/lebanon-administrative-divisions/tree/main/divisions/south-lb6/) — 3 districts, 231 cadastres
+
+## Per-Governorate Full Data
+
+- [Akkar](https://raw.githubusercontent.com/open-admin-data/lebanon-administrative-divisions/main/docs/llms-full/akkar-lb7.txt)
+- [Baalbek-El Hermel](https://raw.githubusercontent.com/open-admin-data/lebanon-administrative-divisions/main/docs/llms-full/baalbek-el-hermel-lb8.txt)
+- [Beirut](https://raw.githubusercontent.com/open-admin-data/lebanon-administrative-divisions/main/docs/llms-full/beirut-lb1.txt)
+- [Bekaa](https://raw.githubusercontent.com/open-admin-data/lebanon-administrative-divisions/main/docs/llms-full/bekaa-lb2.txt)
+- [El Nabatieh](https://raw.githubusercontent.com/open-admin-data/lebanon-administrative-divisions/main/docs/llms-full/el-nabatieh-lb4.txt)
+- [Mount Lebanon](https://raw.githubusercontent.com/open-admin-data/lebanon-administrative-divisions/main/docs/llms-full/mount-lebanon-lb3.txt)
+- [North](https://raw.githubusercontent.com/open-admin-data/lebanon-administrative-divisions/main/docs/llms-full/north-lb5.txt)
+- [South](https://raw.githubusercontent.com/open-admin-data/lebanon-administrative-divisions/main/docs/llms-full/south-lb6.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (governorate), 2 (district), 3 (cadastre)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Lebanon Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/lebanon-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

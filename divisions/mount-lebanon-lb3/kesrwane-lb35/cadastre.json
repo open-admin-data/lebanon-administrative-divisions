@@ -1,0 +1,4430 @@
+[
+  {
+    "id": "25423",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عشقوت",
+      "en": "Aachqout",
+      "slug": "aachqout-25423"
+    },
+    "code": {
+      "id": "25423",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.991",
+      "lon": "35.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25463",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين الدلبة",
+      "en": "Aain Ed-Delbeh Kesrouane",
+      "slug": "aain-ed-delbeh-kesrouane-25463"
+    },
+    "code": {
+      "id": "25463",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.039",
+      "lon": "35.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين الريحان",
+      "en": "Aain Er-Rihane",
+      "slug": "aain-er-rihane-25251"
+    },
+    "code": {
+      "id": "25251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.962",
+      "lon": "35.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عجلتون",
+      "en": "Aajaltoun",
+      "slug": "aajaltoun-25211"
+    },
+    "code": {
+      "id": "25211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.961",
+      "lon": "35.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25171",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عقيبة",
+      "en": "Aaqaibeh Kesrouane",
+      "slug": "aaqaibeh-kesrouane-25171"
+    },
+    "code": {
+      "id": "25171",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.054",
+      "lon": "35.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25327",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عرمون كسروان",
+      "en": "Aaramoun Kesrouane",
+      "slug": "aaramoun-kesrouane-25327"
+    },
+    "code": {
+      "id": "25327",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.019",
+      "lon": "35.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25361",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عذره والعذر",
+      "en": "Aazra ouel Aazr",
+      "slug": "aazra-ouel-aazr-25361"
+    },
+    "code": {
+      "id": "25361",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.063",
+      "lon": "35.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25156",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "أدما والدفنه",
+      "en": "Adma Oua Dafine",
+      "slug": "adma-oua-dafine-25156"
+    },
+    "code": {
+      "id": "25156",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.023",
+      "lon": "35.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25271",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عينطورة",
+      "en": "Aintoura Kesrouane",
+      "slug": "aintoura-kesrouane-25271"
+    },
+    "code": {
+      "id": "25271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.96",
+      "lon": "35.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25221",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بلونة",
+      "en": "Balloune",
+      "slug": "balloune-25221"
+    },
+    "code": {
+      "id": "25221",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.952",
+      "lon": "35.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25325",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بطحا",
+      "en": "Batha",
+      "slug": "batha-25325"
+    },
+    "code": {
+      "id": "25325",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.99",
+      "lon": "35.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25431",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بقعاتة عشقوت",
+      "en": "Beqaata Aachqout",
+      "slug": "beqaata-aachqout-25431"
+    },
+    "code": {
+      "id": "25431",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.006",
+      "lon": "35.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25443",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بقعاتة كنعان",
+      "en": "Beqaata Kanaan",
+      "slug": "beqaata-kanaan-25443"
+    },
+    "code": {
+      "id": "25443",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.964",
+      "lon": "35.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25369",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بزحل",
+      "en": "Bizhel",
+      "slug": "bizhel-25369"
+    },
+    "code": {
+      "id": "25369",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.078",
+      "lon": "35.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25166",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بوار",
+      "en": "Bouar",
+      "slug": "bouar-25166"
+    },
+    "code": {
+      "id": "25166",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.044",
+      "lon": "35.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25313",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فتقا",
+      "en": "Bourj El-Ftouh",
+      "slug": "bourj-el-ftouh-25313"
+    },
+    "code": {
+      "id": "25313",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.034",
+      "lon": "35.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25451",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بقعتوتا",
+      "en": "Bqaatouta",
+      "slug": "bqaatouta-25451"
+    },
+    "code": {
+      "id": "25451",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.974",
+      "lon": "35.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25176",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بقاق الدين",
+      "en": "Bqaq Ed-Dine",
+      "slug": "bqaq-ed-dine-25176"
+    },
+    "code": {
+      "id": "25176",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.059",
+      "lon": "35.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25337",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بزمار",
+      "en": "Bzoummar",
+      "slug": "bzoummar-25337"
+    },
+    "code": {
+      "id": "25337",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.986",
+      "lon": "35.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25351",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شحتول",
+      "en": "Chahtoul",
+      "slug": "chahtoul-25351"
+    },
+    "code": {
+      "id": "25351",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.034",
+      "lon": "35.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25315",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شننعير",
+      "en": "Chnanaair",
+      "slug": "chnanaair-25315"
+    },
+    "code": {
+      "id": "25315",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.004",
+      "lon": "35.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25479",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شوان",
+      "en": "Chouane",
+      "slug": "chouane-25479"
+    },
+    "code": {
+      "id": "25479",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.073",
+      "lon": "35.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25347",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "درعون",
+      "en": "Daraaoun",
+      "slug": "daraaoun-25347"
+    },
+    "code": {
+      "id": "25347",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.975",
+      "lon": "35.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25241",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "داريا كسروان",
+      "en": "Daraiya Kesrouane",
+      "slug": "daraiya-kesrouane-25241"
+    },
+    "code": {
+      "id": "25241",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.953",
+      "lon": "35.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25335",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير بقلوش",
+      "en": "Deir Baqlouch",
+      "slug": "deir-baqlouch-25335"
+    },
+    "code": {
+      "id": "25335",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.99",
+      "lon": "35.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25323",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دلبتا",
+      "en": "Dlebta",
+      "slug": "dlebta-25323"
+    },
+    "code": {
+      "id": "25323",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.008",
+      "lon": "35.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25475",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فاريا",
+      "en": "Faraya",
+      "slug": "faraya-25475"
+    },
+    "code": {
+      "id": "25475",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.025",
+      "lon": "35.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25427",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فيطرون",
+      "en": "Faytroun",
+      "slug": "faytroun-25427"
+    },
+    "code": {
+      "id": "25427",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.995",
+      "lon": "35.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غزير",
+      "en": "Ghazir",
+      "slug": "ghazir-25311"
+    },
+    "code": {
+      "id": "25311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.017",
+      "lon": "35.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25363",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غبالة",
+      "en": "Ghbaleh Kesrouane",
+      "slug": "ghbaleh-kesrouane-25363"
+    },
+    "code": {
+      "id": "25363",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.055",
+      "lon": "35.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25331",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غدراس",
+      "en": "Ghidras",
+      "slug": "ghidras-25331"
+    },
+    "code": {
+      "id": "25331",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.047",
+      "lon": "35.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25343",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غينة",
+      "en": "Ghineh",
+      "slug": "ghineh-25343"
+    },
+    "code": {
+      "id": "25343",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.039",
+      "lon": "35.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25319",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غوسطا",
+      "en": "Ghosta",
+      "slug": "ghosta-25319"
+    },
+    "code": {
+      "id": "25319",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.986",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25333",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "هرهريا",
+      "en": "Harharaya",
+      "slug": "harharaya-25333"
+    },
+    "code": {
+      "id": "25333",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.029",
+      "lon": "35.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25339",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حريصا",
+      "en": "Harissa Kesrouane",
+      "slug": "harissa-kesrouane-25339"
+    },
+    "code": {
+      "id": "25339",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.981",
+      "lon": "35.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25349",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حياطة",
+      "en": "Hayata",
+      "slug": "hayata-25349"
+    },
+    "code": {
+      "id": "25349",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.024",
+      "lon": "35.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25471",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حراجل",
+      "en": "Hrajel",
+      "slug": "hrajel-25471"
+    },
+    "code": {
+      "id": "25471",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.029",
+      "lon": "35.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25345",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حصين",
+      "en": "Hsayn",
+      "slug": "hsayn-25345"
+    },
+    "code": {
+      "id": "25345",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.051",
+      "lon": "35.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25391",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "إغبة",
+      "en": "Ighbeh",
+      "slug": "ighbeh-25391"
+    },
+    "code": {
+      "id": "25391",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.014",
+      "lon": "35.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25261",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جعيتا",
+      "en": "Jaaita",
+      "slug": "jaaita-25261"
+    },
+    "code": {
+      "id": "25261",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.949",
+      "lon": "35.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25317",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جديدة غزير",
+      "en": "Jdaidet Ghazir",
+      "slug": "jdaidet-ghazir-25317"
+    },
+    "code": {
+      "id": "25317",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.019",
+      "lon": "35.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25121",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جونيه",
+      "en": "Jounie Ghadir",
+      "slug": "jounie-ghadir-25121"
+    },
+    "code": {
+      "id": "25121",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.976",
+      "lon": "35.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25131",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حارة صخر",
+      "en": "Jounie Haret Sakhr",
+      "slug": "jounie-haret-sakhr-25131"
+    },
+    "code": {
+      "id": "25131",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.99",
+      "lon": "35.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صربا",
+      "en": "Jounieh Sarba",
+      "slug": "jounieh-sarba-25111"
+    },
+    "code": {
+      "id": "25111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.98",
+      "lon": "35.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25365",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جورة بدران",
+      "en": "Jouret Bedrane",
+      "slug": "jouret-bedrane-25365"
+    },
+    "code": {
+      "id": "25365",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.065",
+      "lon": "35.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25355",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جورة الترمس",
+      "en": "Jouret E-Tourmos",
+      "slug": "jouret-e-tourmos-25355"
+    },
+    "code": {
+      "id": "25355",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.046",
+      "lon": "35.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25359",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جورة مهاد",
+      "en": "Jouret Mhad",
+      "slug": "jouret-mhad-25359"
+    },
+    "code": {
+      "id": "25359",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.036",
+      "lon": "35.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25439",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر دبيان",
+      "en": "Kfar Dibiane",
+      "slug": "kfar-dibiane-25439"
+    },
+    "code": {
+      "id": "25439",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.983",
+      "lon": "35.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25447",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير زرعيا",
+      "en": "Kfar Tay Kesrouane",
+      "slug": "kfar-tay-kesrouane-25447"
+    },
+    "code": {
+      "id": "25447",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.962",
+      "lon": "35.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25146",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر ياسين",
+      "en": "Kfar Yassine",
+      "slug": "kfar-yassine-25146"
+    },
+    "code": {
+      "id": "25146",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.021",
+      "lon": "35.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25329",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الكفور",
+      "en": "Kfour Kesrouane",
+      "slug": "kfour-kesrouane-25329"
+    },
+    "code": {
+      "id": "25329",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.034",
+      "lon": "35.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25181",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زاير",
+      "en": "Kharayeb Nahr Ibrahim",
+      "slug": "kharayeb-nahr-ibrahim-25181"
+    },
+    "code": {
+      "id": "25181",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.069",
+      "lon": "35.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-25001"
+    },
+    "code": {
+      "id": "25001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.054",
+      "lon": "35.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25002",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-25002"
+    },
+    "code": {
+      "id": "25002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.017",
+      "lon": "35.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25003",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-25003"
+    },
+    "code": {
+      "id": "25003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.978",
+      "lon": "35.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26008",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-26008"
+    },
+    "code": {
+      "id": "26008",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.07",
+      "lon": "35.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25321",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "معراب",
+      "en": "Maarab",
+      "slug": "maarab-25321"
+    },
+    "code": {
+      "id": "25321",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.999",
+      "lon": "35.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25357",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المعيصرة",
+      "en": "Maaysra Kesrouane",
+      "slug": "maaysra-kesrouane-25357"
+    },
+    "code": {
+      "id": "25357",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.069",
+      "lon": "35.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25459",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ميروبا",
+      "en": "Mayrouba",
+      "slug": "mayrouba-25459"
+    },
+    "code": {
+      "id": "25459",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.03",
+      "lon": "35.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25281",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة الراس",
+      "en": "Mazraat Er-Ras",
+      "slug": "mazraat-er-ras-25281"
+    },
+    "code": {
+      "id": "25281",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.953",
+      "lon": "35.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25419",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مراح المير",
+      "en": "Mazraat Mrah El-Mir",
+      "slug": "mazraat-mrah-el-mir-25419"
+    },
+    "code": {
+      "id": "25419",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.963",
+      "lon": "35.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25488",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشاع الفتوح",
+      "en": "Mchaa El Ftouh",
+      "slug": "mchaa-el-ftouh-25488"
+    },
+    "code": {
+      "id": "25488",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.039",
+      "lon": "35.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25485",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشاع فاريا",
+      "en": "Mchaa Faraya",
+      "slug": "mchaa-faraya-25485"
+    },
+    "code": {
+      "id": "25485",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.037",
+      "lon": "35.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25482",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشاع كفر ذبيان",
+      "en": "Mchaa Kfar Dibiane",
+      "slug": "mchaa-kfar-dibiane-25482"
+    },
+    "code": {
+      "id": "25482",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.98",
+      "lon": "35.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25467",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المغاير",
+      "en": "Mghayer",
+      "slug": "mghayer-25467"
+    },
+    "code": {
+      "id": "25467",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.039",
+      "lon": "35.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25367",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مرادية",
+      "en": "Mradiyeh",
+      "slug": "mradiyeh-25367"
+    },
+    "code": {
+      "id": "25367",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.072",
+      "lon": "35.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25371",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نهر الدهب",
+      "en": "Nahr Ed-Dahab",
+      "slug": "nahr-ed-dahab-25371"
+    },
+    "code": {
+      "id": "25371",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.055",
+      "lon": "35.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25341",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نمورة",
+      "en": "Nammoura Kesrouane",
+      "slug": "nammoura-kesrouane-25341"
+    },
+    "code": {
+      "id": "25341",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.052",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25455",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وطى الجوز",
+      "en": "Ouata El-Jaouz",
+      "slug": "ouata-el-jaouz-25455"
+    },
+    "code": {
+      "id": "25455",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.028",
+      "lon": "35.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25141",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وطى سلام",
+      "en": "Ouata Sillam",
+      "slug": "ouata-sillam-25141"
+    },
+    "code": {
+      "id": "25141",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.023",
+      "lon": "35.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25415",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قليعات كسروان",
+      "en": "Qleiaat Kesrouane",
+      "slug": "qleiaat-kesrouane-25415"
+    },
+    "code": {
+      "id": "25415",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.967",
+      "lon": "35.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25435",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رعشين",
+      "en": "Raachine",
+      "slug": "raachine-25435"
+    },
+    "code": {
+      "id": "25435",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.014",
+      "lon": "35.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25411",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ريفون",
+      "en": "Rayfoun",
+      "slug": "rayfoun-25411"
+    },
+    "code": {
+      "id": "25411",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.978",
+      "lon": "35.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25161",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صفرا كسروان",
+      "en": "Safra Kesrouane",
+      "slug": "safra-kesrouane-25161"
+    },
+    "code": {
+      "id": "25161",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.036",
+      "lon": "35.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25136",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ساحل علما",
+      "en": "Sahel Aalma",
+      "slug": "sahel-aalma-25136"
+    },
+    "code": {
+      "id": "25136",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.993",
+      "lon": "35.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25231",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سهيلة",
+      "en": "Shayleh Kesrouane",
+      "slug": "shayleh-kesrouane-25231"
+    },
+    "code": {
+      "id": "25231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.961",
+      "lon": "35.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25151",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طبرجا",
+      "en": "Tabarja",
+      "slug": "tabarja-25151"
+    },
+    "code": {
+      "id": "25151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.03",
+      "lon": "35.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25373",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "يحشوش",
+      "en": "Yahchouch",
+      "slug": "yahchouch-25373"
+    },
+    "code": {
+      "id": "25373",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.069",
+      "lon": "35.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25353",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زعيتره",
+      "en": "Zaaitreh",
+      "slug": "zaaitreh-25353"
+    },
+    "code": {
+      "id": "25353",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.07",
+      "lon": "35.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25375",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زيتون",
+      "en": "Zaitoun",
+      "slug": "zaitoun-25375"
+    },
+    "code": {
+      "id": "25375",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.062",
+      "lon": "35.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25116",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ذوق مكايل",
+      "en": "Zouk Mkayel",
+      "slug": "zouk-mkayel-25116"
+    },
+    "code": {
+      "id": "25116",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.97",
+      "lon": "35.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25126",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ذوق مصبح",
+      "en": "Zouk Mousbeh",
+      "slug": "zouk-mousbeh-25126"
+    },
+    "code": {
+      "id": "25126",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB35",
+      "level": 2,
+      "name": {
+        "local": "كسروان",
+        "en": "Kesrwane",
+        "slug": "kesrwane-lb35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB35",
+        "level": 2,
+        "name": {
+          "local": "كسروان",
+          "en": "Kesrwane",
+          "slug": "kesrwane-lb35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.957",
+      "lon": "35.612"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

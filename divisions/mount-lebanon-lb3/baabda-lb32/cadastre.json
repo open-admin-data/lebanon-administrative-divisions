@@ -1,0 +1,3080 @@
+[
+  {
+    "id": "21341",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عبادية",
+      "en": "Aabadiyeh",
+      "slug": "aabadiyeh-21341"
+    },
+    "code": {
+      "id": "21341",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.831",
+      "lon": "35.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21314",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين موفق",
+      "en": "Aain Mouaffaq",
+      "slug": "aain-mouaffaq-21314"
+    },
+    "code": {
+      "id": "21314",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.821",
+      "lon": "35.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21371",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عاريا",
+      "en": "Aaraiya",
+      "slug": "aaraiya-21371"
+    },
+    "code": {
+      "id": "21371",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.832",
+      "lon": "35.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21381",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عربانية",
+      "en": "Aarbaniyeh",
+      "slug": "aarbaniyeh-21381"
+    },
+    "code": {
+      "id": "21381",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.873",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21471",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ارصون",
+      "en": "Arsoun",
+      "slug": "arsoun-21471"
+    },
+    "code": {
+      "id": "21471",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.857",
+      "lon": "35.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بعبدا",
+      "en": "Baabda",
+      "slug": "baabda-21211"
+    },
+    "code": {
+      "id": "21211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.846",
+      "lon": "35.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بعلشميه",
+      "en": "Baalchmay",
+      "slug": "baalchmay-21311"
+    },
+    "code": {
+      "id": "21311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.816",
+      "lon": "35.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21436",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بمريم",
+      "en": "Bmaryam",
+      "slug": "bmaryam-21436"
+    },
+    "code": {
+      "id": "21436",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.829",
+      "lon": "35.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21177",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برج البراجنة",
+      "en": "Bourj El-Brajneh",
+      "slug": "bourj-el-brajneh-21177"
+    },
+    "code": {
+      "id": "21177",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.841",
+      "lon": "35.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21227",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بطشيه",
+      "en": "Boutchay",
+      "slug": "boutchay-21227"
+    },
+    "code": {
+      "id": "21227",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.826",
+      "lon": "35.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21283",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بسابا وادي الدلب",
+      "en": "Bsaba Baabda",
+      "slug": "bsaba-baabda-21283"
+    },
+    "code": {
+      "id": "21283",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.805",
+      "lon": "35.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21441",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بتخناي",
+      "en": "Btekhnay",
+      "slug": "btekhnay-21441"
+    },
+    "code": {
+      "id": "21441",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.841",
+      "lon": "35.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21451",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بتبيات",
+      "en": "Btibyat",
+      "slug": "btibyat-21451"
+    },
+    "code": {
+      "id": "21451",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.837",
+      "lon": "35.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21466",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بزبدين",
+      "en": "Bzebdine",
+      "slug": "bzebdine-21466"
+    },
+    "code": {
+      "id": "21466",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.874",
+      "lon": "35.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21426",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شبانية",
+      "en": "Chbaniyeh",
+      "slug": "chbaniyeh-21426"
+    },
+    "code": {
+      "id": "21426",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.814",
+      "lon": "35.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شياح",
+      "en": "Chiyah",
+      "slug": "chiyah-21111"
+    },
+    "code": {
+      "id": "21111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.855",
+      "lon": "35.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21347",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شميسة",
+      "en": "Chmeisset Baabda",
+      "slug": "chmeisset-baabda-21347"
+    },
+    "code": {
+      "id": "21347",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.83",
+      "lon": "35.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21354",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شويت",
+      "en": "Chouit",
+      "slug": "chouit-21354"
+    },
+    "code": {
+      "id": "21354",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.83",
+      "lon": "35.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21367",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير الحرف",
+      "en": "Deir El-harf",
+      "slug": "deir-el-harf-21367"
+    },
+    "code": {
+      "id": "21367",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.849",
+      "lon": "35.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21337",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير خونة",
+      "en": "Deir Khouna",
+      "slug": "deir-khouna-21337"
+    },
+    "code": {
+      "id": "21337",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.832",
+      "lon": "35.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21391",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دليبه",
+      "en": "Dlaybeh",
+      "slug": "dlaybeh-21391"
+    },
+    "code": {
+      "id": "21391",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.879",
+      "lon": "35.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21446",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فالوغا",
+      "en": "Falougha",
+      "slug": "falougha-21446"
+    },
+    "code": {
+      "id": "21446",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.829",
+      "lon": "35.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21133",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فرن الشباك",
+      "en": "Furn Ech-Chebbak",
+      "slug": "furn-ech-chebbak-21133"
+    },
+    "code": {
+      "id": "21133",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.871",
+      "lon": "35.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21219",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حدث",
+      "en": "Hadath Beyrouth",
+      "slug": "hadath-beyrouth-21219"
+    },
+    "code": {
+      "id": "21219",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.84",
+      "lon": "35.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21411",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حمانا",
+      "en": "Hammana",
+      "slug": "hammana-21411"
+    },
+    "code": {
+      "id": "21411",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.813",
+      "lon": "35.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21275",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حارة الست",
+      "en": "Haret Es-Sit",
+      "slug": "haret-es-sit-21275"
+    },
+    "code": {
+      "id": "21275",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.826",
+      "lon": "35.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21327",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حارة حمزة",
+      "en": "Haret Hamzeh",
+      "slug": "haret-hamzeh-21327"
+    },
+    "code": {
+      "id": "21327",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.821",
+      "lon": "35.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21144",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حارة حريك",
+      "en": "Haret Hreik",
+      "slug": "haret-hreik-21144"
+    },
+    "code": {
+      "id": "21144",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.852",
+      "lon": "35.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21397",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حاصبيّا المتن",
+      "en": "Hasbaiya El-Matn",
+      "slug": "hasbaiya-el-matn-21397"
+    },
+    "code": {
+      "id": "21397",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.876",
+      "lon": "35.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21324",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "هلالية",
+      "en": "Hlaliyeh Baabda",
+      "slug": "hlaliyeh-baabda-21324"
+    },
+    "code": {
+      "id": "21324",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.83",
+      "lon": "35.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21461",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جوار الحوز",
+      "en": "Jouar El-Haouz",
+      "slug": "jouar-el-haouz-21461"
+    },
+    "code": {
+      "id": "21461",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.861",
+      "lon": "35.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21487",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جورة ارصون",
+      "en": "Jouret Arsoun",
+      "slug": "jouret-arsoun-21487"
+    },
+    "code": {
+      "id": "21487",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.853",
+      "lon": "35.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرشيما",
+      "en": "Kfar Chima",
+      "slug": "kfar-chima-21251"
+    },
+    "code": {
+      "id": "21251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.815",
+      "lon": "35.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21476",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرسلوان",
+      "en": "Kfar Selouane",
+      "slug": "kfar-selouane-21476"
+    },
+    "code": {
+      "id": "21476",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.857",
+      "lon": "35.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21421",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خلوات",
+      "en": "Khalouat Baabda",
+      "slug": "khalouat-baabda-21421"
+    },
+    "code": {
+      "id": "21421",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.84",
+      "lon": "35.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21431",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خريبة بعبدا",
+      "en": "Khreibet Baabda",
+      "slug": "khreibet-baabda-21431"
+    },
+    "code": {
+      "id": "21431",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.823",
+      "lon": "35.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21377",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كنيسة بعبدا",
+      "en": "Kneisset Baabda",
+      "slug": "kneisset-baabda-21377"
+    },
+    "code": {
+      "id": "21377",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.865",
+      "lon": "35.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21166",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ليلكي",
+      "en": "Laylakeh",
+      "slug": "laylakeh-21166"
+    },
+    "code": {
+      "id": "21166",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.832",
+      "lon": "35.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21243",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "لويزة",
+      "en": "Louayzeh Baabda",
+      "slug": "louayzeh-baabda-21243"
+    },
+    "code": {
+      "id": "21243",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.838",
+      "lon": "35.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21235",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مرداشة",
+      "en": "Merdache",
+      "slug": "merdache-21235"
+    },
+    "code": {
+      "id": "21235",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.823",
+      "lon": "35.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21321",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزيرعة بعبدا",
+      "en": "Mzairaa Baabda",
+      "slug": "mzairaa-baabda-21321"
+    },
+    "code": {
+      "id": "21321",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.83",
+      "lon": "35.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21267",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي شحرور العليا",
+      "en": "Ouadi Chahrour El Aaoulia",
+      "slug": "ouadi-chahrour-el-aaoulia-21267"
+    },
+    "code": {
+      "id": "21267",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.818",
+      "lon": "35.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21259",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي شحرور السفلى",
+      "en": "Ouadi Chahrour Es-Soufla",
+      "slug": "ouadi-chahrour-es-soufla-21259"
+    },
+    "code": {
+      "id": "21259",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.822",
+      "lon": "35.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21416",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القلعة",
+      "en": "Qalaat Baabda",
+      "slug": "qalaat-baabda-21416"
+    },
+    "code": {
+      "id": "21416",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.838",
+      "lon": "35.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21357",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قبيع",
+      "en": "Qobbayaa",
+      "slug": "qobbayaa-21357"
+    },
+    "code": {
+      "id": "21357",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.814",
+      "lon": "35.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21361",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرطادة",
+      "en": "Qordata",
+      "slug": "qordata-21361"
+    },
+    "code": {
+      "id": "21361",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.86",
+      "lon": "35.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21456",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرنايل",
+      "en": "Qornayel",
+      "slug": "qornayel-21456"
+    },
+    "code": {
+      "id": "21456",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.856",
+      "lon": "35.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21344",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرية",
+      "en": "Qrayet Baabda",
+      "slug": "qrayet-baabda-21344"
+    },
+    "code": {
+      "id": "21344",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.808",
+      "lon": "35.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21364",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قصيبة",
+      "en": "Qsaibeh Baabda",
+      "slug": "qsaibeh-baabda-21364"
+    },
+    "code": {
+      "id": "21364",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.864",
+      "lon": "35.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21331",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قتالة",
+      "en": "Qtaleh Baabda",
+      "slug": "qtaleh-baabda-21331"
+    },
+    "code": {
+      "id": "21331",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.821",
+      "lon": "35.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21351",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راس المتن",
+      "en": "Ras El Matn",
+      "slug": "ras-el-matn-21351"
+    },
+    "code": {
+      "id": "21351",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.846",
+      "lon": "35.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21334",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راس الحرف",
+      "en": "Ras El-Href",
+      "slug": "ras-el-href-21334"
+    },
+    "code": {
+      "id": "21334",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.813",
+      "lon": "35.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21317",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رويسة البلوط",
+      "en": "Rouayssrt El-Ballout",
+      "slug": "rouayssrt-el-ballout-21317"
+    },
+    "code": {
+      "id": "21317",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.828",
+      "lon": "35.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21394",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صليما بعبدا",
+      "en": "Salima Baabda",
+      "slug": "salima-baabda-21394"
+    },
+    "code": {
+      "id": "21394",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.873",
+      "lon": "35.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21188",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تحويطة الغدير",
+      "en": "Tahouitat El Ghadir",
+      "slug": "tahouitat-el-ghadir-21188"
+    },
+    "code": {
+      "id": "21188",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.829",
+      "lon": "35.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21481",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ترشيش",
+      "en": "Tarchich",
+      "slug": "tarchich-21481"
+    },
+    "code": {
+      "id": "21481",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.874",
+      "lon": "35.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21374",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زندوقة",
+      "en": "Zandouqa",
+      "slug": "zandouqa-21374"
+    },
+    "code": {
+      "id": "21374",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB32",
+      "level": 2,
+      "name": {
+        "local": "بعبدا",
+        "en": "Baabda",
+        "slug": "baabda-lb32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB32",
+        "level": 2,
+        "name": {
+          "local": "بعبدا",
+          "en": "Baabda",
+          "slug": "baabda-lb32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.866",
+      "lon": "35.638"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

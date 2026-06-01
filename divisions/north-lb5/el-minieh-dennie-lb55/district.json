@@ -1,0 +1,47 @@
+{
+  "id": "LB55",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "المنية الضنية",
+    "en": "El Minieh-Dennie",
+    "slug": "el-minieh-dennie-lb55"
+  },
+  "code": {
+    "id": "LB55",
+    "iso": null
+  },
+  "parent": {
+    "id": "LB5",
+    "level": 1,
+    "name": {
+      "local": "الشمال",
+      "en": "North",
+      "slug": "north-lb5"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LB5",
+      "level": 1,
+      "name": {
+        "local": "الشمال",
+        "en": "North",
+        "slug": "north-lb5"
+      }
+    }
+  ],
+  "children_count": {
+    "cadastre": 62
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.393",
+    "lon": "36.054"
+  },
+  "metadata": {},
+  "source": {}
+}

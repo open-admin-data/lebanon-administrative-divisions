@@ -1,0 +1,27 @@
+# Lebanon Administrative Divisions — Full Reference
+
+> Last updated: 2026-06-01. License: CC-BY-4.0.
+
+## Per-Governorate Data Files
+
+- [Akkar](https://github.com/open-admin-data/lebanon-administrative-divisions/blob/main/docs/llms-full/akkar-lb7.txt) — 1 districts, 168 cadastres
+- [Baalbek-El Hermel](https://github.com/open-admin-data/lebanon-administrative-divisions/blob/main/docs/llms-full/baalbek-el-hermel-lb8.txt) — 2 districts, 100 cadastres
+- [Beirut](https://github.com/open-admin-data/lebanon-administrative-divisions/blob/main/docs/llms-full/beirut-lb1.txt) — 1 districts, 13 cadastres
+- [Bekaa](https://github.com/open-admin-data/lebanon-administrative-divisions/blob/main/docs/llms-full/bekaa-lb2.txt) — 3 districts, 144 cadastres
+- [El Nabatieh](https://github.com/open-admin-data/lebanon-administrative-divisions/blob/main/docs/llms-full/el-nabatieh-lb4.txt) — 4 districts, 145 cadastres
+- [Mount Lebanon](https://github.com/open-admin-data/lebanon-administrative-divisions/blob/main/docs/llms-full/mount-lebanon-lb3.txt) — 6 districts, 536 cadastres
+- [North](https://github.com/open-admin-data/lebanon-administrative-divisions/blob/main/docs/llms-full/north-lb5.txt) — 6 districts, 273 cadastres
+- [South](https://github.com/open-admin-data/lebanon-administrative-divisions/blob/main/docs/llms-full/south-lb6.txt) — 3 districts, 231 cadastres
+
+## Summary
+
+| Governorate | Districts | Cadastres | 
+|---|---|---|
+| Akkar | 1 | 168 | 
+| Baalbek-El Hermel | 2 | 100 | 
+| Beirut | 1 | 13 | 
+| Bekaa | 3 | 144 | 
+| El Nabatieh | 4 | 145 | 
+| Mount Lebanon | 6 | 536 | 
+| North | 6 | 273 | 
+| South | 3 | 231 | 

@@ -1,0 +1,2054 @@
+[
+  {
+    "id": "72143",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين ابل",
+      "en": "Aain Ibl",
+      "slug": "aain-ibl-72143"
+    },
+    "code": {
+      "id": "72143",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.109",
+      "lon": "35.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72151",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيترون",
+      "en": "Aaintaroun",
+      "slug": "aaintaroun-72151"
+    },
+    "code": {
+      "id": "72151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.112",
+      "lon": "35.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72224",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيتا الجبل الزط",
+      "en": "Aaita Ej-Jabal",
+      "slug": "aaita-ej-jabal-72224"
+    },
+    "code": {
+      "id": "72224",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.174",
+      "lon": "35.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72119",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيناتا بنت جبيل",
+      "en": "Aaynata Bent Jbayl",
+      "slug": "aaynata-bent-jbayl-72119"
+    },
+    "code": {
+      "id": "72119",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.13",
+      "lon": "35.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72183",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيتا الشعب",
+      "en": "Aayta Ech-Chaab",
+      "slug": "aayta-ech-chaab-72183"
+    },
+    "code": {
+      "id": "72183",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.094",
+      "lon": "35.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72227",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برعشيت",
+      "en": "Baraachit",
+      "slug": "baraachit-72227"
+    },
+    "code": {
+      "id": "72227",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.179",
+      "lon": "35.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72287",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت ليف",
+      "en": "Beit Lif",
+      "slug": "beit-lif-72287"
+    },
+    "code": {
+      "id": "72287",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.133",
+      "lon": "35.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72237",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت ياحون",
+      "en": "Beit Yahoun",
+      "slug": "beit-yahoun-72237"
+    },
+    "code": {
+      "id": "72237",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.158",
+      "lon": "35.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بنت جبيل",
+      "en": "Bent Jbayl",
+      "slug": "bent-jbayl-72111"
+    },
+    "code": {
+      "id": "72111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.121",
+      "lon": "35.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72264",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برج قلويه",
+      "en": "Borj qalaouiyeh",
+      "slug": "borj-qalaouiyeh-72264"
+    },
+    "code": {
+      "id": "72264",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.26",
+      "lon": "35.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72229",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شقرا",
+      "en": "Chaqra",
+      "slug": "chaqra-72229"
+    },
+    "code": {
+      "id": "72229",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.176",
+      "lon": "35.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72281",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دبل امية",
+      "en": "Debl",
+      "slug": "debl-72281"
+    },
+    "code": {
+      "id": "72281",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.122",
+      "lon": "35.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72244",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير نطار",
+      "en": "Deir Ntar",
+      "slug": "deir-ntar-72244"
+    },
+    "code": {
+      "id": "72244",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.218",
+      "lon": "35.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72276",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فرون",
+      "en": "Froun",
+      "slug": "froun-72276"
+    },
+    "code": {
+      "id": "72276",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.297",
+      "lon": "35.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72274",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غندورية بنت جبيل",
+      "en": "Ghandouriyet Bent Jbayl",
+      "slug": "ghandouriyet-bent-jbayl-72274"
+    },
+    "code": {
+      "id": "72274",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.277",
+      "lon": "35.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72231",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حداثا",
+      "en": "Haddatha",
+      "slug": "haddatha-72231"
+    },
+    "code": {
+      "id": "72231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.156",
+      "lon": "35.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72284",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حنين",
+      "en": "Hanine",
+      "slug": "hanine-72284"
+    },
+    "code": {
+      "id": "72284",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.103",
+      "lon": "35.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72241",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حاريص",
+      "en": "Haris",
+      "slug": "haris-72241"
+    },
+    "code": {
+      "id": "72241",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.177",
+      "lon": "35.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72221",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جميجمة",
+      "en": "Jmaijmeh",
+      "slug": "jmaijmeh-72221"
+    },
+    "code": {
+      "id": "72221",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.209",
+      "lon": "35.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72257",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرا بنت جبيل",
+      "en": "Kafra Bant Jbayl",
+      "slug": "kafra-bant-jbayl-72257"
+    },
+    "code": {
+      "id": "72257",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.18",
+      "lon": "35.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72247",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر دونين",
+      "en": "Kfar Dounine",
+      "slug": "kfar-dounine-72247"
+    },
+    "code": {
+      "id": "72247",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.232",
+      "lon": "35.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72234",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خربة سلم",
+      "en": "Khirbet Selm",
+      "slug": "khirbet-selm-72234"
+    },
+    "code": {
+      "id": "72234",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.232",
+      "lon": "35.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كونين",
+      "en": "Kounine",
+      "slug": "kounine-72251"
+    },
+    "code": {
+      "id": "72251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.149",
+      "lon": "35.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72127",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مارون الراس",
+      "en": "Maroun Er-Ras",
+      "slug": "maroun-er-ras-72127"
+    },
+    "code": {
+      "id": "72127",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.104",
+      "lon": "35.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72261",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قلويه",
+      "en": "Qalaouiyeh",
+      "slug": "qalaouiyeh-72261"
+    },
+    "code": {
+      "id": "72261",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.251",
+      "lon": "35.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72291",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قوزح",
+      "en": "Qaouzah",
+      "slug": "qaouzah-72291"
+    },
+    "code": {
+      "id": "72291",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.121",
+      "lon": "35.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72175",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قطموم",
+      "en": "Qatmoun",
+      "slug": "qatmoun-72175"
+    },
+    "code": {
+      "id": "72175",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.062",
+      "lon": "35.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72271",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رشاف",
+      "en": "Rachaf",
+      "slug": "rachaf-72271"
+    },
+    "code": {
+      "id": "72271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.144",
+      "lon": "35.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72191",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رامية بنت جبيل",
+      "en": "Ramyet Bent Jbayl",
+      "slug": "ramyet-bent-jbayl-72191"
+    },
+    "code": {
+      "id": "72191",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.113",
+      "lon": "35.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72167",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رميش",
+      "en": "Rmaich",
+      "slug": "rmaich-72167"
+    },
+    "code": {
+      "id": "72167",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.075",
+      "lon": "35.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72217",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صفد البطيخ",
+      "en": "Safad Al-Battikh",
+      "slug": "safad-al-battikh-72217"
+    },
+    "code": {
+      "id": "72217",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.196",
+      "lon": "35.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72135",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الصلحاني",
+      "en": "Salhani",
+      "slug": "salhani-72135"
+    },
+    "code": {
+      "id": "72135",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.132",
+      "lon": "35.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72214",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سلطانية",
+      "en": "Soultaniyet Bent Jbayl",
+      "slug": "soultaniyet-bent-jbayl-72214"
+    },
+    "code": {
+      "id": "72214",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.206",
+      "lon": "35.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72267",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صربين",
+      "en": "Srobbine",
+      "slug": "srobbine-72267"
+    },
+    "code": {
+      "id": "72267",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.154",
+      "lon": "35.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تبنين",
+      "en": "Tibnine",
+      "slug": "tibnine-72211"
+    },
+    "code": {
+      "id": "72211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.192",
+      "lon": "35.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72254",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طيري",
+      "en": "Tiri",
+      "slug": "tiri-72254"
+    },
+    "code": {
+      "id": "72254",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.144",
+      "lon": "35.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72159",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "يارون",
+      "en": "Yaroun",
+      "slug": "yaroun-72159"
+    },
+    "code": {
+      "id": "72159",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.084",
+      "lon": "35.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72277",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ياطر",
+      "en": "Yater",
+      "slug": "yater-72277"
+    },
+    "code": {
+      "id": "72277",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB41",
+      "level": 2,
+      "name": {
+        "local": "بنت جبيل",
+        "en": "Bent Jbeil",
+        "slug": "bent-jbeil-lb41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB41",
+        "level": 2,
+        "name": {
+          "local": "بنت جبيل",
+          "en": "Bent Jbeil",
+          "slug": "bent-jbeil-lb41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.148",
+      "lon": "35.325"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "LB24",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "البقاع الغربي",
+    "en": "West Bekaa",
+    "slug": "west-bekaa-lb24"
+  },
+  "code": {
+    "id": "LB24",
+    "iso": null
+  },
+  "parent": {
+    "id": "LB2",
+    "level": 1,
+    "name": {
+      "local": "البقاع",
+      "en": "Bekaa",
+      "slug": "bekaa-lb2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LB2",
+      "level": 1,
+      "name": {
+        "local": "البقاع",
+        "en": "Bekaa",
+        "slug": "bekaa-lb2"
+      }
+    }
+  ],
+  "children_count": {
+    "cadastre": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.599",
+    "lon": "35.725"
+  },
+  "metadata": {},
+  "source": {}
+}

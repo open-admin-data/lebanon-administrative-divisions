@@ -1,0 +1,49 @@
+[
+  {
+    "id": "LB11",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "بيروت",
+      "en": "Beirut",
+      "slug": "beirut-lb11"
+    },
+    "code": {
+      "id": "LB11",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB1",
+      "level": 1,
+      "name": {
+        "local": "بيروت",
+        "en": "Beirut",
+        "slug": "beirut-lb1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB1",
+        "level": 1,
+        "name": {
+          "local": "بيروت",
+          "en": "Beirut",
+          "slug": "beirut-lb1"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.889",
+      "lon": "35.502"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

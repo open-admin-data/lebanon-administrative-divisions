@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "73211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عديسة مرجعيون",
+      "en": "Aadaysseh Marjaayoun",
+      "slug": "aadaysseh-marjaayoun-73211"
+    },
+    "code": {
+      "id": "73211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.248",
+      "lon": "35.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73256",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عدشيت القصير",
+      "en": "Aadchit El-Qoussair",
+      "slug": "aadchit-el-qoussair-73256"
+    },
+    "code": {
+      "id": "73256",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.27",
+      "lon": "35.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73162",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين عرب مرجعيون",
+      "en": "Aain Aarab Marjaayoun",
+      "slug": "aain-aarab-marjaayoun-73162"
+    },
+    "code": {
+      "id": "73162",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.299",
+      "lon": "35.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73293",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "علمانة",
+      "en": "Aalmane Marjaayoun",
+      "slug": "aalmane-marjaayoun-73293"
+    },
+    "code": {
+      "id": "73293",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.303",
+      "lon": "35.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73191",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عمرة",
+      "en": "Aamra",
+      "slug": "aamra-73191"
+    },
+    "code": {
+      "id": "73191",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.266",
+      "lon": "35.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73226",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بني حيان",
+      "en": "Bany haiyane",
+      "slug": "bany-haiyane-73226"
+    },
+    "code": {
+      "id": "73226",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.248",
+      "lon": "35.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73135",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بلاط مرجعيون",
+      "en": "Blat Marjaayoun",
+      "slug": "blat-marjaayoun-73135"
+    },
+    "code": {
+      "id": "73135",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.384",
+      "lon": "35.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73288",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بليدا",
+      "en": "Blida",
+      "slug": "blida-73288"
+    },
+    "code": {
+      "id": "73288",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.137",
+      "lon": "35.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73146",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برج الملوك",
+      "en": "Borj El-Moulouk",
+      "slug": "borj-el-moulouk-73146"
+    },
+    "code": {
+      "id": "73146",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.313",
+      "lon": "35.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73116",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بويضة مرجعيون",
+      "en": "Boueyda Marjaayoun",
+      "slug": "boueyda-marjaayoun-73116"
+    },
+    "code": {
+      "id": "73116",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.365",
+      "lon": "35.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73167",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير ميماس",
+      "en": "Deir Mimas",
+      "slug": "deir-mimas-73167"
+    },
+    "code": {
+      "id": "73167",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.302",
+      "lon": "35.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73230",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير سريان",
+      "en": "Deir Siriane",
+      "slug": "deir-siriane-73230"
+    },
+    "code": {
+      "id": "73230",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.293",
+      "lon": "35.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73119",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دبين",
+      "en": "Dibbine",
+      "slug": "dibbine-73119"
+    },
+    "code": {
+      "id": "73119",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.369",
+      "lon": "35.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73234",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حولا",
+      "en": "Houla",
+      "slug": "houla-73234"
+    },
+    "code": {
+      "id": "73234",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.207",
+      "lon": "35.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73183",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوره",
+      "en": "Houra",
+      "slug": "houra-73183"
+    },
+    "code": {
+      "id": "73183",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.297",
+      "lon": "35.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73127",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "إبل السقي",
+      "en": "Ibl Es-Saqi",
+      "slug": "ibl-es-saqi-73127"
+    },
+    "code": {
+      "id": "73127",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.356",
+      "lon": "35.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73228",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفركيلا",
+      "en": "Kfar Kila",
+      "slug": "kfar-kila-73228"
+    },
+    "code": {
+      "id": "73228",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.274",
+      "lon": "35.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73159",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الخيام",
+      "en": "Khiyam Marjaayoun",
+      "slug": "khiyam-marjaayoun-73159"
+    },
+    "code": {
+      "id": "73159",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.317",
+      "lon": "35.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73279",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجدل سلم",
+      "en": "Majdel Selm",
+      "slug": "majdel-selm-73279"
+    },
+    "code": {
+      "id": "73279",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.222",
+      "lon": "35.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مرجعيون",
+      "en": "Marjaayoun",
+      "slug": "marjaayoun-73111"
+    },
+    "code": {
+      "id": "73111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.351",
+      "lon": "35.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73245",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مركبا",
+      "en": "Markaba",
+      "slug": "markaba-73245"
+    },
+    "code": {
+      "id": "73245",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.231",
+      "lon": "35.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73143",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة دمياط",
+      "en": "Mazraat Doumiat",
+      "slug": "mazraat-doumiat-73143"
+    },
+    "code": {
+      "id": "73143",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.349",
+      "lon": "35.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73175",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة سردة",
+      "en": "Mazraat Sarada",
+      "slug": "mazraat-sarada-73175"
+    },
+    "code": {
+      "id": "73175",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.296",
+      "lon": "35.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73250",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ميس الجبل",
+      "en": "Meiss Ej-Jabal",
+      "slug": "meiss-ej-jabal-73250"
+    },
+    "code": {
+      "id": "73250",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.177",
+      "lon": "35.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73248",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "محيبيب",
+      "en": "Mhaibib",
+      "slug": "mhaibib-73248"
+    },
+    "code": {
+      "id": "73248",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.151",
+      "lon": "35.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73262",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قبريخا",
+      "en": "Qabrikha",
+      "slug": "qabrikha-73262"
+    },
+    "code": {
+      "id": "73262",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.251",
+      "lon": "35.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73276",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قنطرة",
+      "en": "Qantara",
+      "slug": "qantara-73276"
+    },
+    "code": {
+      "id": "73276",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.271",
+      "lon": "35.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73151",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قليعة",
+      "en": "Qlaiaa",
+      "slug": "qlaiaa-73151"
+    },
+    "code": {
+      "id": "73151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.33",
+      "lon": "35.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73257",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رب التلاتين",
+      "en": "Rabb Et-Tlatine",
+      "slug": "rabb-et-tlatine-73257"
+    },
+    "code": {
+      "id": "73257",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.254",
+      "lon": "35.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73280",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صوانة مرجعيون",
+      "en": "Saouanet Marjayoun",
+      "slug": "saouanet-marjayoun-73280"
+    },
+    "code": {
+      "id": "73280",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.233",
+      "lon": "35.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73244",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طلوسة",
+      "en": "Talloussa",
+      "slug": "talloussa-73244"
+    },
+    "code": {
+      "id": "73244",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.229",
+      "lon": "35.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73232",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طيبة مرجعيون",
+      "en": "Taybet Matjaayoun",
+      "slug": "taybet-matjaayoun-73232"
+    },
+    "code": {
+      "id": "73232",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.279",
+      "lon": "35.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73282",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تولين",
+      "en": "Touline",
+      "slug": "touline-73282"
+    },
+    "code": {
+      "id": "73282",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB43",
+      "level": 2,
+      "name": {
+        "local": "مرجعيون",
+        "en": "Marjaayoun",
+        "slug": "marjaayoun-lb43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB43",
+        "level": 2,
+        "name": {
+          "local": "مرجعيون",
+          "en": "Marjaayoun",
+          "slug": "marjaayoun-lb43"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.254",
+      "lon": "35.441"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

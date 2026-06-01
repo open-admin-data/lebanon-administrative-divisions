@@ -1,0 +1,419 @@
+# Baalbek-El Hermel — Lebanon Administrative Divisions
+
+> 2 districts, 100 cadastres
+> Code: LB8
+> Coordinates: 34.168, 36.297
+> Last updated: 2026-06-01. License: CC-BY-4.0.
+
+## Districts
+
+### بعلبك (Baalbek)
+
+Code: LB21, Coordinates: 34.131, 36.289
+Cadastres: 89
+
+#### عدّوس (Aadous)
+
+Code: 53127, Coordinates: 34.022, 36.151
+
+#### العين (Aain Baalbek)
+
+Code: 53217, Coordinates: 34.224, 36.385
+
+#### عين بورداي (Aain Bourday)
+
+Code: 53115, Coordinates: 33.975, 36.216
+
+#### عين الجوزة (Aain Ej-Jaouz Baalbek)
+
+Code: 53473, Coordinates: 33.854, 36.303
+
+#### عين البنية (Aain El-Barnaya)
+
+Code: 53465, Coordinates: 33.887, 36.254
+
+#### حصن الشادورا (Aain Es-Siyaa Chadoura)
+
+Code: 53163, Coordinates: 33.953, 36.277
+
+#### عمشكي (Aamchki)
+
+Code: 53131, Coordinates: 33.992, 36.304
+
+#### عرسال (Aarsal)
+
+Code: 53231, Coordinates: 34.142, 36.457
+
+#### عيناتا (Aaynata Baalbek)
+
+Code: 53377, Coordinates: 34.195, 36.077
+
+#### بعلبك (Baalbek)
+
+Code: 53111, Coordinates: 34.017, 36.205
+
+#### بجاجة (Bajjaje)
+
+Code: 53221, Coordinates: 34.225, 36.343
+
+#### برقا (Barqa)
+
+Code: 53344, Coordinates: 34.186, 36.141
+
+#### بشوات (Bechouat)
+
+Code: 53333, Coordinates: 34.151, 36.133
+
+#### بدنايل (Bednayel Baalbak)
+
+Code: 53411, Coordinates: 33.924, 35.94
+
+#### بيت شاما (Beit Chama)
+
+Code: 53417, Coordinates: 33.925, 36.026
+
+#### بوداي (Bouday)
+
+Code: 53459, Coordinates: 34.061, 36.054
+
+#### بريتال (Brital)
+
+Code: 53453, Coordinates: 33.932, 36.185
+
+#### بتدعي (Btedaai)
+
+Code: 53375, Coordinates: 34.108, 36.1
+
+#### جبل الشعيبة (Chaaibeh)
+
+Code: 53469, Coordinates: 33.921, 36.257
+
+#### شعت (Chaat)
+
+Code: 53274, Coordinates: 34.138, 36.269
+
+#### شليفا (Chlifa)
+
+Code: 53467, Coordinates: 34.081, 36.11
+
+#### شمسطار (Chmistar)
+
+Code: 53429, Coordinates: 33.959, 36.014
+
+#### دار الواسعة (Dar El-Ouassaa)
+
+Code: 53366, Coordinates: 34.109, 36.054
+
+#### دير الاحمر (Deir El-Ahmar)
+
+Code: 53311, Coordinates: 34.12, 36.131
+
+#### دير مار مارون بعلبك (Deir Mar Maroun Baalbek)
+
+Code: 53244, Coordinates: 34.353, 36.395
+
+#### دوريس (Douris)
+
+Code: 53119, Coordinates: 33.989, 36.17
+
+#### فاكهة (Fekehe)
+
+Code: 53214, Coordinates: 34.25, 36.367
+
+#### حدت الهرمل (Hadath Baalbek)
+
+Code: 53183, Coordinates: 34.006, 36.011
+
+#### حلباتا (Halbata)
+
+Code: 53247, Coordinates: 34.261, 36.229
+
+#### حام (Ham)
+
+Code: 53463, Coordinates: 33.865, 36.211
+
+#### حوش الدهب (Haouch El-Dehab)
+
+Code: 53159, Coordinates: 34.037, 36.12
+
+#### حوش النبي (Haouch En-Nabi)
+
+Code: 53431, Coordinates: 33.934, 36.062
+
+#### حوش الرافقة (Haouch Er-Rafqa)
+
+Code: 53419, Coordinates: 33.911, 36.037
+
+#### حوش سنيد (Haouch Snaid)
+
+Code: 53433, Coordinates: 33.933, 36.086
+
+#### حوش تل صفية (Haouch Tall Safiyeh)
+
+Code: 53135, Coordinates: 34.024, 36.136
+
+#### حوش بردى (Haouche Barada)
+
+Code: 53151, Coordinates: 34.01, 36.117
+
+#### حور تعلا (Haour Taala)
+
+Code: 53451, Coordinates: 33.91, 36.163
+
+#### حربتا (Harabta)
+
+Code: 53264, Coordinates: 34.212, 36.266
+
+#### حزين (Hizzine)
+
+Code: 53441, Coordinates: 33.969, 36.095
+
+#### ايعات (Iaat)
+
+Code: 53123, Coordinates: 34.057, 36.157
+
+#### جبعا (Jebaa)
+
+Code: 53171, Coordinates: 34.023, 36.021
+
+#### جنتا (Jenta)
+
+Code: 53447, Coordinates: 33.837, 36.097
+
+#### كفر دبش (Kfar Dabach)
+
+Code: 53427, Coordinates: 33.939, 36.039
+
+#### كفر دان (Kfar Dane)
+
+Code: 53179, Coordinates: 34.021, 36.051
+
+#### الخرائب (Kharayeb El-Hermel)
+
+Code: 54175, Coordinates: 34.237, 36.289
+
+#### خضر (Khodr Baalbek)
+
+Code: 53443, Coordinates: 33.908, 36.12
+
+#### خريبة (Khreibet Baalbek)
+
+Code: 53455, Coordinates: 33.876, 36.167
+
+#### كنيسة (Kneisset Baalbek)
+
+Code: 53322, Coordinates: 34.123, 36.181
+
+#### لبوة (Laboueh)
+
+Code: 53234, Coordinates: 34.192, 36.348
+
+#### Litige
+
+Code: 53001, Coordinates: 34.288, 36.583
+
+#### حوارته (Litige)
+
+Code: 53002, Coordinates: 34.25, 36.572
+
+#### Litige
+
+Code: 53003, Coordinates: 33.852, 36.246
+
+#### Litige
+
+Code: 54003, Coordinates: 34.409, 36.557
+
+#### معربون (Maaraboun)
+
+Code: 53461, Coordinates: 33.849, 36.193
+
+#### مجدلون (Majdaloun)
+
+Code: 53147, Coordinates: 33.992, 36.118
+
+#### مقنة (Maqneh)
+
+Code: 53155, Coordinates: 34.077, 36.201
+
+#### مزرعة بيت مشيك (Mazraat beit Mchaik)
+
+Code: 53457, Coordinates: 34.06, 35.989
+
+#### المقرق (Moqraq)
+
+Code: 53251, Coordinates: 34.159, 36.332
+
+#### مطحنة مصراية (Mousrayeh)
+
+Code: 53421, Coordinates: 33.912, 36.054
+
+#### نبحا (Nabha Ed-Damdoum)
+
+Code: 53271, Coordinates: 34.22, 36.142
+
+#### النبي سباط (Nabi Chbay)
+
+Code: 53471, Coordinates: 33.935, 36.234
+
+#### نبي شيت (Nabi Chit)
+
+Code: 53445, Coordinates: 33.89, 36.117
+
+#### نبي عثمان (Nabi Osmane)
+
+Code: 53224, Coordinates: 34.215, 36.36
+
+#### نحله (Nahleh baalbek)
+
+Code: 53143, Coordinates: 34.056, 36.347
+
+#### وادي القصص (Ouadi El-Aaoss)
+
+Code: 54183, Coordinates: 34.246, 36.244
+
+#### القاع (Qaa Baalbek)
+
+Code: 53241, Coordinates: 34.335, 36.458
+
+#### قاع بعيون (Qaa Baayoun)
+
+Code: 53257, Coordinates: 34.339, 36.514
+
+#### قاع جوار مكية (Qaa Jouar Maqiyé)
+
+Code: 53267, Coordinates: 34.387, 36.512
+
+#### قاع وادي الخنزير (Qaa Ouadi El-Khanzir)
+
+Code: 53254, Coordinates: 34.386, 36.459
+
+#### قرحا (Qarha Baalbek)
+
+Code: 53277, Coordinates: 34.166, 36.21
+
+#### قصرنابا (Qsarnaba)
+
+Code: 53413, Coordinates: 33.907, 35.995
+
+#### الرام (Ram Baalbek)
+
+Code: 53281, Coordinates: 34.175, 36.176
+
+#### راس بعلبك الشرقي (Ras Baalbek Ech-Charqi)
+
+Code: 53227, Coordinates: 34.258, 36.491
+
+#### راس بعلبك (Ras Baalbek Es-Sahel)
+
+Code: 53211, Coordinates: 34.295, 36.416
+
+#### ريحا (Riha)
+
+Code: 53355, Coordinates: 34.135, 36.22
+
+#### سعيدة (Saaideh)
+
+Code: 53167, Coordinates: 34.025, 36.076
+
+#### صبوبا (Sbouba)
+
+Code: 53261, Coordinates: 34.223, 36.287
+
+#### سرعين التحتا (Serraaine Et-Tahta)
+
+Code: 53437, Coordinates: 33.89, 36.067
+
+#### سلوقي (Slouqi)
+
+Code: 53423, Coordinates: 33.973, 35.919
+
+#### طيبة بعلبك (Taibet Baalbek)
+
+Code: 53139, Coordinates: 33.963, 36.138
+
+#### طليا (Talia)
+
+Code: 53439, Coordinates: 33.942, 36.095
+
+#### طاريا (Taraiya)
+
+Code: 53435, Coordinates: 33.989, 35.984
+
+#### تمنين الفوقا (Temnine El-Faouqa)
+
+Code: 53415, Coordinates: 33.911, 35.971
+
+#### تمنين التحتا (Temnine Et-Tahta)
+
+Code: 53425, Coordinates: 33.876, 36.004
+
+#### طفيل (Tfail)
+
+Code: 53475, Coordinates: 33.858, 36.359
+
+#### يحفوفا (Yahfoufa)
+
+Code: 53449, Coordinates: 33.854, 36.131
+
+#### يمونة (Yammouneh)
+
+Code: 53388, Coordinates: 34.129, 36.045
+
+#### يونين (Youmine)
+
+Code: 53284, Coordinates: 34.108, 36.282
+
+#### زبود (Zabboud)
+
+Code: 53237, Coordinates: 34.238, 36.319
+
+### الهرمل (El Hermel)
+
+Code: LB22, Coordinates: 34.391, 36.302
+Cadastres: 11
+
+#### شربين (Charbine El-Hermel)
+
+Code: 54127, Coordinates: 34.458, 36.32
+
+#### هرمل (Hermel)
+
+Code: 54111, Coordinates: 34.416, 36.416
+
+#### هرمل جباب (Hermel Jbab)
+
+Code: 54159, Coordinates: 34.344, 36.224
+
+#### Litige
+
+Code: 54001, Coordinates: 34.455, 36.496
+
+#### Litige
+
+Code: 54002, Coordinates: 34.439, 36.246
+
+#### معيصرة (Maaysra El-Hermel)
+
+Code: 54167, Coordinates: 34.272, 36.288
+
+#### سويدية (Michaa Mrajhineh)
+
+Code: 54114, Coordinates: 34.413, 36.2
+
+#### وادي فعرا (Ouadi Faara)
+
+Code: 54151, Coordinates: 34.28, 36.252
+
+#### راس بعلبك الغربي (Ras Baalbek El Gharbi)
+
+Code: 54135, Coordinates: 34.31, 36.265
+
+#### راس بعلبك وادي فعرا (Ras Baalbek Ouadi Faara)
+
+Code: 54143, Coordinates: 34.299, 36.347
+
+#### زغرين (Zighrine)
+
+Code: 54119, Coordinates: 34.386, 36.312
+

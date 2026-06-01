@@ -1,0 +1,47 @@
+{
+  "id": "LB31",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "عاليه",
+    "en": "Aley",
+    "slug": "aley-lb31"
+  },
+  "code": {
+    "id": "LB31",
+    "iso": null
+  },
+  "parent": {
+    "id": "LB3",
+    "level": 1,
+    "name": {
+      "local": "جبل لبنان",
+      "en": "Mount Lebanon",
+      "slug": "mount-lebanon-lb3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LB3",
+      "level": 1,
+      "name": {
+        "local": "جبل لبنان",
+        "en": "Mount Lebanon",
+        "slug": "mount-lebanon-lb3"
+      }
+    }
+  ],
+  "children_count": {
+    "cadastre": 82
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.766",
+    "lon": "35.631"
+  },
+  "metadata": {},
+  "source": {}
+}

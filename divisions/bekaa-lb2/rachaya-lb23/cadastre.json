@@ -1,0 +1,2054 @@
+[
+  {
+    "id": "55167",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين عرب",
+      "en": "Aain Aarab Rachaiya",
+      "slug": "aain-aarab-rachaiya-55167"
+    },
+    "code": {
+      "id": "55167",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.577",
+      "lon": "35.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55171",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين عطا",
+      "en": "Aain Aata",
+      "slug": "aain-aata-55171"
+    },
+    "code": {
+      "id": "55171",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.439",
+      "lon": "35.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55147",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين حرشة",
+      "en": "Aain Rouha",
+      "slug": "aain-rouha-55147"
+    },
+    "code": {
+      "id": "55147",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.462",
+      "lon": "35.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55114",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عقبة راشيّا",
+      "en": "Aaqabet Rachaya",
+      "slug": "aaqabet-rachaya-55114"
+    },
+    "code": {
+      "id": "55114",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.512",
+      "lon": "35.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55117",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيحا",
+      "en": "Aayha",
+      "slug": "aayha-55117"
+    },
+    "code": {
+      "id": "55117",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.484",
+      "lon": "35.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55194",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيتا الفخار",
+      "en": "Aayta El-Foukhar",
+      "slug": "aayta-el-foukhar-55194"
+    },
+    "code": {
+      "id": "55194",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.65",
+      "lon": "35.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55177",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بكا",
+      "en": "Bakka",
+      "slug": "bakka-55177"
+    },
+    "code": {
+      "id": "55177",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.601",
+      "lon": "35.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55121",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بكيفا راشيا",
+      "en": "Bakkifac Rachaya",
+      "slug": "bakkifac-rachaya-55121"
+    },
+    "code": {
+      "id": "55121",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.489",
+      "lon": "35.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55127",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت لهيا",
+      "en": "Beit Lahia",
+      "slug": "beit-lahia-55127"
+    },
+    "code": {
+      "id": "55127",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.486",
+      "lon": "35.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55164",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيرة راشّيا",
+      "en": "Biret Rachaiya",
+      "slug": "biret-rachaiya-55164"
+    },
+    "code": {
+      "id": "55164",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.602",
+      "lon": "35.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55124",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ضهر الاحمر",
+      "en": "Dahr El-Ahmar",
+      "slug": "dahr-el-ahmar-55124"
+    },
+    "code": {
+      "id": "55124",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.537",
+      "lon": "35.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55187",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير العشاير",
+      "en": "Deir El-Aachayer",
+      "slug": "deir-el-aachayer-55187"
+    },
+    "code": {
+      "id": "55187",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.558",
+      "lon": "36.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55161",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوش القنعبة",
+      "en": "Haouch El Qinnabeh Rachaiya",
+      "slug": "haouch-el-qinnabeh-rachaiya-55161"
+    },
+    "code": {
+      "id": "55161",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.476",
+      "lon": "35.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55197",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حلوة",
+      "en": "Helouet Rachaiya",
+      "slug": "helouet-rachaiya-55197"
+    },
+    "code": {
+      "id": "55197",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.612",
+      "lon": "36.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55144",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كوكبا",
+      "en": "Kaoukaba Bou Arab",
+      "slug": "kaoukaba-bou-arab-55144"
+    },
+    "code": {
+      "id": "55144",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.536",
+      "lon": "35.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55137",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر دنيس",
+      "en": "Kfar Denis",
+      "slug": "kfar-denis-55137"
+    },
+    "code": {
+      "id": "55137",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.553",
+      "lon": "35.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55154",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر مشكي",
+      "en": "Kfar Lichki",
+      "slug": "kfar-lichki-55154"
+    },
+    "code": {
+      "id": "55154",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.51",
+      "lon": "35.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55134",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرقوق",
+      "en": "Kfar Qouq",
+      "slug": "kfar-qouq-55134"
+    },
+    "code": {
+      "id": "55134",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.548",
+      "lon": "35.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55151",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خربة روحا",
+      "en": "Khirbet Rouha",
+      "slug": "khirbet-rouha-55151"
+    },
+    "code": {
+      "id": "55151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.578",
+      "lon": "35.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-55001"
+    },
+    "code": {
+      "id": "55001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.681",
+      "lon": "35.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55002",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة دير العشاير",
+      "en": "Litige",
+      "slug": "litige-55002"
+    },
+    "code": {
+      "id": "55002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.58",
+      "lon": "36.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55003",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-55003"
+    },
+    "code": {
+      "id": "55003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.559",
+      "lon": "35.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55004",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-55004"
+    },
+    "code": {
+      "id": "55004",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.55",
+      "lon": "35.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55005",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-55005"
+    },
+    "code": {
+      "id": "55005",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.539",
+      "lon": "35.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55006",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-55006"
+    },
+    "code": {
+      "id": "55006",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.495",
+      "lon": "35.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55007",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-55007"
+    },
+    "code": {
+      "id": "55007",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.457",
+      "lon": "35.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55008",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-55008"
+    },
+    "code": {
+      "id": "55008",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.467",
+      "lon": "35.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55009",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-55009"
+    },
+    "code": {
+      "id": "55009",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.46",
+      "lon": "35.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55010",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-55010"
+    },
+    "code": {
+      "id": "55010",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.395",
+      "lon": "35.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55174",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجدل بلهيص",
+      "en": "Majdel Balhis",
+      "slug": "majdel-balhis-55174"
+    },
+    "code": {
+      "id": "55174",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.54",
+      "lon": "35.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55181",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مدوخا",
+      "en": "Mdoukha",
+      "slug": "mdoukha-55181"
+    },
+    "code": {
+      "id": "55181",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.607",
+      "lon": "35.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55141",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "محيدثه",
+      "en": "Mhaiydseh Rachaiya",
+      "slug": "mhaiydseh-rachaiya-55141"
+    },
+    "code": {
+      "id": "55141",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.562",
+      "lon": "35.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55199",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نبي صفا",
+      "en": "Nabi Safa",
+      "slug": "nabi-safa-55199"
+    },
+    "code": {
+      "id": "55199",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.497",
+      "lon": "35.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راشيّا الوادي",
+      "en": "Rachaiya",
+      "slug": "rachaiya-55111"
+    },
+    "code": {
+      "id": "55111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.481",
+      "lon": "35.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55157",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الرافد راشيا",
+      "en": "Rafid Rachaiya",
+      "slug": "rafid-rachaiya-55157"
+    },
+    "code": {
+      "id": "55157",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.576",
+      "lon": "35.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55191",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة سلساتا",
+      "en": "Selsata (Mazraat Deir El-Aachaiyer)",
+      "slug": "selsata-mazraat-deir-el-aachaiyer-55191"
+    },
+    "code": {
+      "id": "55191",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.583",
+      "lon": "35.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55131",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تنورة",
+      "en": "Tannoura",
+      "slug": "tannoura-55131"
+    },
+    "code": {
+      "id": "55131",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.47",
+      "lon": "35.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55184",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ينطا",
+      "en": "Yanta",
+      "slug": "yanta-55184"
+    },
+    "code": {
+      "id": "55184",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB23",
+      "level": 2,
+      "name": {
+        "local": "راشيا",
+        "en": "Rachaya",
+        "slug": "rachaya-lb23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      },
+      {
+        "id": "LB23",
+        "level": 2,
+        "name": {
+          "local": "راشيا",
+          "en": "Rachaya",
+          "slug": "rachaya-lb23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.602",
+      "lon": "35.963"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

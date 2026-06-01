@@ -1,0 +1,5780 @@
+[
+  {
+    "id": "26256",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عبيدات",
+      "en": "Aabaydat",
+      "slug": "aabaydat-26256"
+    },
+    "code": {
+      "id": "26256",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.164",
+      "lon": "35.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26221",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين الدلبة جبيل",
+      "en": "Aain Ed-Delbeh Jbayl",
+      "slug": "aain-ed-delbeh-jbayl-26221"
+    },
+    "code": {
+      "id": "26221",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.091",
+      "lon": "35.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26317",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين الغويبة",
+      "en": "Aain El-Ghouaybeh",
+      "slug": "aain-el-ghouaybeh-26317"
+    },
+    "code": {
+      "id": "26317",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.084",
+      "lon": "35.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26227",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين جرين",
+      "en": "Aain Jrain",
+      "slug": "aain-jrain-26227"
+    },
+    "code": {
+      "id": "26227",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.084",
+      "lon": "35.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26289",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين كفاع",
+      "en": "Aain Kfaa",
+      "slug": "aain-kfaa-26289"
+    },
+    "code": {
+      "id": "26289",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.187",
+      "lon": "35.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26219",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عاليتا",
+      "en": "Aalita",
+      "slug": "aalita-26219"
+    },
+    "code": {
+      "id": "26219",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.09",
+      "lon": "35.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26212",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "علمات الشمالية",
+      "en": "Aalmat Ech-Chamliyeh",
+      "slug": "aalmat-ech-chamliyeh-26212"
+    },
+    "code": {
+      "id": "26212",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.11",
+      "lon": "35.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26214",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حصنا",
+      "en": "Aalmat Ej-Jnoubiyeh",
+      "slug": "aalmat-ej-jnoubiyeh-26214"
+    },
+    "code": {
+      "id": "26214",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.107",
+      "lon": "35.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26141",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عمشيت",
+      "en": "Aamchit",
+      "slug": "aamchit-26141"
+    },
+    "code": {
+      "id": "26141",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.149",
+      "lon": "35.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26371",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عاقورة",
+      "en": "Aaqoura",
+      "slug": "aaqoura-26371"
+    },
+    "code": {
+      "id": "26371",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.102",
+      "lon": "35.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26374",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عرب اللهيب",
+      "en": "Aarab El-Lahib",
+      "slug": "aarab-el-lahib-26374"
+    },
+    "code": {
+      "id": "26374",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.153",
+      "lon": "35.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26392",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عرستا",
+      "en": "Aarasta",
+      "slug": "aarasta-26392"
+    },
+    "code": {
+      "id": "26392",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.082",
+      "lon": "35.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26239",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ادونيس",
+      "en": "Adonis Jbayl",
+      "slug": "adonis-jbayl-26239"
+    },
+    "code": {
+      "id": "26239",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.082",
+      "lon": "35.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26364",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "افقا",
+      "en": "Afqa Jbayl",
+      "slug": "afqa-jbayl-26364"
+    },
+    "code": {
+      "id": "26364",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.065",
+      "lon": "35.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26299",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بزيون",
+      "en": "Bayzoun",
+      "slug": "bayzoun-26299"
+    },
+    "code": {
+      "id": "26299",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.095",
+      "lon": "35.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26244",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بشلّلي",
+      "en": "Bchille Jbayl",
+      "slug": "bchille-jbayl-26244"
+    },
+    "code": {
+      "id": "26244",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.104",
+      "lon": "35.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26259",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بحديدات",
+      "en": "Behdaydat",
+      "slug": "behdaydat-26259"
+    },
+    "code": {
+      "id": "26259",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.149",
+      "lon": "35.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26271",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت حبّاق",
+      "en": "Beit Habbaq",
+      "slug": "beit-habbaq-26271"
+    },
+    "code": {
+      "id": "26271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.163",
+      "lon": "35.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26276",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بجه",
+      "en": "Bejjeh",
+      "slug": "bejjeh-26276"
+    },
+    "code": {
+      "id": "26276",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.183",
+      "lon": "35.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26297",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بخعاز",
+      "en": "Bekhaaz",
+      "slug": "bekhaaz-26297"
+    },
+    "code": {
+      "id": "26297",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.189",
+      "lon": "35.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26183",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بربارة",
+      "en": "Berbara Jbayl",
+      "slug": "berbara-jbayl-26183"
+    },
+    "code": {
+      "id": "26183",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.196",
+      "lon": "35.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26243",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بشتليدا",
+      "en": "Bichtlida",
+      "slug": "bichtlida-26243"
+    },
+    "code": {
+      "id": "26243",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.129",
+      "lon": "35.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26269",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بنتاعل",
+      "en": "Bintaael",
+      "slug": "bintaael-26269"
+    },
+    "code": {
+      "id": "26269",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.141",
+      "lon": "35.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26237",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بركة حجولا",
+      "en": "Birket Hjoula",
+      "slug": "birket-hjoula-26237"
+    },
+    "code": {
+      "id": "26237",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.147",
+      "lon": "35.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26129",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بلاط",
+      "en": "Blat Jbeil",
+      "slug": "blat-jbeil-26129"
+    },
+    "code": {
+      "id": "26129",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.111",
+      "lon": "35.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26283",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بمهرين",
+      "en": "Bmehrayn",
+      "slug": "bmehrayn-26283"
+    },
+    "code": {
+      "id": "26283",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.122",
+      "lon": "35.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26354",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بلحص",
+      "en": "Boulhos",
+      "slug": "boulhos-26354"
+    },
+    "code": {
+      "id": "26354",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.095",
+      "lon": "35.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26253",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بريج",
+      "en": "Brayj Jbayl",
+      "slug": "brayj-jbayl-26253"
+    },
+    "code": {
+      "id": "26253",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.119",
+      "lon": "35.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26279",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شامات",
+      "en": "Chamate",
+      "slug": "chamate-26279"
+    },
+    "code": {
+      "id": "26279",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.165",
+      "lon": "35.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26295",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شيخان",
+      "en": "Chikhane",
+      "slug": "chikhane-26295"
+    },
+    "code": {
+      "id": "26295",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.173",
+      "lon": "35.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26296",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شموت",
+      "en": "Chmout",
+      "slug": "chmout-26296"
+    },
+    "code": {
+      "id": "26296",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.197",
+      "lon": "35.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26135",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "إده",
+      "en": "Eddeh Jbayl",
+      "slug": "eddeh-jbayl-26135"
+    },
+    "code": {
+      "id": "26135",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.142",
+      "lon": "35.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "اهمج",
+      "en": "Ehmej",
+      "slug": "ehmej-26211"
+    },
+    "code": {
+      "id": "26211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.13",
+      "lon": "35.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26266",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فتري",
+      "en": "Fatre",
+      "slug": "fatre-26266"
+    },
+    "code": {
+      "id": "26266",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.086",
+      "lon": "35.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26217",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فرحت",
+      "en": "Ferhet",
+      "slug": "ferhet-26217"
+    },
+    "code": {
+      "id": "26217",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.1",
+      "lon": "35.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26298",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فغال",
+      "en": "Fghal",
+      "slug": "fghal-26298"
+    },
+    "code": {
+      "id": "26298",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.207",
+      "lon": "35.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26223",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فرات",
+      "en": "Frat",
+      "slug": "frat-26223"
+    },
+    "code": {
+      "id": "26223",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.087",
+      "lon": "35.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26337",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غابات",
+      "en": "Ghabat",
+      "slug": "ghabat-26337"
+    },
+    "code": {
+      "id": "26337",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.079",
+      "lon": "35.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26277",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غلبون",
+      "en": "Ghalboun",
+      "slug": "ghalboun-26277"
+    },
+    "code": {
+      "id": "26277",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.175",
+      "lon": "35.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26294",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غرزوز",
+      "en": "Gharzouz",
+      "slug": "gharzouz-26294"
+    },
+    "code": {
+      "id": "26294",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.179",
+      "lon": "35.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26291",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غرفين",
+      "en": "Ghofrine",
+      "slug": "ghofrine-26291"
+    },
+    "code": {
+      "id": "26291",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.156",
+      "lon": "35.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26234",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "هابيل",
+      "en": "Habil",
+      "slug": "habil-26234"
+    },
+    "code": {
+      "id": "26234",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.151",
+      "lon": "35.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26147",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حالات",
+      "en": "Halate",
+      "slug": "halate-26147"
+    },
+    "code": {
+      "id": "26147",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.086",
+      "lon": "35.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26247",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حقل",
+      "en": "Haqel",
+      "slug": "haqel-26247"
+    },
+    "code": {
+      "id": "26247",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.168",
+      "lon": "35.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26153",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حصرايل",
+      "en": "Hasrayel",
+      "slug": "hasrayel-26153"
+    },
+    "code": {
+      "id": "26153",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.164",
+      "lon": "35.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26281",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حبالين",
+      "en": "Hbaline",
+      "slug": "hbaline-26281"
+    },
+    "code": {
+      "id": "26281",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.159",
+      "lon": "35.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26284",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حبوب",
+      "en": "Hboub",
+      "slug": "hboub-26284"
+    },
+    "code": {
+      "id": "26284",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.128",
+      "lon": "35.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26324",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "هدينة",
+      "en": "Hdeine",
+      "slug": "hdeine-26324"
+    },
+    "code": {
+      "id": "26324",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.092",
+      "lon": "35.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26390",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حمى الرهبان",
+      "en": "Hema Er-Rehban",
+      "slug": "hema-er-rehban-26390"
+    },
+    "code": {
+      "id": "26390",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.146",
+      "lon": "35.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26388",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حمى مار مارون عنَايا",
+      "en": "Hema Mar Maroun Aannaya",
+      "slug": "hema-mar-maroun-aannaya-26388"
+    },
+    "code": {
+      "id": "26388",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.132",
+      "lon": "35.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26226",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حجولا",
+      "en": "Hjoula",
+      "slug": "hjoula-26226"
+    },
+    "code": {
+      "id": "26226",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.133",
+      "lon": "35.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26286",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حصارات",
+      "en": "Hsarat",
+      "slug": "hsarat-26286"
+    },
+    "code": {
+      "id": "26286",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.169",
+      "lon": "35.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26229",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حصون",
+      "en": "Hsoun",
+      "slug": "hsoun-26229"
+    },
+    "code": {
+      "id": "26229",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.094",
+      "lon": "35.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26381",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جاج",
+      "en": "Jaj",
+      "slug": "jaj-26381"
+    },
+    "code": {
+      "id": "26381",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.161",
+      "lon": "35.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26327",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جنة",
+      "en": "Janneh",
+      "slug": "janneh-26327"
+    },
+    "code": {
+      "id": "26327",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.081",
+      "lon": "35.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جبيل",
+      "en": "Jbayl",
+      "slug": "jbayl-26111"
+    },
+    "code": {
+      "id": "26111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.123",
+      "lon": "35.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26165",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جدايل",
+      "en": "Jeoddayel Jbayl",
+      "slug": "jeoddayel-jbayl-26165"
+    },
+    "code": {
+      "id": "26165",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.163",
+      "lon": "35.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26274",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جليسه",
+      "en": "Jlisseh",
+      "slug": "jlisseh-26274"
+    },
+    "code": {
+      "id": "26274",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.114",
+      "lon": "35.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26236",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جورة القطين",
+      "en": "Jouret El-Qattine",
+      "slug": "jouret-el-qattine-26236"
+    },
+    "code": {
+      "id": "26236",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.105",
+      "lon": "35.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26273",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر الفتوح",
+      "en": "Kafr",
+      "slug": "kafr-26273"
+    },
+    "code": {
+      "id": "26273",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.153",
+      "lon": "35.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26224",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر بعال",
+      "en": "Kfar Baal",
+      "slug": "kfar-baal-26224"
+    },
+    "code": {
+      "id": "26224",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.114",
+      "lon": "35.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26189",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر كده",
+      "en": "Kfar Kiddeh",
+      "slug": "kfar-kiddeh-26189"
+    },
+    "code": {
+      "id": "26189",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.2",
+      "lon": "35.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26287",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر مسحون",
+      "en": "Kfar Mashoun",
+      "slug": "kfar-mashoun-26287"
+    },
+    "code": {
+      "id": "26287",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.147",
+      "lon": "35.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26264",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر قواص",
+      "en": "Kfar Qouas",
+      "slug": "kfar-qouas-26264"
+    },
+    "code": {
+      "id": "26264",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.123",
+      "lon": "35.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26267",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفون",
+      "en": "Kfoun",
+      "slug": "kfoun-26267"
+    },
+    "code": {
+      "id": "26267",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.155",
+      "lon": "35.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26249",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خاربة جبيل",
+      "en": "Kharbet Jbayl",
+      "slug": "kharbet-jbayl-26249"
+    },
+    "code": {
+      "id": "26249",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.177",
+      "lon": "35.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26361",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "اللقلوق",
+      "en": "Laqlouq",
+      "slug": "laqlouq-26361"
+    },
+    "code": {
+      "id": "26361",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.134",
+      "lon": "35.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26331",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "لاسا",
+      "en": "Lassa",
+      "slug": "lassa-26331"
+    },
+    "code": {
+      "id": "26331",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.068",
+      "lon": "35.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26233",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "لحفد",
+      "en": "Lehfed",
+      "slug": "lehfed-26233"
+    },
+    "code": {
+      "id": "26233",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.164",
+      "lon": "35.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-26001"
+    },
+    "code": {
+      "id": "26001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.123",
+      "lon": "35.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26002",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-26002"
+    },
+    "code": {
+      "id": "26002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.097",
+      "lon": "35.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26003",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-26003"
+    },
+    "code": {
+      "id": "26003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.082",
+      "lon": "35.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26004",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-26004"
+    },
+    "code": {
+      "id": "26004",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.079",
+      "lon": "35.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26005",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-26005"
+    },
+    "code": {
+      "id": "26005",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.078",
+      "lon": "35.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26006",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-26006"
+    },
+    "code": {
+      "id": "26006",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.078",
+      "lon": "35.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26007",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-26007"
+    },
+    "code": {
+      "id": "26007",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.067",
+      "lon": "35.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26009",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-26009"
+    },
+    "code": {
+      "id": "26009",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.068",
+      "lon": "35.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26293",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "معاد",
+      "en": "Maad",
+      "slug": "maad-26293"
+    },
+    "code": {
+      "id": "26293",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.191",
+      "lon": "35.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26357",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المجدل",
+      "en": "Majdel El-Aqoura",
+      "slug": "majdel-el-aqoura-26357"
+    },
+    "code": {
+      "id": "26357",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.087",
+      "lon": "35.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26314",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير مار سركيس",
+      "en": "Mar Sarkis",
+      "slug": "mar-sarkis-26314"
+    },
+    "code": {
+      "id": "26314",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.096",
+      "lon": "35.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26117",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مستيتا",
+      "en": "Mastita",
+      "slug": "mastita-26117"
+    },
+    "code": {
+      "id": "26117",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.105",
+      "lon": "35.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26257",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ميفوق",
+      "en": "Mayfouq",
+      "slug": "mayfouq-26257"
+    },
+    "code": {
+      "id": "26257",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.184",
+      "lon": "35.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26213",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة المعادن",
+      "en": "Mazraat El-Maaden",
+      "slug": "mazraat-el-maaden-26213"
+    },
+    "code": {
+      "id": "26213",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.118",
+      "lon": "35.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26321",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة السياد",
+      "en": "Mazraat Es Siyad",
+      "slug": "mazraat-es-siyad-26321"
+    },
+    "code": {
+      "id": "26321",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.117",
+      "lon": "35.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26231",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشان",
+      "en": "Mchaneh",
+      "slug": "mchaneh-26231"
+    },
+    "code": {
+      "id": "26231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.081",
+      "lon": "35.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26341",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مغيره",
+      "en": "Mghayreh Jbeil",
+      "slug": "mghayreh-jbeil-26341"
+    },
+    "code": {
+      "id": "26341",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.109",
+      "lon": "35.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26218",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشمش جبيل",
+      "en": "Michmich Jbayl",
+      "slug": "michmich-jbayl-26218"
+    },
+    "code": {
+      "id": "26218",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.141",
+      "lon": "35.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26177",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المنصف",
+      "en": "Mounsef",
+      "slug": "mounsef-26177"
+    },
+    "code": {
+      "id": "26177",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.181",
+      "lon": "35.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26171",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نهر ابراهيم",
+      "en": "Nahr Ibrahim",
+      "slug": "nahr-ibrahim-26171"
+    },
+    "code": {
+      "id": "26171",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.067",
+      "lon": "35.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26367",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قهمز",
+      "en": "Qahmez",
+      "slug": "qahmez-26367"
+    },
+    "code": {
+      "id": "26367",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.06",
+      "lon": "35.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرطبا",
+      "en": "Qartaba",
+      "slug": "qartaba-26311"
+    },
+    "code": {
+      "id": "26311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.098",
+      "lon": "35.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26123",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرطبون",
+      "en": "Qartaboun",
+      "slug": "qartaboun-26123"
+    },
+    "code": {
+      "id": "26123",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.11",
+      "lon": "35.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26351",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرقريا",
+      "en": "Qorqraiya",
+      "slug": "qorqraiya-26351"
+    },
+    "code": {
+      "id": "26351",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.078",
+      "lon": "35.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قطارة",
+      "en": "Qottara Jbayl",
+      "slug": "qottara-jbayl-26251"
+    },
+    "code": {
+      "id": "26251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.178",
+      "lon": "35.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26261",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الراموط",
+      "en": "Ramout",
+      "slug": "ramout-26261"
+    },
+    "code": {
+      "id": "26261",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.166",
+      "lon": "35.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26241",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راس اسطا",
+      "en": "Ras Osta",
+      "slug": "ras-osta-26241"
+    },
+    "code": {
+      "id": "26241",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.118",
+      "lon": "35.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26159",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ريحانة",
+      "en": "Rihanet Jbayl",
+      "slug": "rihanet-jbayl-26159"
+    },
+    "code": {
+      "id": "26159",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.168",
+      "lon": "35.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26377",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سقي رشميا",
+      "en": "Saqi Richmaya",
+      "slug": "saqi-richmaya-26377"
+    },
+    "code": {
+      "id": "26377",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.152",
+      "lon": "35.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26263",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ساقية الخيط",
+      "en": "Saqiet El-Khayt",
+      "slug": "saqiet-el-khayt-26263"
+    },
+    "code": {
+      "id": "26263",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.162",
+      "lon": "35.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26254",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سربين",
+      "en": "Sebrine",
+      "slug": "sebrine-26254"
+    },
+    "code": {
+      "id": "26254",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.111",
+      "lon": "35.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26334",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سرعيتا",
+      "en": "Seraaiita",
+      "slug": "seraaiita-26334"
+    },
+    "code": {
+      "id": "26334",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.084",
+      "lon": "35.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26220",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صوانة",
+      "en": "Souanet Jbayl",
+      "slug": "souanet-jbayl-26220"
+    },
+    "code": {
+      "id": "26220",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.095",
+      "lon": "35.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26344",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تدمر",
+      "en": "Tadmor",
+      "slug": "tadmor-26344"
+    },
+    "code": {
+      "id": "26344",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.104",
+      "lon": "35.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26384",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ترتج",
+      "en": "Tartij",
+      "slug": "tartij-26384"
+    },
+    "code": {
+      "id": "26384",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.175",
+      "lon": "35.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26215",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طورزيا",
+      "en": "Tourzaiya",
+      "slug": "tourzaiya-26215"
+    },
+    "code": {
+      "id": "26215",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.11",
+      "lon": "35.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26347",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "يانوح",
+      "en": "Yanouh Jbayl",
+      "slug": "yanouh-jbayl-26347"
+    },
+    "code": {
+      "id": "26347",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.097",
+      "lon": "35.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26246",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زبدين",
+      "en": "Zibdine Jbayl",
+      "slug": "zibdine-jbayl-26246"
+    },
+    "code": {
+      "id": "26246",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB34",
+      "level": 2,
+      "name": {
+        "local": "جبيل",
+        "en": "Jbeil",
+        "slug": "jbeil-lb34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB3",
+        "level": 1,
+        "name": {
+          "local": "جبل لبنان",
+          "en": "Mount Lebanon",
+          "slug": "mount-lebanon-lb3"
+        }
+      },
+      {
+        "id": "LB34",
+        "level": 2,
+        "name": {
+          "local": "جبيل",
+          "en": "Jbeil",
+          "slug": "jbeil-lb34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.095",
+      "lon": "35.708"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

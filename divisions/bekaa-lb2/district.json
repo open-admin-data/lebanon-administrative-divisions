@@ -1,0 +1,143 @@
+[
+  {
+    "id": "LB23",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "راشيا",
+      "en": "Rachaya",
+      "slug": "rachaya-lb23"
+    },
+    "code": {
+      "id": "LB23",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB2",
+      "level": 1,
+      "name": {
+        "local": "البقاع",
+        "en": "Bekaa",
+        "slug": "bekaa-lb2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.518",
+      "lon": "35.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB24",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "البقاع الغربي",
+      "en": "West Bekaa",
+      "slug": "west-bekaa-lb24"
+    },
+    "code": {
+      "id": "LB24",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB2",
+      "level": 1,
+      "name": {
+        "local": "البقاع",
+        "en": "Bekaa",
+        "slug": "bekaa-lb2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.599",
+      "lon": "35.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB25",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "زحلة",
+      "en": "Zahle",
+      "slug": "zahle-lb25"
+    },
+    "code": {
+      "id": "LB25",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB2",
+      "level": 1,
+      "name": {
+        "local": "البقاع",
+        "en": "Bekaa",
+        "slug": "bekaa-lb2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB2",
+        "level": 1,
+        "name": {
+          "local": "البقاع",
+          "en": "Bekaa",
+          "slug": "bekaa-lb2"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 62
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.805",
+      "lon": "35.913"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

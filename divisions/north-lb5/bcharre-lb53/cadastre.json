@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "36121",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عبدين بشري",
+      "en": "Aabdine",
+      "slug": "aabdine-36121"
+    },
+    "code": {
+      "id": "36121",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.277",
+      "lon": "35.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36147",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بان",
+      "en": "Bane",
+      "slug": "bane-36147"
+    },
+    "code": {
+      "id": "36147",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.272",
+      "lon": "35.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36181",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بزعون",
+      "en": "Bazaaoun",
+      "slug": "bazaaoun-36181"
+    },
+    "code": {
+      "id": "36181",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.23",
+      "lon": "35.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بشري",
+      "en": "Bcharreh",
+      "slug": "bcharreh-36111"
+    },
+    "code": {
+      "id": "36111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.258",
+      "lon": "36.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36187",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت منذر",
+      "en": "Beit Menzer",
+      "slug": "beit-menzer-36187"
+    },
+    "code": {
+      "id": "36187",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.264",
+      "lon": "35.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36137",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برحليون",
+      "en": "Berhalioun",
+      "slug": "berhalioun-36137"
+    },
+    "code": {
+      "id": "36137",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.266",
+      "lon": "35.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36117",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بلا",
+      "en": "Billa",
+      "slug": "billa-36117"
+    },
+    "code": {
+      "id": "36117",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.265",
+      "lon": "35.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36151",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بلوزا",
+      "en": "Blaouza",
+      "slug": "blaouza-36151"
+    },
+    "code": {
+      "id": "36151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.262",
+      "lon": "35.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36191",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بقاع كفرا",
+      "en": "Bqaa Kafra",
+      "slug": "bqaa-kafra-36191"
+    },
+    "code": {
+      "id": "36191",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.226",
+      "lon": "36.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36184",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بقرقاشا",
+      "en": "Bqerqacha",
+      "slug": "bqerqacha-36184"
+    },
+    "code": {
+      "id": "36184",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.228",
+      "lon": "36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36157",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بريسات",
+      "en": "Breissat",
+      "slug": "breissat-36157"
+    },
+    "code": {
+      "id": "36157",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.239",
+      "lon": "35.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36161",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ديمان",
+      "en": "Dimane",
+      "slug": "dimane-36161"
+    },
+    "code": {
+      "id": "36161",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.237",
+      "lon": "35.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36131",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حدث الجبه",
+      "en": "Hadath Ej-Jebbeh",
+      "slug": "hadath-ej-jebbeh-36131"
+    },
+    "code": {
+      "id": "36131",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.236",
+      "lon": "35.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36177",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حدشيت",
+      "en": "Hadchit",
+      "slug": "hadchit-36177"
+    },
+    "code": {
+      "id": "36177",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.257",
+      "lon": "35.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36171",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حصرون",
+      "en": "Hasroun",
+      "slug": "hasroun-36171"
+    },
+    "code": {
+      "id": "36171",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.231",
+      "lon": "35.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36144",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة عساف",
+      "en": "Mazraat Aassaf",
+      "slug": "mazraat-aassaf-36144"
+    },
+    "code": {
+      "id": "36144",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.248",
+      "lon": "35.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36134",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة بني صعب",
+      "en": "Mazraat Bani Saab",
+      "slug": "mazraat-bani-saab-36134"
+    },
+    "code": {
+      "id": "36134",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.244",
+      "lon": "35.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36110",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشاع الجبه",
+      "en": "Mchaa Ej-Jibbé",
+      "slug": "mchaa-ej-jibb-36110"
+    },
+    "code": {
+      "id": "36110",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.195",
+      "lon": "36.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36164",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "متريت",
+      "en": "Metrit",
+      "slug": "metrit-36164"
+    },
+    "code": {
+      "id": "36164",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.264",
+      "lon": "35.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36154",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مغر الاحول",
+      "en": "Moghr El-Ahoual",
+      "slug": "moghr-el-ahoual-36154"
+    },
+    "code": {
+      "id": "36154",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.289",
+      "lon": "35.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36141",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي قنوبين",
+      "en": "Ouadi Qannoubine",
+      "slug": "ouadi-qannoubine-36141"
+    },
+    "code": {
+      "id": "36141",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.263",
+      "lon": "35.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36127",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قناة",
+      "en": "Qnat",
+      "slug": "qnat-36127"
+    },
+    "code": {
+      "id": "36127",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.244",
+      "lon": "35.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36114",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قنيور",
+      "en": "Qnayouer",
+      "slug": "qnayouer-36114"
+    },
+    "code": {
+      "id": "36114",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.267",
+      "lon": "35.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36124",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طورزا",
+      "en": "Tourza",
+      "slug": "tourza-36124"
+    },
+    "code": {
+      "id": "36124",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB53",
+      "level": 2,
+      "name": {
+        "local": "بشري",
+        "en": "Bcharre",
+        "slug": "bcharre-lb53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB53",
+        "level": 2,
+        "name": {
+          "local": "بشري",
+          "en": "Bcharre",
+          "slug": "bcharre-lb53"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.275",
+      "lon": "35.904"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

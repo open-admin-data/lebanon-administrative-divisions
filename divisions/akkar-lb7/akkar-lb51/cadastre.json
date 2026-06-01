@@ -1,0 +1,9074 @@
+[
+  {
+    "id": "35249",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "العبودية",
+      "en": "Aabboudiyeh",
+      "slug": "aabboudiyeh-35249"
+    },
+    "code": {
+      "id": "35249",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.636",
+      "lon": "36.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35427",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين الزيت",
+      "en": "Aain Ez-Zeit",
+      "slug": "aain-ez-zeit-35427"
+    },
+    "code": {
+      "id": "35427",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.59",
+      "lon": "36.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35435",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين تنتا",
+      "en": "Aain Tinta",
+      "slug": "aain-tinta-35435"
+    },
+    "code": {
+      "id": "35435",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.587",
+      "lon": "36.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35187",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين يعقوب",
+      "en": "Aain Yaaqoub",
+      "slug": "aain-yaaqoub-35187"
+    },
+    "code": {
+      "id": "35187",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.521",
+      "lon": "36.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35185",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيات",
+      "en": "Aaiyat",
+      "slug": "aaiyat-35185"
+    },
+    "code": {
+      "id": "35185",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.538",
+      "lon": "36.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35191",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عكار العتيقة",
+      "en": "Aakkar El-Aatiqa",
+      "slug": "aakkar-el-aatiqa-35191"
+    },
+    "code": {
+      "id": "35191",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.532",
+      "lon": "36.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35265",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عماره",
+      "en": "Aamaret Aakkar",
+      "slug": "aamaret-aakkar-35265"
+    },
+    "code": {
+      "id": "35265",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.531",
+      "lon": "36.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35449",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عمار البيكات",
+      "en": "Aamaret El-Baykat",
+      "slug": "aamaret-el-baykat-35449"
+    },
+    "code": {
+      "id": "35449",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.611",
+      "lon": "36.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35512",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "العماير",
+      "en": "Aamayer",
+      "slug": "aamayer-35512"
+    },
+    "code": {
+      "id": "35512",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.619",
+      "lon": "36.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35421",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "العمارية",
+      "en": "Aamriyet Aakkar",
+      "slug": "aamriyet-aakkar-35421"
+    },
+    "code": {
+      "id": "35421",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.602",
+      "lon": "36.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35498",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عندقت",
+      "en": "Aandqet",
+      "slug": "aandqet-35498"
+    },
+    "code": {
+      "id": "35498",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.568",
+      "lon": "36.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35420",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "العوينات",
+      "en": "Aaouaainat Aakkar",
+      "slug": "aaouaainat-aakkar-35420"
+    },
+    "code": {
+      "id": "35420",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.628",
+      "lon": "36.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35273",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "العريضة",
+      "en": "AAridet Cheikh Zennad",
+      "slug": "aaridet-cheikh-zennad-35273"
+    },
+    "code": {
+      "id": "35273",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.635",
+      "lon": "35.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35484",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عرمه",
+      "en": "Aarmeh",
+      "slug": "aarmeh-35484"
+    },
+    "code": {
+      "id": "35484",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.628",
+      "lon": "36.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35141",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عرقا",
+      "en": "Aarqa",
+      "slug": "aarqa-35141"
+    },
+    "code": {
+      "id": "35141",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.544",
+      "lon": "36.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35177",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "العيون",
+      "en": "Aayoun Aakkar",
+      "slug": "aayoun-aakkar-35177"
+    },
+    "code": {
+      "id": "35177",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.531",
+      "lon": "36.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35347",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيون الغزلان",
+      "en": "Aayoun El-Ghizlane",
+      "slug": "aayoun-el-ghizlane-35347"
+    },
+    "code": {
+      "id": "35347",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.472",
+      "lon": "36.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35439",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دوسة بغدادي",
+      "en": "Baghdadi",
+      "slug": "baghdadi-35439"
+    },
+    "code": {
+      "id": "35439",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.604",
+      "lon": "36.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35158",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بلدي",
+      "en": "Balde WaMazraatBaldeh",
+      "slug": "balde-wamazraatbaldeh-35158"
+    },
+    "code": {
+      "id": "35158",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.561",
+      "lon": "36.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35241",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برشا",
+      "en": "Barcha",
+      "slug": "barcha-35241"
+    },
+    "code": {
+      "id": "35241",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.627",
+      "lon": "36.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35408",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بردي",
+      "en": "Bardeh",
+      "slug": "bardeh-35408"
+    },
+    "code": {
+      "id": "35408",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.595",
+      "lon": "36.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35275",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ببنين",
+      "en": "Bebnine",
+      "slug": "bebnine-35275"
+    },
+    "code": {
+      "id": "35275",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.507",
+      "lon": "35.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35175",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بينو",
+      "en": "Beino",
+      "slug": "beino-35175"
+    },
+    "code": {
+      "id": "35175",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.548",
+      "lon": "36.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35337",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت ايوب",
+      "en": "Beit Ayoub",
+      "slug": "beit-ayoub-35337"
+    },
+    "code": {
+      "id": "35337",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.472",
+      "lon": "36.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35367",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت الحوش",
+      "en": "Beit El-Haouch",
+      "slug": "beit-el-haouch-35367"
+    },
+    "code": {
+      "id": "35367",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.478",
+      "lon": "35.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35174",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت ملات",
+      "en": "Beit Mellat",
+      "slug": "beit-mellat-35174"
+    },
+    "code": {
+      "id": "35174",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.533",
+      "lon": "36.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35321",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت يونس",
+      "en": "Beit Younes",
+      "slug": "beit-younes-35321"
+    },
+    "code": {
+      "id": "35321",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.475",
+      "lon": "36.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35433",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برباره",
+      "en": "Berbara Aakkar",
+      "slug": "berbara-aakkar-35433"
+    },
+    "code": {
+      "id": "35433",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.574",
+      "lon": "36.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35314",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برقايل",
+      "en": "Berqayel",
+      "slug": "berqayel-35314"
+    },
+    "code": {
+      "id": "35314",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.49",
+      "lon": "36.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35189",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بزبينا",
+      "en": "Bezbina",
+      "slug": "bezbina-35189"
+    },
+    "code": {
+      "id": "35189",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.513",
+      "lon": "36.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35416",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "البيره عكار",
+      "en": "Biret Aakkar",
+      "slug": "biret-aakkar-35416"
+    },
+    "code": {
+      "id": "35416",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.592",
+      "lon": "36.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35183",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "البرج عكار",
+      "en": "Borj Aakkar",
+      "slug": "borj-aakkar-35183"
+    },
+    "code": {
+      "id": "35183",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.533",
+      "lon": "36.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35147",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بقرزلا",
+      "en": "Bqerzla",
+      "slug": "bqerzla-35147"
+    },
+    "code": {
+      "id": "35147",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.512",
+      "lon": "36.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35425",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فسقين و عين اشما",
+      "en": "Bsatine Aakkar",
+      "slug": "bsatine-aakkar-35425"
+    },
+    "code": {
+      "id": "35425",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.579",
+      "lon": "36.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35316",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بزال",
+      "en": "Bzal",
+      "slug": "bzal-35316"
+    },
+    "code": {
+      "id": "35316",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.464",
+      "lon": "36.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35320",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شان",
+      "en": "Chane",
+      "slug": "chane-35320"
+    },
+    "code": {
+      "id": "35320",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.485",
+      "lon": "36.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35181",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الشقدوف",
+      "en": "Chaqdouf",
+      "slug": "chaqdouf-35181"
+    },
+    "code": {
+      "id": "35181",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.529",
+      "lon": "36.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35457",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شربيلا",
+      "en": "Charbila",
+      "slug": "charbila-35457"
+    },
+    "code": {
+      "id": "35457",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.581",
+      "lon": "36.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35113",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الشيخ محمد",
+      "en": "Cheikh Mohammad",
+      "slug": "cheikh-mohammad-35113"
+    },
+    "code": {
+      "id": "35113",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.554",
+      "lon": "36.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35123",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الشيخ طابا",
+      "en": "Cheikh Taba",
+      "slug": "cheikh-taba-35123"
+    },
+    "code": {
+      "id": "35123",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.534",
+      "lon": "36.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35121",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الشيخ طابا السهل",
+      "en": "Cheikh Taba Es-Sahl",
+      "slug": "cheikh-taba-es-sahl-35121"
+    },
+    "code": {
+      "id": "35121",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.551",
+      "lon": "36.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35267",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الشيخ زناد",
+      "en": "Cheikh Zennad",
+      "slug": "cheikh-zennad-35267"
+    },
+    "code": {
+      "id": "35267",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.611",
+      "lon": "35.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35402",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شيخلار",
+      "en": "Cheikhlar",
+      "slug": "cheikhlar-35402"
+    },
+    "code": {
+      "id": "35402",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.62",
+      "lon": "36.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35224",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شير حمارين",
+      "en": "Chir Hmairine",
+      "slug": "chir-hmairine-35224"
+    },
+    "code": {
+      "id": "35224",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.623",
+      "lon": "36.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35419",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الدغلة",
+      "en": "Daghleh",
+      "slug": "daghleh-35419"
+    },
+    "code": {
+      "id": "35419",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.58",
+      "lon": "36.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35155",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ضهر ليسينه",
+      "en": "Dahr Laissine",
+      "slug": "dahr-laissine-35155"
+    },
+    "code": {
+      "id": "35155",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.539",
+      "lon": "36.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35126",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الدوره",
+      "en": "Daouret Aakkar",
+      "slug": "daouret-aakkar-35126"
+    },
+    "code": {
+      "id": "35126",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.545",
+      "lon": "36.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35225",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دارين",
+      "en": "Darine",
+      "slug": "darine-35225"
+    },
+    "code": {
+      "id": "35225",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.61",
+      "lon": "36.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35511",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دائرة النهر الكبير",
+      "en": "Dayret Nahr El-Kabir",
+      "slug": "dayret-nahr-el-kabir-35511"
+    },
+    "code": {
+      "id": "35511",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.677",
+      "lon": "36.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35149",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير دلوم",
+      "en": "Deir Dalloum",
+      "slug": "deir-dalloum-35149"
+    },
+    "code": {
+      "id": "35149",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.526",
+      "lon": "36.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35441",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير جنين",
+      "en": "Deir Jannine",
+      "slug": "deir-jannine-35441"
+    },
+    "code": {
+      "id": "35441",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.567",
+      "lon": "36.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35432",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دبابية",
+      "en": "Dibbabiyeh",
+      "slug": "dibbabiyeh-35432"
+    },
+    "code": {
+      "id": "35432",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.627",
+      "lon": "36.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35318",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دنبو عين الذهب",
+      "en": "Dinbou",
+      "slug": "dinbou-35318"
+    },
+    "code": {
+      "id": "35318",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.489",
+      "lon": "36.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35443",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دوير عدويه",
+      "en": "Douair Aadouiyeh",
+      "slug": "douair-aadouiyeh-35443"
+    },
+    "code": {
+      "id": "35443",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.58",
+      "lon": "36.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35353",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "النبي خالد",
+      "en": "Fnaydeq",
+      "slug": "fnaydeq-35353"
+    },
+    "code": {
+      "id": "35353",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.459",
+      "lon": "36.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35412",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "فريديس",
+      "en": "Fraydes Aakkar",
+      "slug": "fraydes-aakkar-35412"
+    },
+    "code": {
+      "id": "35412",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.617",
+      "lon": "36.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35475",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الغزيله",
+      "en": "Ghazayleh",
+      "slug": "ghazayleh-35475"
+    },
+    "code": {
+      "id": "35475",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.597",
+      "lon": "36.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35326",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حبشيت",
+      "en": "Habchit",
+      "slug": "habchit-35326"
+    },
+    "code": {
+      "id": "35326",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.468",
+      "lon": "36.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35131",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشيلحة الحاكور",
+      "en": "Hakour",
+      "slug": "hakour-35131"
+    },
+    "code": {
+      "id": "35131",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.525",
+      "lon": "36.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حلبا",
+      "en": "Halba",
+      "slug": "halba-35111"
+    },
+    "code": {
+      "id": "35111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.555",
+      "lon": "36.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35219",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "هوشب",
+      "en": "Haouchab",
+      "slug": "haouchab-35219"
+    },
+    "code": {
+      "id": "35219",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.587",
+      "lon": "36.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35221",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الحيصة",
+      "en": "Hayssa",
+      "slug": "hayssa-35221"
+    },
+    "code": {
+      "id": "35221",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.589",
+      "lon": "36.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35463",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "هيتلا",
+      "en": "Haytla",
+      "slug": "haytla-35463"
+    },
+    "code": {
+      "id": "35463",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.604",
+      "lon": "36.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35139",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حيزوق",
+      "en": "Hayzouq",
+      "slug": "hayzouq-35139"
+    },
+    "code": {
+      "id": "35139",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.551",
+      "lon": "36.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35169",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الهد",
+      "en": "Hedd",
+      "slug": "hedd-35169"
+    },
+    "code": {
+      "id": "35169",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.563",
+      "lon": "36.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35331",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الحميرة",
+      "en": "Hmaireh Aakkar",
+      "slug": "hmaireh-aakkar-35331"
+    },
+    "code": {
+      "id": "35331",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.495",
+      "lon": "36.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35470",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حميص",
+      "en": "Hmaiss Aakkar",
+      "slug": "hmaiss-aakkar-35470"
+    },
+    "code": {
+      "id": "35470",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.574",
+      "lon": "36.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35514",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حنيدر",
+      "en": "Hnaider",
+      "slug": "hnaider-35514"
+    },
+    "code": {
+      "id": "35514",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.615",
+      "lon": "36.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35253",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حكر الضاهري",
+      "en": "Hokr Ed-Dahri",
+      "slug": "hokr-ed-dahri-35253"
+    },
+    "code": {
+      "id": "35253",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.631",
+      "lon": "36.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35223",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حكر قتة",
+      "en": "Hokr Etti",
+      "slug": "hokr-etti-35223"
+    },
+    "code": {
+      "id": "35223",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.569",
+      "lon": "36.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35239",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حكر جورة سرار",
+      "en": "Hokr Jouret Srar",
+      "slug": "hokr-jouret-srar-35239"
+    },
+    "code": {
+      "id": "35239",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.631",
+      "lon": "36.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35322",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الحويش",
+      "en": "Houaich",
+      "slug": "houaich-35322"
+    },
+    "code": {
+      "id": "35322",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.493",
+      "lon": "36.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35328",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حرار",
+      "en": "Hrar",
+      "slug": "hrar-35328"
+    },
+    "code": {
+      "id": "35328",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.458",
+      "lon": "36.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35117",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عدبل",
+      "en": "Idbil",
+      "slug": "idbil-35117"
+    },
+    "code": {
+      "id": "35117",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.533",
+      "lon": "36.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35145",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ايلات",
+      "en": "Ilat",
+      "slug": "ilat-35145"
+    },
+    "code": {
+      "id": "35145",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.52",
+      "lon": "36.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35263",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جنين",
+      "en": "Janine",
+      "slug": "janine-35263"
+    },
+    "code": {
+      "id": "35263",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.632",
+      "lon": "36.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35344",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جديدة القيطع",
+      "en": "Jdeidet El-Qaitaa",
+      "slug": "jdeidet-el-qaitaa-35344"
+    },
+    "code": {
+      "id": "35344",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.463",
+      "lon": "36.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35125",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جديدة الجومه",
+      "en": "Jdidet Ej-Joumeh",
+      "slug": "jdidet-ej-joumeh-35125"
+    },
+    "code": {
+      "id": "35125",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.539",
+      "lon": "36.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35163",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جبرائيل",
+      "en": "Jebrayel",
+      "slug": "jebrayel-35163"
+    },
+    "code": {
+      "id": "35163",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.524",
+      "lon": "36.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35423",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر الفتوح",
+      "en": "Kafr",
+      "slug": "kafr-35423"
+    },
+    "code": {
+      "id": "35423",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.591",
+      "lon": "36.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35133",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كرم عصفور",
+      "en": "Karm Aasfour",
+      "slug": "karm-aasfour-35133"
+    },
+    "code": {
+      "id": "35133",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.524",
+      "lon": "36.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35157",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرحره",
+      "en": "Kfar Harra",
+      "slug": "kfar-harra-35157"
+    },
+    "code": {
+      "id": "35157",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.567",
+      "lon": "36.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35234",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرملكي",
+      "en": "Kfar Melki Aakkar",
+      "slug": "kfar-melki-aakkar-35234"
+    },
+    "code": {
+      "id": "35234",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.558",
+      "lon": "36.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35406",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرنون",
+      "en": "Kfar Noun",
+      "slug": "kfar-noun-35406"
+    },
+    "code": {
+      "id": "35406",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.629",
+      "lon": "36.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35430",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خالصة",
+      "en": "Khalsa",
+      "slug": "khalsa-35430"
+    },
+    "code": {
+      "id": "35430",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.633",
+      "lon": "36.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35257",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الخرنوبه",
+      "en": "Kharnoubet Aakkar",
+      "slug": "kharnoubet-aakkar-35257"
+    },
+    "code": {
+      "id": "35257",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.63",
+      "lon": "36.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35431",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خربة شار",
+      "en": "Khirbet Char",
+      "slug": "khirbet-char-35431"
+    },
+    "code": {
+      "id": "35431",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.579",
+      "lon": "36.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35417",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خربة داوود",
+      "en": "Khirbet Daoud Aakkar",
+      "slug": "khirbet-daoud-aakkar-35417"
+    },
+    "code": {
+      "id": "35417",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.587",
+      "lon": "36.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35410",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خربة الرمان",
+      "en": "Khirbet Er Remmane",
+      "slug": "khirbet-er-remmane-35410"
+    },
+    "code": {
+      "id": "35410",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.627",
+      "lon": "36.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35330",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الخريبة",
+      "en": "Khreibet Aakkar",
+      "slug": "khreibet-aakkar-35330"
+    },
+    "code": {
+      "id": "35330",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.478",
+      "lon": "36.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35216",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خريبة الجندي",
+      "en": "Khreibet Ej-Jindi",
+      "slug": "khreibet-ej-jindi-35216"
+    },
+    "code": {
+      "id": "35216",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.567",
+      "lon": "36.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35245",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الكنيسة",
+      "en": "Kneisset Aakkar",
+      "slug": "kneisset-aakkar-35245"
+    },
+    "code": {
+      "id": "35245",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.616",
+      "lon": "36.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35515",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كنيسة هنيدر",
+      "en": "Kneisset Hnaider",
+      "slug": "kneisset-hnaider-35515"
+    },
+    "code": {
+      "id": "35515",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.598",
+      "lon": "36.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35465",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كنيسة",
+      "en": "Knisseh",
+      "slug": "knisseh-35465"
+    },
+    "code": {
+      "id": "35465",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.566",
+      "lon": "36.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35429",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الكواشرة",
+      "en": "Kouachra",
+      "slug": "kouachra-35429"
+    },
+    "code": {
+      "id": "35429",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.61",
+      "lon": "36.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35215",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الكويخات",
+      "en": "Koueikhat",
+      "slug": "koueikhat-35215"
+    },
+    "code": {
+      "id": "35215",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.583",
+      "lon": "36.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35119",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كروم العرب",
+      "en": "Kroum El-Aarab",
+      "slug": "kroum-el-aarab-35119"
+    },
+    "code": {
+      "id": "35119",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.556",
+      "lon": "36.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-35001"
+    },
+    "code": {
+      "id": "35001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.632",
+      "lon": "36.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35002",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-35002"
+    },
+    "code": {
+      "id": "35002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.488",
+      "lon": "36.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35003",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-35003"
+    },
+    "code": {
+      "id": "35003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.5",
+      "lon": "36.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35137",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشحة",
+      "en": "Machha",
+      "slug": "machha-35137"
+    },
+    "code": {
+      "id": "35137",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.544",
+      "lon": "36.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35437",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشتى حمود",
+      "en": "Machta Hammoud",
+      "slug": "machta-hammoud-35437"
+    },
+    "code": {
+      "id": "35437",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.632",
+      "lon": "36.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35354",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجدلا",
+      "en": "Majdala",
+      "slug": "majdala-35354"
+    },
+    "code": {
+      "id": "35354",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.501",
+      "lon": "36.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35128",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المجدل عكار",
+      "en": "Majdel Akkar",
+      "slug": "majdel-akkar-35128"
+    },
+    "code": {
+      "id": "35128",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.571",
+      "lon": "36.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35167",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مار توما",
+      "en": "Mar Touma",
+      "slug": "mar-touma-35167"
+    },
+    "code": {
+      "id": "35167",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.514",
+      "lon": "36.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35255",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مار ليا ملحم",
+      "en": "Marlaya Melhem",
+      "slug": "marlaya-melhem-35255"
+    },
+    "code": {
+      "id": "35255",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.54",
+      "lon": "36.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35229",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المسعودية",
+      "en": "Massaaoudiyeh",
+      "slug": "massaaoudiyeh-35229"
+    },
+    "code": {
+      "id": "35229",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.614",
+      "lon": "36.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35516",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "اكروم",
+      "en": "Mazareaa Jabal Akroum",
+      "slug": "mazareaa-jabal-akroum-35516"
+    },
+    "code": {
+      "id": "35516",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.556",
+      "lon": "36.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35134",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت غطاس",
+      "en": "Mazraat Beit Ghattas",
+      "slug": "mazraat-beit-ghattas-35134"
+    },
+    "code": {
+      "id": "35134",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.524",
+      "lon": "36.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35486",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "النهريه",
+      "en": "Mazraat En-Nahriyeh",
+      "slug": "mazraat-en-nahriyeh-35486"
+    },
+    "code": {
+      "id": "35486",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.6",
+      "lon": "36.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35371",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ممنع",
+      "en": "Menneaa",
+      "slug": "menneaa-35371"
+    },
+    "code": {
+      "id": "35371",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.504",
+      "lon": "36.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35277",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المحمرة",
+      "en": "Mhammaret",
+      "slug": "mhammaret-35277"
+    },
+    "code": {
+      "id": "35277",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.506",
+      "lon": "35.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35351",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشمش",
+      "en": "Michmich Aakkar",
+      "slug": "michmich-aakkar-35351"
+    },
+    "code": {
+      "id": "35351",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.446",
+      "lon": "36.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المغراق",
+      "en": "Mighraq Aakkar",
+      "slug": "mighraq-aakkar-35251"
+    },
+    "code": {
+      "id": "35251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.613",
+      "lon": "36.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35129",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "منيارة",
+      "en": "Minyara",
+      "slug": "minyara-35129"
+    },
+    "code": {
+      "id": "35129",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.537",
+      "lon": "36.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35414",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "منجز",
+      "en": "Mounjez",
+      "slug": "mounjez-35414"
+    },
+    "code": {
+      "id": "35414",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.615",
+      "lon": "36.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35261",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المقيطع",
+      "en": "Mqaiteaa",
+      "slug": "mqaiteaa-35261"
+    },
+    "code": {
+      "id": "35261",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.563",
+      "lon": "35.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35451",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مصلا",
+      "en": "Msalla",
+      "slug": "msalla-35451"
+    },
+    "code": {
+      "id": "35451",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.593",
+      "lon": "36.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35461",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزيحمة",
+      "en": "Mzeihmeh",
+      "slug": "mzeihmeh-35461"
+    },
+    "code": {
+      "id": "35461",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.61",
+      "lon": "36.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35115",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "النفيسة",
+      "en": "Nfisseh",
+      "slug": "nfisseh-35115"
+    },
+    "code": {
+      "id": "35115",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.546",
+      "lon": "36.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35445",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نورا التحتا",
+      "en": "Noura Et-Tahta",
+      "slug": "noura-et-tahta-35445"
+    },
+    "code": {
+      "id": "35445",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.624",
+      "lon": "36.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35455",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي الحور",
+      "en": "Ouadi El-Haour",
+      "slug": "ouadi-el-haour-35455"
+    },
+    "code": {
+      "id": "35455",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.61",
+      "lon": "36.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35364",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي الجاموس",
+      "en": "Ouadi El-Jamous",
+      "slug": "ouadi-el-jamous-35364"
+    },
+    "code": {
+      "id": "35364",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.509",
+      "lon": "36.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35233",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قعبرين",
+      "en": "Qaabrine",
+      "slug": "qaabrine-35233"
+    },
+    "code": {
+      "id": "35233",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.569",
+      "lon": "36.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35325",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قبعيت",
+      "en": "Qabaait",
+      "slug": "qabaait-35325"
+    },
+    "code": {
+      "id": "35325",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.454",
+      "lon": "36.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35453",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قشلق",
+      "en": "Qachlaq",
+      "slug": "qachlaq-35453"
+    },
+    "code": {
+      "id": "35453",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.619",
+      "lon": "36.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35135",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القنطرة",
+      "en": "Qantarat Aakkar",
+      "slug": "qantarat-aakkar-35135"
+    },
+    "code": {
+      "id": "35135",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.523",
+      "lon": "36.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35341",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القرقف",
+      "en": "Qardaf",
+      "slug": "qardaf-35341"
+    },
+    "code": {
+      "id": "35341",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.492",
+      "lon": "36.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35518",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرحه عكار",
+      "en": "Qarha Aakkar",
+      "slug": "qarha-aakkar-35518"
+    },
+    "code": {
+      "id": "35518",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.622",
+      "lon": "36.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35487",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القبيات",
+      "en": "Qbaiyat Aakkar",
+      "slug": "qbaiyat-aakkar-35487"
+    },
+    "code": {
+      "id": "35487",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.546",
+      "lon": "36.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35179",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قبولا",
+      "en": "Qboula",
+      "slug": "qboula-35179"
+    },
+    "code": {
+      "id": "35179",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.531",
+      "lon": "36.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35243",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القليعات",
+      "en": "Qleiaat Aakkar",
+      "slug": "qleiaat-aakkar-35243"
+    },
+    "code": {
+      "id": "35243",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.594",
+      "lon": "36.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35317",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قلود الباقية",
+      "en": "Qloud El-Baqieh",
+      "slug": "qloud-el-baqieh-35317"
+    },
+    "code": {
+      "id": "35317",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.497",
+      "lon": "36.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35352",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القرنة",
+      "en": "Qornet Aakkar",
+      "slug": "qornet-aakkar-35352"
+    },
+    "code": {
+      "id": "35352",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.482",
+      "lon": "36.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35269",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قبة شمرا",
+      "en": "Qoubber Chamra",
+      "slug": "qoubber-chamra-35269"
+    },
+    "code": {
+      "id": "35269",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.538",
+      "lon": "35.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35334",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القريات",
+      "en": "Qraiyat",
+      "slug": "qraiyat-35334"
+    },
+    "code": {
+      "id": "35334",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.481",
+      "lon": "36.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35415",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القصير",
+      "en": "Qsair Aakkar",
+      "slug": "qsair-aakkar-35415"
+    },
+    "code": {
+      "id": "35415",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.608",
+      "lon": "36.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35357",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رحبة",
+      "en": "Rahbeh",
+      "slug": "rahbeh-35357"
+    },
+    "code": {
+      "id": "35357",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.502",
+      "lon": "36.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35467",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الريحانية",
+      "en": "Rihaniyet Aakkar",
+      "slug": "rihaniyet-aakkar-35467"
+    },
+    "code": {
+      "id": "35467",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.582",
+      "lon": "36.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35404",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رماح النهريه",
+      "en": "Rmah",
+      "slug": "rmah-35404"
+    },
+    "code": {
+      "id": "35404",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.618",
+      "lon": "36.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35281",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رمول",
+      "en": "Rmoul",
+      "slug": "rmoul-35281"
+    },
+    "code": {
+      "id": "35281",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.574",
+      "lon": "36.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35217",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سعدين",
+      "en": "Saadine",
+      "slug": "saadine-35217"
+    },
+    "code": {
+      "id": "35217",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.602",
+      "lon": "36.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35327",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صدقة",
+      "en": "Sadaqa",
+      "slug": "sadaqa-35327"
+    },
+    "code": {
+      "id": "35327",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.465",
+      "lon": "36.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35469",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "السنديانة",
+      "en": "Saidnaya",
+      "slug": "saidnaya-35469"
+    },
+    "code": {
+      "id": "35469",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.589",
+      "lon": "36.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35271",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "السماقية",
+      "en": "Sammaqiyeh",
+      "slug": "sammaqiyeh-35271"
+    },
+    "code": {
+      "id": "35271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.635",
+      "lon": "36.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35227",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "السمونيه",
+      "en": "Sammouniyeh",
+      "slug": "sammouniyeh-35227"
+    },
+    "code": {
+      "id": "35227",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.569",
+      "lon": "36.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سيسوق",
+      "en": "Sayssouq",
+      "slug": "sayssouq-35311"
+    },
+    "code": {
+      "id": "35311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.486",
+      "lon": "36.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35259",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سمقالي",
+      "en": "Semmaqli",
+      "slug": "semmaqli-35259"
+    },
+    "code": {
+      "id": "35259",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.543",
+      "lon": "36.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35324",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سفينة القيطع",
+      "en": "Sfaynet El-Qaitaa",
+      "slug": "sfaynet-el-qaitaa-35324"
+    },
+    "code": {
+      "id": "35324",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.456",
+      "lon": "36.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35447",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سفينة الدريب",
+      "en": "Sfinet Ed-Draib",
+      "slug": "sfinet-ed-draib-35447"
+    },
+    "code": {
+      "id": "35447",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.577",
+      "lon": "36.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35411",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سنديانة زيدان",
+      "en": "Sindianet Zeidane",
+      "slug": "sindianet-zeidane-35411"
+    },
+    "code": {
+      "id": "35411",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.576",
+      "lon": "36.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35143",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "السويسة",
+      "en": "Souaisset Aakkar",
+      "slug": "souaisset-aakkar-35143"
+    },
+    "code": {
+      "id": "35143",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.556",
+      "lon": "36.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35471",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سرار",
+      "en": "Srar",
+      "slug": "srar-35471"
+    },
+    "code": {
+      "id": "35471",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.617",
+      "lon": "36.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35213",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تل عباس الشرقي",
+      "en": "Tall Aabbas Ech-Charqi",
+      "slug": "tall-aabbas-ech-charqi-35213"
+    },
+    "code": {
+      "id": "35213",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.599",
+      "lon": "36.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تلعباس غربي",
+      "en": "Tall Aabbas El-Gharbi",
+      "slug": "tall-aabbas-el-gharbi-35211"
+    },
+    "code": {
+      "id": "35211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.584",
+      "lon": "36.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35235",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تلبيرة",
+      "en": "Tall Bireh",
+      "slug": "tall-bireh-35235"
+    },
+    "code": {
+      "id": "35235",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.619",
+      "lon": "36.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35237",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تلحميرة",
+      "en": "Tall Hmayra",
+      "slug": "tall-hmayra-35237"
+    },
+    "code": {
+      "id": "35237",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.622",
+      "lon": "36.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35231",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تلمعيان",
+      "en": "Tall Meaayan Tall Kiri",
+      "slug": "tall-meaayan-tall-kiri-35231"
+    },
+    "code": {
+      "id": "35231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.599",
+      "lon": "36.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35247",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تل سبعل",
+      "en": "Tall Sebaal",
+      "slug": "tall-sebaal-35247"
+    },
+    "code": {
+      "id": "35247",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.553",
+      "lon": "36.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35173",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شطاحة",
+      "en": "Tallet Chattaha",
+      "slug": "tallet-chattaha-35173"
+    },
+    "code": {
+      "id": "35173",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.533",
+      "lon": "36.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35171",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تكريت",
+      "en": "Tikrit",
+      "slug": "tikrit-35171"
+    },
+    "code": {
+      "id": "35171",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.515",
+      "lon": "36.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35459",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "التليل",
+      "en": "Tleil",
+      "slug": "tleil-35459"
+    },
+    "code": {
+      "id": "35459",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.596",
+      "lon": "36.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35356",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تاشع",
+      "en": "Tshea",
+      "slug": "tshea-35356"
+    },
+    "code": {
+      "id": "35356",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.498",
+      "lon": "36.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35127",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الزواريب",
+      "en": "Zouarib",
+      "slug": "zouarib-35127"
+    },
+    "code": {
+      "id": "35127",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.534",
+      "lon": "36.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35151",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ذوق الحصينة",
+      "en": "Zouq El Hosniyeh",
+      "slug": "zouq-el-hosniyeh-35151"
+    },
+    "code": {
+      "id": "35151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.522",
+      "lon": "36.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35159",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ذوق حدارة",
+      "en": "Zouq El-Hadara",
+      "slug": "zouq-el-hadara-35159"
+    },
+    "code": {
+      "id": "35159",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.512",
+      "lon": "36.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35153",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ذوق الحبالصة",
+      "en": "Zouq El-Hbalsa",
+      "slug": "zouq-el-hbalsa-35153"
+    },
+    "code": {
+      "id": "35153",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.515",
+      "lon": "36.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35161",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ذوق المقشرين",
+      "en": "Zouq El-Moqachrine",
+      "slug": "zouq-el-moqachrine-35161"
+    },
+    "code": {
+      "id": "35161",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB51",
+      "level": 2,
+      "name": {
+        "local": "عكار",
+        "en": "Akkar",
+        "slug": "akkar-lb51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB7",
+        "level": 1,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb7"
+        }
+      },
+      {
+        "id": "LB51",
+        "level": 2,
+        "name": {
+          "local": "عكار",
+          "en": "Akkar",
+          "slug": "akkar-lb51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.519",
+      "lon": "36.029"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

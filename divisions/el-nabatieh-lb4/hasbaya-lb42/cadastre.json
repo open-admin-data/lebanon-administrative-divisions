@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "74114",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين جرفا",
+      "en": "Aain Jarfa",
+      "slug": "aain-jarfa-74114"
+    },
+    "code": {
+      "id": "74114",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.382",
+      "lon": "35.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74126",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين قنيا",
+      "en": "Aain Qinia",
+      "slug": "aain-qinia-74126"
+    },
+    "code": {
+      "id": "74126",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.398",
+      "lon": "35.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74112",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "أبو قمحة",
+      "en": "Abou Qamha",
+      "slug": "abou-qamha-74112"
+    },
+    "code": {
+      "id": "74112",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.382",
+      "lon": "35.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74155",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برغز",
+      "en": "Bourghos",
+      "slug": "bourghos-74155"
+    },
+    "code": {
+      "id": "74155",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.41",
+      "lon": "35.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74130",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شبعا",
+      "en": "Chebaa",
+      "slug": "chebaa-74130"
+    },
+    "code": {
+      "id": "74130",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.354",
+      "lon": "35.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74124",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شويّا",
+      "en": "Chouaya Hasbaiya",
+      "slug": "chouaya-hasbaiya-74124"
+    },
+    "code": {
+      "id": "74124",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.388",
+      "lon": "35.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74179",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دلافة",
+      "en": "Dellafeh",
+      "slug": "dellafeh-74179"
+    },
+    "code": {
+      "id": "74179",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.425",
+      "lon": "35.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74116",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الفرديس",
+      "en": "Fardis Hasbaiya",
+      "slug": "fardis-hasbaiya-74116"
+    },
+    "code": {
+      "id": "74116",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.367",
+      "lon": "35.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حاصبيّا",
+      "en": "Hasbaiya",
+      "slug": "hasbaiya-74111"
+    },
+    "code": {
+      "id": "74111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.42",
+      "lon": "35.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74122",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "هبّارية",
+      "en": "Hebbariyeh",
+      "slug": "hebbariyeh-74122"
+    },
+    "code": {
+      "id": "74122",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.361",
+      "lon": "35.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74133",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كوكبا حاصبيّا",
+      "en": "Kaoukaba Hasbaiya",
+      "slug": "kaoukaba-hasbaiya-74133"
+    },
+    "code": {
+      "id": "74133",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.393",
+      "lon": "35.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74160",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر شوبا",
+      "en": "Kfar Chouba",
+      "slug": "kfar-chouba-74160"
+    },
+    "code": {
+      "id": "74160",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.321",
+      "lon": "35.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74120",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرحمام",
+      "en": "Kfar Hamam",
+      "slug": "kfar-hamam-74120"
+    },
+    "code": {
+      "id": "74120",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.341",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74175",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفير الزيت",
+      "en": "Kfayr Ez-Zait",
+      "slug": "kfayr-ez-zait-74175"
+    },
+    "code": {
+      "id": "74175",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.44",
+      "lon": "35.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74168",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خلوات حاصبيّا",
+      "en": "Khalouet Hasbaiya",
+      "slug": "khalouet-hasbaiya-74168"
+    },
+    "code": {
+      "id": "74168",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.404",
+      "lon": "35.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74181",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خريبة حاصبيّا",
+      "en": "Khreibet Hasbaiya",
+      "slug": "khreibet-hasbaiya-74181"
+    },
+    "code": {
+      "id": "74181",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.333",
+      "lon": "35.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74177",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجيدية حاصبيا",
+      "en": "Majidiyeh Hasbaiya",
+      "slug": "majidiyeh-hasbaiya-74177"
+    },
+    "code": {
+      "id": "74177",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.29",
+      "lon": "35.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74131",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مرج الزهور الدنيبة",
+      "en": "Marj Ez-Zouhour (Haouch El-Qinnaabeh)",
+      "slug": "marj-ez-zouhour-haouch-el-qinnaabeh-74131"
+    },
+    "code": {
+      "id": "74131",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.466",
+      "lon": "35.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74128",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ميمس",
+      "en": "Meimes",
+      "slug": "meimes-74128"
+    },
+    "code": {
+      "id": "74128",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.435",
+      "lon": "35.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74158",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ماري",
+      "en": "Meri",
+      "slug": "meri-74158"
+    },
+    "code": {
+      "id": "74158",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.316",
+      "lon": "35.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74118",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "راشيّا الفخار",
+      "en": "Rachaiya El-Foukhar",
+      "slug": "rachaiya-el-foukhar-74118"
+    },
+    "code": {
+      "id": "74118",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.35",
+      "lon": "35.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74141",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صلايب",
+      "en": "Salaiyeb",
+      "slug": "salaiyeb-74141"
+    },
+    "code": {
+      "id": "74141",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB42",
+      "level": 2,
+      "name": {
+        "local": "حاصبيا",
+        "en": "Hasbaya",
+        "slug": "hasbaya-lb42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      },
+      {
+        "id": "LB42",
+        "level": 2,
+        "name": {
+          "local": "حاصبيا",
+          "en": "Hasbaya",
+          "slug": "hasbaya-lb42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.284",
+      "lon": "35.629"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

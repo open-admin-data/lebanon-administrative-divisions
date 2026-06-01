@@ -1,0 +1,47 @@
+{
+  "id": "LB42",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "حاصبيا",
+    "en": "Hasbaya",
+    "slug": "hasbaya-lb42"
+  },
+  "code": {
+    "id": "LB42",
+    "iso": null
+  },
+  "parent": {
+    "id": "LB4",
+    "level": 1,
+    "name": {
+      "local": "النبطية",
+      "en": "El Nabatieh",
+      "slug": "el-nabatieh-lb4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LB4",
+      "level": 1,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb4"
+      }
+    }
+  ],
+  "children_count": {
+    "cadastre": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.361",
+    "lon": "35.703"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "LB41",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "بنت جبيل",
+      "en": "Bent Jbeil",
+      "slug": "bent-jbeil-lb41"
+    },
+    "code": {
+      "id": "LB41",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB4",
+      "level": 1,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.183",
+      "lon": "35.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB44",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "النبطية",
+      "en": "El Nabatieh",
+      "slug": "el-nabatieh-lb44"
+    },
+    "code": {
+      "id": "LB44",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB4",
+      "level": 1,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.403",
+      "lon": "35.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB42",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "حاصبيا",
+      "en": "Hasbaya",
+      "slug": "hasbaya-lb42"
+    },
+    "code": {
+      "id": "LB42",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB4",
+      "level": 1,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.361",
+      "lon": "35.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB43",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "مرجعيون",
+      "en": "Marjaayoun",
+      "slug": "marjaayoun-lb43"
+    },
+    "code": {
+      "id": "LB43",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB4",
+      "level": 1,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb4"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB4",
+        "level": 1,
+        "name": {
+          "local": "النبطية",
+          "en": "El Nabatieh",
+          "slug": "el-nabatieh-lb4"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.259",
+      "lon": "35.496"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

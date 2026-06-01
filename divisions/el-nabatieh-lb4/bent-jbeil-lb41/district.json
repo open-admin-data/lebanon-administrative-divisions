@@ -1,0 +1,47 @@
+{
+  "id": "LB41",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "بنت جبيل",
+    "en": "Bent Jbeil",
+    "slug": "bent-jbeil-lb41"
+  },
+  "code": {
+    "id": "LB41",
+    "iso": null
+  },
+  "parent": {
+    "id": "LB4",
+    "level": 1,
+    "name": {
+      "local": "النبطية",
+      "en": "El Nabatieh",
+      "slug": "el-nabatieh-lb4"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LB4",
+      "level": 1,
+      "name": {
+        "local": "النبطية",
+        "en": "El Nabatieh",
+        "slug": "el-nabatieh-lb4"
+      }
+    }
+  ],
+  "children_count": {
+    "cadastre": 38
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.183",
+    "lon": "35.416"
+  },
+  "metadata": {},
+  "source": {}
+}

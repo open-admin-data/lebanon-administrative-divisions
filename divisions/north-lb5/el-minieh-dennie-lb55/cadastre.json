@@ -1,0 +1,3350 @@
+[
+  {
+    "id": "37333",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين التينه المنيه",
+      "en": "Aain Et-Tineh-Miniyeh",
+      "slug": "aain-et-tineh-miniyeh-37333"
+    },
+    "code": {
+      "id": "37333",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.393",
+      "lon": "36.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37362",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عصيموت",
+      "en": "Aasaymout",
+      "slug": "aasaymout-37362"
+    },
+    "code": {
+      "id": "37362",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.44",
+      "lon": "36.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37313",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عاصون",
+      "en": "Aassoun",
+      "slug": "aassoun-37313"
+    },
+    "code": {
+      "id": "37313",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.384",
+      "lon": "36.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37367",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيمر",
+      "en": "Aaymar",
+      "slug": "aaymar-37367"
+    },
+    "code": {
+      "id": "37367",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.353",
+      "lon": "35.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37361",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عزقي",
+      "en": "Aazqai",
+      "slug": "aazqai-37361"
+    },
+    "code": {
+      "id": "37361",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.436",
+      "lon": "35.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37391",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بخعون",
+      "en": "Bakhaaoun",
+      "slug": "bakhaaoun-37391"
+    },
+    "code": {
+      "id": "37391",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.415",
+      "lon": "36.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37379",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بشحارة",
+      "en": "Bechehhara",
+      "slug": "bechehhara-37379"
+    },
+    "code": {
+      "id": "37379",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.36",
+      "lon": "35.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37359",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بشناتا",
+      "en": "Bechnnata",
+      "slug": "bechnnata-37359"
+    },
+    "code": {
+      "id": "37359",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.323",
+      "lon": "36.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37231",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بداوي",
+      "en": "Beddaoui",
+      "slug": "beddaoui-37231"
+    },
+    "code": {
+      "id": "37231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.449",
+      "lon": "35.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37371",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بحويتا",
+      "en": "Behouaita",
+      "slug": "behouaita-37371"
+    },
+    "code": {
+      "id": "37371",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.336",
+      "lon": "35.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37329",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت الفقس",
+      "en": "Beit El-Faqs",
+      "slug": "beit-el-faqs-37329"
+    },
+    "code": {
+      "id": "37329",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.394",
+      "lon": "36.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37357",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت حاويك",
+      "en": "Beit Haouik",
+      "slug": "beit-haouik-37357"
+    },
+    "code": {
+      "id": "37357",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.424",
+      "lon": "36.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37349",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيت زود",
+      "en": "Beit Zoud",
+      "slug": "beit-zoud-37349"
+    },
+    "code": {
+      "id": "37349",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.406",
+      "lon": "35.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "برج اليهودية",
+      "en": "Borj El-Yahoudiyeh",
+      "slug": "borj-el-yahoudiyeh-37251"
+    },
+    "code": {
+      "id": "37251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.459",
+      "lon": "35.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37317",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بقاع صفرين",
+      "en": "Bqaa Sefrine",
+      "slug": "bqaa-sefrine-37317"
+    },
+    "code": {
+      "id": "37317",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.327",
+      "lon": "36.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37319",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بقرصونه",
+      "en": "Bqarsouna",
+      "slug": "bqarsouna-37319"
+    },
+    "code": {
+      "id": "37319",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.374",
+      "lon": "36.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37343",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بطرماز",
+      "en": "Btermaz",
+      "slug": "btermaz-37343"
+    },
+    "code": {
+      "id": "37343",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.429",
+      "lon": "36.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37356",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دبعل المنيه",
+      "en": "Debaael",
+      "slug": "debaael-37356"
+    },
+    "code": {
+      "id": "37356",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.434",
+      "lon": "36.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37241",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير عمار",
+      "en": "Deir Aammar",
+      "slug": "deir-aammar-37241"
+    },
+    "code": {
+      "id": "37241",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.458",
+      "lon": "35.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37377",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير نبوح",
+      "en": "Deir Nbouh",
+      "slug": "deir-nbouh-37377"
+    },
+    "code": {
+      "id": "37377",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.378",
+      "lon": "35.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37355",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حوارة",
+      "en": "Haouaret-Miniyeh",
+      "slug": "haouaret-miniyeh-37355"
+    },
+    "code": {
+      "id": "37355",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.419",
+      "lon": "36.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37327",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حقل العزيمة",
+      "en": "Haql el Aazimeh",
+      "slug": "haql-el-aazimeh-37327"
+    },
+    "code": {
+      "id": "37327",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.398",
+      "lon": "36.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37345",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حرف السياد",
+      "en": "Harf Es-Sayad",
+      "slug": "harf-es-sayad-37345"
+    },
+    "code": {
+      "id": "37345",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.432",
+      "lon": "36.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37321",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حازمية المنيه",
+      "en": "Hazmiyet-Miniyeh",
+      "slug": "hazmiyet-miniyeh-37321"
+    },
+    "code": {
+      "id": "37321",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.392",
+      "lon": "36.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37341",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "إيزال",
+      "en": "Izal",
+      "slug": "izal-37341"
+    },
+    "code": {
+      "id": "37341",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.376",
+      "lon": "35.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37375",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جرجور",
+      "en": "Jarjour",
+      "slug": "jarjour-37375"
+    },
+    "code": {
+      "id": "37375",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.354",
+      "lon": "35.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37358",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جيرون",
+      "en": "Jayroun",
+      "slug": "jayroun-37358"
+    },
+    "code": {
+      "id": "37358",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.409",
+      "lon": "36.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37373",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفَ الملول",
+      "en": "Kahf El-Malloul",
+      "slug": "kahf-el-malloul-37373"
+    },
+    "code": {
+      "id": "37373",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.346",
+      "lon": "35.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37347",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كرم المهر",
+      "en": "Karm El-Mohr",
+      "slug": "karm-el-mohr-37347"
+    },
+    "code": {
+      "id": "37347",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.348",
+      "lon": "36.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37395",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر ببنين",
+      "en": "Kfar Bibnine",
+      "slug": "kfar-bibnine-37395"
+    },
+    "code": {
+      "id": "37395",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.4",
+      "lon": "36.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37363",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر شلان",
+      "en": "Kfar Chellane",
+      "slug": "kfar-chellane-37363"
+    },
+    "code": {
+      "id": "37363",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.424",
+      "lon": "35.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37365",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفر حبو",
+      "en": "Kfar Habou",
+      "slug": "kfar-habou-37365"
+    },
+    "code": {
+      "id": "37365",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.411",
+      "lon": "35.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37335",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خرنوب المنيه",
+      "en": "Kharroub-Miniyeh",
+      "slug": "kharroub-miniyeh-37335"
+    },
+    "code": {
+      "id": "37335",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.403",
+      "lon": "36.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-37001"
+    },
+    "code": {
+      "id": "37001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.412",
+      "lon": "36.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37002",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-37002"
+    },
+    "code": {
+      "id": "37002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.354",
+      "lon": "36.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37003",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-37003"
+    },
+    "code": {
+      "id": "37003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.355",
+      "lon": "35.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37004",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-37004"
+    },
+    "code": {
+      "id": "37004",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.349",
+      "lon": "35.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37005",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-37005"
+    },
+    "code": {
+      "id": "37005",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.345",
+      "lon": "35.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37006",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-37006"
+    },
+    "code": {
+      "id": "37006",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.326",
+      "lon": "36.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37389",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة الكريم",
+      "en": "Mazraat El-Kreme",
+      "slug": "mazraat-el-kreme-37389"
+    },
+    "code": {
+      "id": "37389",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.362",
+      "lon": "35.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37314",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة كتران",
+      "en": "Mazraat Ketrane",
+      "slug": "mazraat-ketrane-37314"
+    },
+    "code": {
+      "id": "37314",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.384",
+      "lon": "36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37381",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مركبتا",
+      "en": "Merkebta",
+      "slug": "merkebta-37381"
+    },
+    "code": {
+      "id": "37381",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.468",
+      "lon": "35.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37325",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "نمرين",
+      "en": "Mimrine",
+      "slug": "mimrine-37325"
+    },
+    "code": {
+      "id": "37325",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.376",
+      "lon": "36.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37271",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "المنيه",
+      "en": "Minie",
+      "slug": "minie-37271"
+    },
+    "code": {
+      "id": "37271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.48",
+      "lon": "35.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37331",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مراح السفيرة",
+      "en": "Mrah Es-Sfire",
+      "slug": "mrah-es-sfire-37331"
+    },
+    "code": {
+      "id": "37331",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.398",
+      "lon": "36.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37351",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مراح السريج",
+      "en": "Mrah Es-Srayj",
+      "slug": "mrah-es-srayj-37351"
+    },
+    "code": {
+      "id": "37351",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.419",
+      "lon": "35.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37385",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مربين",
+      "en": "Mrebbine",
+      "slug": "mrebbine-37385"
+    },
+    "code": {
+      "id": "37385",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.37",
+      "lon": "36.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37261",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "النبي يوشع",
+      "en": "Nabi Youcheaa",
+      "slug": "nabi-youcheaa-37261"
+    },
+    "code": {
+      "id": "37261",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.462",
+      "lon": "35.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37360",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرحيا",
+      "en": "Qarhaiya",
+      "slug": "qarhaiya-37360"
+    },
+    "code": {
+      "id": "37360",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.441",
+      "lon": "36.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37383",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القرن",
+      "en": "Qarne",
+      "slug": "qarne-37383"
+    },
+    "code": {
+      "id": "37383",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.429",
+      "lon": "36.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37339",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرصيتا",
+      "en": "Qarsaita",
+      "slug": "qarsaita-37339"
+    },
+    "code": {
+      "id": "37339",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.387",
+      "lon": "36.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37315",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "القطين المنيه",
+      "en": "Qattineh-Miniyeh",
+      "slug": "qattineh-miniyeh-37315"
+    },
+    "code": {
+      "id": "37315",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.395",
+      "lon": "36.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37344",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قمامين",
+      "en": "Qemmamine",
+      "slug": "qemmamine-37344"
+    },
+    "code": {
+      "id": "37344",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.409",
+      "lon": "36.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37353",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قرين",
+      "en": "Qraine",
+      "slug": "qraine-37353"
+    },
+    "code": {
+      "id": "37353",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.396",
+      "lon": "36.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37382",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "روضه المنيه",
+      "en": "Raouda-Aadoua",
+      "slug": "raouda-aadoua-37382"
+    },
+    "code": {
+      "id": "37382",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.464",
+      "lon": "35.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37281",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ريحانيه المنيه",
+      "en": "Rihaniyet-Miniyeh",
+      "slug": "rihaniyet-miniyeh-37281"
+    },
+    "code": {
+      "id": "37281",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.492",
+      "lon": "35.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37337",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سفيرة",
+      "en": "Sfireh",
+      "slug": "sfireh-37337"
+    },
+    "code": {
+      "id": "37337",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.406",
+      "lon": "36.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سير الضنية",
+      "en": "Sir Ed-Danniyeh",
+      "slug": "sir-ed-danniyeh-37311"
+    },
+    "code": {
+      "id": "37311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.381",
+      "lon": "36.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37323",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "طاران",
+      "en": "Tarane",
+      "slug": "tarane-37323"
+    },
+    "code": {
+      "id": "37323",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.408",
+      "lon": "36.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37387",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تربل المنيه",
+      "en": "Terbol-Miniyeh",
+      "slug": "terbol-miniyeh-37387"
+    },
+    "code": {
+      "id": "37387",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.446",
+      "lon": "35.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37369",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زغرتغرين",
+      "en": "Zaghartaghrine",
+      "slug": "zaghartaghrine-37369"
+    },
+    "code": {
+      "id": "37369",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.358",
+      "lon": "35.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37291",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ذوق بحنين",
+      "en": "Zouq Bhannine",
+      "slug": "zouq-bhannine-37291"
+    },
+    "code": {
+      "id": "37291",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB55",
+      "level": 2,
+      "name": {
+        "local": "المنية الضنية",
+        "en": "El Minieh-Dennie",
+        "slug": "el-minieh-dennie-lb55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB5",
+        "level": 1,
+        "name": {
+          "local": "الشمال",
+          "en": "North",
+          "slug": "north-lb5"
+        }
+      },
+      {
+        "id": "LB55",
+        "level": 2,
+        "name": {
+          "local": "المنية الضنية",
+          "en": "El Minieh-Dennie",
+          "slug": "el-minieh-dennie-lb55"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.496",
+      "lon": "35.959"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

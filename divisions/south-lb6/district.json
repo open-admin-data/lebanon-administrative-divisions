@@ -1,0 +1,143 @@
+[
+  {
+    "id": "LB62",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "جزين",
+      "en": "Jezzine",
+      "slug": "jezzine-lb62"
+    },
+    "code": {
+      "id": "LB62",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB6",
+      "level": 1,
+      "name": {
+        "local": "الجنوب",
+        "en": "South",
+        "slug": "south-lb6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 79
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.474",
+      "lon": "35.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB61",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "صيدا",
+      "en": "Saida",
+      "slug": "saida-lb61"
+    },
+    "code": {
+      "id": "LB61",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB6",
+      "level": 1,
+      "name": {
+        "local": "الجنوب",
+        "en": "South",
+        "slug": "south-lb6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 77
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.454",
+      "lon": "35.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LB63",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "صور",
+      "en": "Sour",
+      "slug": "sour-lb63"
+    },
+    "code": {
+      "id": "LB63",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB6",
+      "level": 1,
+      "name": {
+        "local": "الجنوب",
+        "en": "South",
+        "slug": "south-lb6"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      }
+    ],
+    "children_count": {
+      "cadastre": 75
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.212",
+      "lon": "35.29"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

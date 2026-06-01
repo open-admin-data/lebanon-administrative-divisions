@@ -1,0 +1,4268 @@
+[
+  {
+    "id": "63214",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عين المير إسطبل",
+      "en": "A'ain El-Mir (El Establ)",
+      "slug": "aain-el-mir-el-establ-63214"
+    },
+    "code": {
+      "id": "63214",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.536",
+      "lon": "35.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63311",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عرمتى",
+      "en": "Aaramta",
+      "slug": "aaramta-63311"
+    },
+    "code": {
+      "id": "63311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.457",
+      "lon": "35.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63131",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عاريه",
+      "en": "Aaray",
+      "slug": "aaray-63131"
+    },
+    "code": {
+      "id": "63131",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.564",
+      "lon": "35.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63355",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عيشية",
+      "en": "Aaychiyeh",
+      "slug": "aaychiyeh-63355"
+    },
+    "code": {
+      "id": "63355",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.403",
+      "lon": "35.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63184",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "عازور",
+      "en": "Aazour",
+      "slug": "aazour-63184"
+    },
+    "code": {
+      "id": "63184",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.561",
+      "lon": "35.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63274",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "أنان",
+      "en": "Anane",
+      "slug": "anane-63274"
+    },
+    "code": {
+      "id": "63274",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.563",
+      "lon": "35.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63221",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيصور جزين",
+      "en": "Bayssour Jezzine",
+      "slug": "bayssour-jezzine-63221"
+    },
+    "code": {
+      "id": "63221",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.536",
+      "lon": "35.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63174",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بيبه",
+      "en": "Behbeh",
+      "slug": "behbeh-63174"
+    },
+    "code": {
+      "id": "63174",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.563",
+      "lon": "35.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63144",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بنواتي جزين",
+      "en": "Benouati Jezzine",
+      "slug": "benouati-jezzine-63144"
+    },
+    "code": {
+      "id": "63144",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.576",
+      "lon": "35.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63181",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بحنين",
+      "en": "Bhannine",
+      "slug": "bhannine-63181"
+    },
+    "code": {
+      "id": "63181",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.582",
+      "lon": "35.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63191",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بسري",
+      "en": "Bisri",
+      "slug": "bisri-63191"
+    },
+    "code": {
+      "id": "63191",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.578",
+      "lon": "35.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63124",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بكاسين",
+      "en": "Bkassine",
+      "slug": "bkassine-63124"
+    },
+    "code": {
+      "id": "63124",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.561",
+      "lon": "35.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63385",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بوصلايا",
+      "en": "Bouslaya",
+      "slug": "bouslaya-63385"
+    },
+    "code": {
+      "id": "63385",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.504",
+      "lon": "35.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63151",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "بتدين اللقش",
+      "en": "Btedine El-Leqch",
+      "slug": "btedine-el-leqch-63151"
+    },
+    "code": {
+      "id": "63151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.566",
+      "lon": "35.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63347",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شبيل",
+      "en": "Chbail",
+      "slug": "chbail-63347"
+    },
+    "code": {
+      "id": "63347",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.417",
+      "lon": "35.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63247",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "شواليق جزين",
+      "en": "Choualiq Jezzine",
+      "slug": "choualiq-jezzine-63247"
+    },
+    "code": {
+      "id": "63247",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.552",
+      "lon": "35.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63257",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ضهر الدير",
+      "en": "Dahr Ed-Deir",
+      "slug": "dahr-ed-deir-63257"
+    },
+    "code": {
+      "id": "63257",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.522",
+      "lon": "35.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63284",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دير قطِين",
+      "en": "Deir El Qattine",
+      "slug": "deir-el-qattine-63284"
+    },
+    "code": {
+      "id": "63284",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.532",
+      "lon": "35.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63379",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "دمشقية",
+      "en": "Demachqiyeh",
+      "slug": "demachqiyeh-63379"
+    },
+    "code": {
+      "id": "63379",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.368",
+      "lon": "35.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63141",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "غبَاطية",
+      "en": "Ghabbatiyeh",
+      "slug": "ghabbatiyeh-63141"
+    },
+    "code": {
+      "id": "63141",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.584",
+      "lon": "35.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63171",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الحرف",
+      "en": "Harf Jezzine",
+      "slug": "harf-jezzine-63171"
+    },
+    "code": {
+      "id": "63171",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.578",
+      "lon": "35.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63241",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حسانية",
+      "en": "Hassaniyeh",
+      "slug": "hassaniyeh-63241"
+    },
+    "code": {
+      "id": "63241",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.52",
+      "lon": "35.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63224",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حيتوله",
+      "en": "Haytouleh",
+      "slug": "haytouleh-63224"
+    },
+    "code": {
+      "id": "63224",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.52",
+      "lon": "35.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63137",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حيطورة",
+      "en": "Haytoura",
+      "slug": "haytoura-63137"
+    },
+    "code": {
+      "id": "63137",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.52",
+      "lon": "35.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63281",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حيداب",
+      "en": "Hidab",
+      "slug": "hidab-63281"
+    },
+    "code": {
+      "id": "63281",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.523",
+      "lon": "35.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63127",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "حمصية",
+      "en": "Homsiyeh",
+      "slug": "homsiyeh-63127"
+    },
+    "code": {
+      "id": "63127",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.549",
+      "lon": "35.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63164",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جبل طوره",
+      "en": "Jabal Toura",
+      "slug": "jabal-toura-63164"
+    },
+    "code": {
+      "id": "63164",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.501",
+      "lon": "35.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63375",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "الجرمق",
+      "en": "Jarmaq",
+      "slug": "jarmaq-63375"
+    },
+    "code": {
+      "id": "63375",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.382",
+      "lon": "35.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63261",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جنسنايا",
+      "en": "Jensnaya",
+      "slug": "jensnaya-63261"
+    },
+    "code": {
+      "id": "63261",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.538",
+      "lon": "35.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63294",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جرنايا",
+      "en": "Jernaya",
+      "slug": "jernaya-63294"
+    },
+    "code": {
+      "id": "63294",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.485",
+      "lon": "35.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63111",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "جزين",
+      "en": "Jezzine",
+      "slug": "jezzine-63111"
+    },
+    "code": {
+      "id": "63111",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.534",
+      "lon": "35.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63244",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كرخا",
+      "en": "Karkha",
+      "slug": "karkha-63244"
+    },
+    "code": {
+      "id": "63244",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.565",
+      "lon": "35.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63211",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرفالوس",
+      "en": "Kfar Falous",
+      "slug": "kfar-falous-63211"
+    },
+    "code": {
+      "id": "63211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.547",
+      "lon": "35.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63167",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرحون",
+      "en": "Kfar Houneh",
+      "slug": "kfar-houneh-63167"
+    },
+    "code": {
+      "id": "63167",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.486",
+      "lon": "35.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63267",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "كفرجرا",
+      "en": "Kfar Jarra",
+      "slug": "kfar-jarra-63267"
+    },
+    "code": {
+      "id": "63267",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.547",
+      "lon": "35.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63227",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "لبعا",
+      "en": "Lebaa",
+      "slug": "lebaa-63227"
+    },
+    "code": {
+      "id": "63227",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.55",
+      "lon": "35.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63001",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-63001"
+    },
+    "code": {
+      "id": "63001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.585",
+      "lon": "35.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63002",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-63002"
+    },
+    "code": {
+      "id": "63002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.483",
+      "lon": "35.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63003",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "Litige",
+      "en": "Litige",
+      "slug": "litige-63003"
+    },
+    "code": {
+      "id": "63003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.464",
+      "lon": "35.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63331",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "لويزة جزين",
+      "en": "Louayzet Jezzine",
+      "slug": "louayzet-jezzine-63331"
+    },
+    "code": {
+      "id": "63331",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.465",
+      "lon": "35.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63157",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مشموشة",
+      "en": "Machmoucheh",
+      "slug": "machmoucheh-63157"
+    },
+    "code": {
+      "id": "63157",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.579",
+      "lon": "35.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63371",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "محمودية جزين",
+      "en": "Mahmoudiyeh Jezzine",
+      "slug": "mahmoudiyeh-jezzine-63371"
+    },
+    "code": {
+      "id": "63371",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.386",
+      "lon": "35.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63147",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مكنونية",
+      "en": "Maknounet Jezzine",
+      "slug": "maknounet-jezzine-63147"
+    },
+    "code": {
+      "id": "63147",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.527",
+      "lon": "35.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63359",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "اوزاعية",
+      "en": "Maraat Ouazaiyeh",
+      "slug": "maraat-ouazaiyeh-63359"
+    },
+    "code": {
+      "id": "63359",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.39",
+      "lon": "35.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63323",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة عقماتا",
+      "en": "Mazraat",
+      "slug": "mazraat-63323"
+    },
+    "code": {
+      "id": "63323",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.456",
+      "lon": "35.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63378",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "داريا جزين",
+      "en": "Mazraat Daraya",
+      "slug": "mazraat-daraya-63378"
+    },
+    "code": {
+      "id": "63378",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.461",
+      "lon": "35.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63367",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة العرقوب",
+      "en": "Mazraat El-Aarqoub",
+      "slug": "mazraat-el-aarqoub-63367"
+    },
+    "code": {
+      "id": "63367",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.405",
+      "lon": "35.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63297",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة المطحنة",
+      "en": "Mazraat El-Mathane",
+      "slug": "mazraat-el-mathane-63297"
+    },
+    "code": {
+      "id": "63297",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.579",
+      "lon": "35.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63194",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة الرهبان",
+      "en": "Mazraat Er-Rouhbane",
+      "slug": "mazraat-er-rouhbane-63194"
+    },
+    "code": {
+      "id": "63194",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.488",
+      "lon": "35.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63335",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "خلة خازن",
+      "en": "Mazraat Khallet Khazen",
+      "slug": "mazraat-khallet-khazen-63335"
+    },
+    "code": {
+      "id": "63335",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.425",
+      "lon": "35.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63348",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة لوزيد",
+      "en": "Mazraat Louzid (Louayziyeh)",
+      "slug": "mazraat-louzid-louayziyeh-63348"
+    },
+    "code": {
+      "id": "63348",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.413",
+      "lon": "35.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63339",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قروح",
+      "en": "Mazraat Qrouh",
+      "slug": "mazraat-qrouh-63339"
+    },
+    "code": {
+      "id": "63339",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.43",
+      "lon": "35.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63383",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مزرعة طمره",
+      "en": "Mazraat Tamra",
+      "slug": "mazraat-tamra-63383"
+    },
+    "code": {
+      "id": "63383",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.356",
+      "lon": "35.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63343",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زغرين جزين",
+      "en": "Mazraat Zighrine Jezzine",
+      "slug": "mazraat-zighrine-jezzine-63343"
+    },
+    "code": {
+      "id": "63343",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.423",
+      "lon": "35.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63231",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "محاربية",
+      "en": "Mharbiyeh",
+      "slug": "mharbiyeh-63231"
+    },
+    "code": {
+      "id": "63231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.528",
+      "lon": "35.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63161",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ميدان",
+      "en": "Midane Jezzine",
+      "slug": "midane-jezzine-63161"
+    },
+    "code": {
+      "id": "63161",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.587",
+      "lon": "35.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63254",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مجيدل",
+      "en": "Mjaydel Jezzine",
+      "slug": "mjaydel-jezzine-63254"
+    },
+    "code": {
+      "id": "63254",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.52",
+      "lon": "35.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63315",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مليخ",
+      "en": "Mlikh",
+      "slug": "mlikh-63315"
+    },
+    "code": {
+      "id": "63315",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.472",
+      "lon": "35.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63217",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "مراح الحباس",
+      "en": "Mrah El-Hbasse",
+      "slug": "mrah-el-hbasse-63217"
+    },
+    "code": {
+      "id": "63217",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.549",
+      "lon": "35.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63251",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي بعنقودين",
+      "en": "Ouadi Baanqoudaine",
+      "slug": "ouadi-baanqoudaine-63251"
+    },
+    "code": {
+      "id": "63251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.543",
+      "lon": "35.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63234",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي الليمون",
+      "en": "Ouadi El-Laymoun",
+      "slug": "ouadi-el-laymoun-63234"
+    },
+    "code": {
+      "id": "63234",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.526",
+      "lon": "35.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63363",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وردية",
+      "en": "Ouardiyeh",
+      "slug": "ouardiyeh-63363"
+    },
+    "code": {
+      "id": "63363",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.394",
+      "lon": "35.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63117",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قبع",
+      "en": "Qabaa Jezzine",
+      "slug": "qabaa-jezzine-63117"
+    },
+    "code": {
+      "id": "63117",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.543",
+      "lon": "35.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63327",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قطراني",
+      "en": "Qatrani",
+      "slug": "qatrani-63327"
+    },
+    "code": {
+      "id": "63327",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.442",
+      "lon": "35.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63121",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قيتولي",
+      "en": "Qaytouleh",
+      "slug": "qaytouleh-63121"
+    },
+    "code": {
+      "id": "63121",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.537",
+      "lon": "35.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63291",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "قتالة جزين",
+      "en": "Qtaleh Jezzine",
+      "slug": "qtaleh-jezzine-63291"
+    },
+    "code": {
+      "id": "63291",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.573",
+      "lon": "35.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63319",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ريحانة جزين",
+      "en": "Rihane Jezzine",
+      "slug": "rihane-jezzine-63319"
+    },
+    "code": {
+      "id": "63319",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.436",
+      "lon": "35.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63264",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "ريمات",
+      "en": "Rimat",
+      "slug": "rimat-63264"
+    },
+    "code": {
+      "id": "63264",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.53",
+      "lon": "35.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63277",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "روم",
+      "en": "Roum",
+      "slug": "roum-63277"
+    },
+    "code": {
+      "id": "63277",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.551",
+      "lon": "35.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63154",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "رمانة",
+      "en": "Roummanet",
+      "slug": "roummanet-63154"
+    },
+    "code": {
+      "id": "63154",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.507",
+      "lon": "35.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63134",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صّباح",
+      "en": "Sabbah",
+      "slug": "sabbah-63134"
+    },
+    "code": {
+      "id": "63134",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.567",
+      "lon": "35.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63287",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سنيَا",
+      "en": "Sanaya",
+      "slug": "sanaya-63287"
+    },
+    "code": {
+      "id": "63287",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.513",
+      "lon": "35.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63271",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صيدون",
+      "en": "Saydoun",
+      "slug": "saydoun-63271"
+    },
+    "code": {
+      "id": "63271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.52",
+      "lon": "35.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63351",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سجد",
+      "en": "Sehjoud",
+      "slug": "sehjoud-63351"
+    },
+    "code": {
+      "id": "63351",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.434",
+      "lon": "35.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63237",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "صفاريه",
+      "en": "Sfaray",
+      "slug": "sfaray-63237"
+    },
+    "code": {
+      "id": "63237",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.554",
+      "lon": "35.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63298",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "سريرة",
+      "en": "Srayri",
+      "slug": "srayri-63298"
+    },
+    "code": {
+      "id": "63298",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.429",
+      "lon": "35.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63187",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "تعيد",
+      "en": "Taaid",
+      "slug": "taaid-63187"
+    },
+    "code": {
+      "id": "63187",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.573",
+      "lon": "35.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63114",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "وادي جزين",
+      "en": "Wadi Jezzine",
+      "slug": "wadi-jezzine-63114"
+    },
+    "code": {
+      "id": "63114",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.551",
+      "lon": "35.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63177",
+    "level": 3,
+    "level_name": {
+      "local": "منطقة عقارية",
+      "en": "Cadastre"
+    },
+    "name": {
+      "local": "زحلتا",
+      "en": "Zhilta",
+      "slug": "zhilta-63177"
+    },
+    "code": {
+      "id": "63177",
+      "iso": null
+    },
+    "parent": {
+      "id": "LB62",
+      "level": 2,
+      "name": {
+        "local": "جزين",
+        "en": "Jezzine",
+        "slug": "jezzine-lb62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LB6",
+        "level": 1,
+        "name": {
+          "local": "الجنوب",
+          "en": "South",
+          "slug": "south-lb6"
+        }
+      },
+      {
+        "id": "LB62",
+        "level": 2,
+        "name": {
+          "local": "جزين",
+          "en": "Jezzine",
+          "slug": "jezzine-lb62"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.51",
+      "lon": "35.545"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
