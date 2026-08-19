@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-01 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/lb](https://openadmindata.org/lb/) |
 | API | [openadmindata.org/api/lb](https://openadmindata.org/api/lb/) |
+| National Anthem | [🎵 Listen & Download Lebanon National Anthem MP3](https://onlygames.me/national-anthems/lb/) |
 
 ## Browse by Governorate
 
