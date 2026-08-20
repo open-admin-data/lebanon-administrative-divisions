@@ -3,7 +3,7 @@
 > 3 districts, 144 cadastres
 > Code: LB2
 > Coordinates: 33.64, 35.81
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 

@@ -3,7 +3,7 @@
 > 1 districts, 13 cadastres
 > Code: LB1
 > Coordinates: 33.889, 35.502
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 

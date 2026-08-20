@@ -3,7 +3,7 @@
 > 6 districts, 536 cadastres
 > Code: LB3
 > Coordinates: 33.851, 35.648
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 
