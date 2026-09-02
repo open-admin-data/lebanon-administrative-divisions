@@ -12,10 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-20 |
+| Last Updated | 2026-09-02 |
 | Website | [openadmindata.org/lb](https://openadmindata.org/lb/) |
 | API | [openadmindata.org/api/lb](https://openadmindata.org/api/lb/) |
-| Flag | [PNG](https://onlygames.me/flags-png/lb/) · [SVG](https://onlygames.me/flags-svg/lb/) · [PDF](https://onlygames.me/flags-pdf/lb/) |
+| Flag | [PNG](https://onlygames.me/flags-png/lb/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Lebanon National Anthem MP3](https://onlygames.me/national-anthems/lb/) |
 
 ## Browse by Governorate
@@ -119,3 +119,7 @@ See [CITATION.cff](CITATION.cff) for machine-readable citation.
 - [Open Admin Data](https://openadmindata.org) — Browse, search and explore administrative divisions for every country
 - [open-admin-data](https://github.com/open-admin-data) — GitHub organization with all country repos
 - [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [FreeFlags.org](https://www.freeflags.org) — Free flag images for every country
+- [Flag CDN](https://www.freeflags.org/cdn/) — Hotlink flag images directly
+- [Flag CSS](https://www.freeflags.org/css/) — CSS flag sprites for web projects
+- [Flag Collections](https://www.freeflags.org/collections/) — Curated flag image packs

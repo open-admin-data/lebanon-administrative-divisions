@@ -3,7 +3,7 @@
 > 4 districts, 145 cadastres
 > Code: LB4
 > Coordinates: 33.283, 35.497
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Districts
 

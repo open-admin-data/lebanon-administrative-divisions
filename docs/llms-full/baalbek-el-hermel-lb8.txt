@@ -3,7 +3,7 @@
 > 2 districts, 100 cadastres
 > Code: LB8
 > Coordinates: 34.168, 36.297
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Districts
 
