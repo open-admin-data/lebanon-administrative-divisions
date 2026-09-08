@@ -12,11 +12,12 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-08 |
 | Website | [openadmindata.org/lb](https://openadmindata.org/lb/) |
 | API | [openadmindata.org/api/lb](https://openadmindata.org/api/lb/) |
 | Flag | [PNG](https://onlygames.me/flags-png/lb/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Lebanon National Anthem MP3](https://onlygames.me/national-anthems/lb/) |
+| Statistics | [GDP](https://nationdata.org/gdp/country/lbn) · [Population](https://nationdata.org/population/country/lbn) — via [NationData.org](https://nationdata.org) |
 
 ## Browse by Governorate
 
